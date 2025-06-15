@@ -1,0 +1,35 @@
+[
+  {
+    "pool_address": "0x593f28D003cDE5d7D2C16F589DB6B4Cbbaf95cdD",
+    "pool_name": "USDB / WETH",
+    "project_name": "CyberblastV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x26e367465BED138d04c6E3cdbd86c749389772F2",
+    "pool_name": "WETH / CBR",
+    "project_name": "CyberblastV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "CBR",
+    "token1_address": "0xE070B87c4d88826D4cD1b85BAbE186fdB14CD321",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x0c05355C25a7a621c54e784660703C496AA5B137",
+    "pool_name": "USDB / CBR",
+    "project_name": "CyberblastV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "CBR",
+    "token1_address": "0xE070B87c4d88826D4cD1b85BAbE186fdB14CD321",
+    "token1_decimal": 18
+  }
+]

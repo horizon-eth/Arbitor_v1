@@ -1,0 +1,13 @@
+[
+  {
+    "pool_address": "0xfC1A45DFf40666710A121ac01E6FD01D756fd795",
+    "pool_name": "USDC / WOKB",
+    "project_name": "TitanDEXV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  }
+]

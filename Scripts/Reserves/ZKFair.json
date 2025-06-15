@@ -1,0 +1,167 @@
+{
+  "AbstraDexV2": {
+    "ZKF_WUSDC_POOL": {
+      "address": "0xc8888DaA9d4C0e26A5E3481e0e99cad598fC6bCc",
+      "reserve0": "44650792649407166985339",
+      "reserve1": "56482609055207180392"
+    },
+    "ETH_WUSDC_POOL": {
+      "address": "0x7C26683B2887eEDA346d0717Ddb7aA70F505DF33",
+      "reserve0": "20",
+      "reserve1": "51770"
+    }
+  },
+  "SideSwapV2": {
+    "ZKF_ETH_POOL": {
+      "address": "0xc43794D7D67D1Eeb2d75bd293d8EF7B96502DDE9",
+      "reserve0": "305034837809409566262608",
+      "reserve1": "132211234025780214"
+    },
+    "ZKF_WBTC_POOL": {
+      "address": "0x6c0F1E6B1460F7727380eE2Ef4c89fF1310d9E2f",
+      "reserve0": "2988374108592919547937",
+      "reserve1": "7410"
+    },
+    "ZKF_WUSDC_POOL": {
+      "address": "0xe7c8ffEe19d978Bd31e651fafd057113a30189c4",
+      "reserve0": "18378282020101646943864992",
+      "reserve1": "25730986956106907688647"
+    },
+    "ZKF_USDT_POOL": {
+      "address": "0x69751f6623A9C0ad3BE497685811db3A58926d0b",
+      "reserve0": "817428423232698652050098",
+      "reserve1": "1171147345"
+    },
+    "ZKF_DAI_POOL": {
+      "address": "0x1FE4ab275fF4345E644105318e7A172EdC5C035c",
+      "reserve0": "20075274277051116961",
+      "reserve1": "292922242084494628"
+    },
+    "ZKF_SIDE_POOL": {
+      "address": "0x06e61139FFcfD370Fc486B418ee771567FE4229e",
+      "reserve0": "32116822416994734029829",
+      "reserve1": "796587716116597018125236"
+    },
+    "ZKF_FRS_POOL": {
+      "address": "0x9c58B52a01a469e0ddf131384c7088B66c37a998",
+      "reserve0": "1499870189359660727107395",
+      "reserve1": "981095518186594924183362671"
+    },
+    "ZKF_HPX_POOL": {
+      "address": "0xC50344e83B19ab8ae6B9896732e05a830955EeF6",
+      "reserve0": "223",
+      "reserve1": "4491"
+    },
+    "ETH_WBTC_POOL": {
+      "address": "0xb495341606371b051702D91FD33c967babc38836",
+      "reserve0": "74670621873457988",
+      "reserve1": "376471"
+    },
+    "ETH_WUSDC_POOL": {
+      "address": "0xe0dd622547525b81a53Cc788a88a7f085ea634FE",
+      "reserve0": "1375005028041057515",
+      "reserve1": "4800957743152443553470"
+    },
+    "USDT_ETH_POOL": {
+      "address": "0xBe67D6Db342AB8cbA1bae3A7bEEbC7faD1b09B4C",
+      "reserve0": "351948765",
+      "reserve1": "104515145541965900"
+    },
+    "WBTC_WUSDC_POOL": {
+      "address": "0x8626eF98abB9637a3e4042B1a7Ab2753E0F5343b",
+      "reserve0": "566489",
+      "reserve1": "338979216565880607334"
+    },
+    "USDT_WBTC_POOL": {
+      "address": "0x1c4f78E0cE7F84Ac80ebA3f4074b3bC45a84352D",
+      "reserve0": "151727472",
+      "reserve1": "216685"
+    },
+    "USDT_WUSDC_POOL": {
+      "address": "0x79cAABe653D37e56246d13895b26676cC57cc463",
+      "reserve0": "15779151822",
+      "reserve1": "15196049207898588396412"
+    },
+    "DAI_WUSDC_POOL": {
+      "address": "0x9C9Bf515e33a56930c7B612A0dee34230867015f",
+      "reserve0": "23956267946664375544",
+      "reserve1": "27921253221051170977"
+    },
+    "SIDE_WUSDC_POOL": {
+      "address": "0xcb9F60aA148bf642Db6adde5631797D0a1F5CE56",
+      "reserve0": "53143187779933907374654044",
+      "reserve1": "2817062106794398737100"
+    },
+    "FRS_WUSDC_POOL": {
+      "address": "0xd3A25C1a216210CE15eD6e2551d9Ba263eB0c74F",
+      "reserve0": "33213366912088242123810354",
+      "reserve1": "64481342606450889976"
+    },
+    "HPX_WUSDC_POOL": {
+      "address": "0x1007E82ACd506EB8bBDa06BC0213f9ffd7e529f5",
+      "reserve0": "155267896446703854930650",
+      "reserve1": "11240090940429768485"
+    },
+    "USDT_DAI_POOL": {
+      "address": "0x9fd25F8d76805E6B70c3E47aAAFa946d20B31D69",
+      "reserve0": "48373",
+      "reserve1": "44260082534905851"
+    },
+    "FRS_SIDE_POOL": {
+      "address": "0xD37e572A83869D6B1f1906e4Df1895c15F41fe58",
+      "reserve0": "923086642534146282675521",
+      "reserve1": "31438453459962091210761"
+    }
+  },
+  "ZKFairSwapV2": {
+    "ZKF_WUSDC_POOL": {
+      "address": "0x7D00e77012fbeAd2B298CefD061c25B817DfCD99",
+      "reserve0": "52865524470925873092400",
+      "reserve1": "72932308708410676310"
+    },
+    "ETH_WBTC_POOL": {
+      "address": "0xD8bCE16e0Bc80BF3e97F70F7FF6A5b1D5c83333a",
+      "reserve0": "17284299741055661",
+      "reserve1": "90255"
+    },
+    "WBTC_WUSDC_POOL": {
+      "address": "0xc7bC9a734Fb4452754EAB3DfeD441C3A0458aF4b",
+      "reserve0": "84813",
+      "reserve1": "56048077231490770661"
+    },
+    "USDT_WUSDC_POOL": {
+      "address": "0x2a0274eE63670dCA96e6612f26d089fA37eC64A4",
+      "reserve0": "554967",
+      "reserve1": "596575841362334972"
+    }
+  },
+  "VenuSwapV2": {
+    "ZKF_WUSDC_POOL": {
+      "address": "0x1ED4b941ea37ad767FDd552f5A7115E83d3976AA",
+      "reserve0": "444914777741571264843161",
+      "reserve1": "640275303702945957957"
+    },
+    "ETH_WUSDC_POOL": {
+      "address": "0x57546Bec4caFF105C4c3B58faa9321A100c6e9E6",
+      "reserve0": "192503834065524856",
+      "reserve1": "612634551559552197201"
+    },
+    "USDT_WUSDC_POOL": {
+      "address": "0x8ff45722C6E881706F4c5a363F9666E44133915D",
+      "reserve0": "40516763",
+      "reserve1": "40510804674290430197"
+    }
+  },
+  "FurySwapV2": {
+    "ZKF_WUSDC_POOL": {
+      "address": "0x2cb3A0a53d79Cb785c25a3C9C7dC66365467C8a2",
+      "reserve0": "31133040557335611702",
+      "reserve1": "430487689130390452"
+    },
+    "USDT_WUSDC_POOL": {
+      "address": "0x04007C95933D35DC05BE68FdC310b612A8ED2B4f",
+      "reserve0": "571",
+      "reserve1": "561751207106768"
+    }
+  }
+}

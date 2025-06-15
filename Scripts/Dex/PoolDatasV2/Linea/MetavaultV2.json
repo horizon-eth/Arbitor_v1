@@ -1,0 +1,90 @@
+[
+  {
+    "pool_address": "0x0a700e8a842a86A03abcCD0F535661bA7F0858bF",
+    "pool_name": "USDC / WETH",
+    "project_name": "MetavaultV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x3106f32AF4C7B7B59FA0303277Ed8DA305964813",
+    "pool_name": "USDT / WETH",
+    "project_name": "MetavaultV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x392cFC2D27A9EF38c9e85e7CB256CfD0F334007a",
+    "pool_name": "ezETH / WETH",
+    "project_name": "MetavaultV2",
+    "token0_symbol": "EZETH",
+    "token0_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xE696d6c42a4Cd1dF3A5422569cd4cc04d792AB7b",
+    "pool_name": "WBTC / WETH",
+    "project_name": "MetavaultV2",
+    "token0_symbol": "WBTC",
+    "token0_address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token0_decimal": 8,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7674d89De8af434f3B6b4D15C76ebBB3FBB46Ff6",
+    "pool_name": "MVX / WETH",
+    "project_name": "MetavaultV2",
+    "token0_symbol": "MVX",
+    "token0_address": "0x0018D96C579121a94307249d47F053E2D687b5e7",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x822531Bce0471893EaD44D931Ae994a6161d51BF",
+    "pool_name": "USDC / USDT",
+    "project_name": "MetavaultV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xB2B2cC21f049105D5D4c03AEcd0faba03BBb0f82",
+    "pool_name": "USDC / ezETH",
+    "project_name": "MetavaultV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "EZETH",
+    "token1_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x2468B75Ec0a4f2E91e0EC4cd30f94cB22737342A",
+    "pool_name": "DAI / USDT",
+    "project_name": "MetavaultV2",
+    "token0_symbol": "DAI",
+    "token0_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token0_decimal": 18,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  }
+]

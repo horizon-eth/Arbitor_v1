@@ -1,0 +1,62 @@
+[
+  {
+    "pool_address": "0x12551cf6fF83d0eA62554bbF320a4406834FC1aB",
+    "pool_name": "USDB / WETH",
+    "project_name": "RogueXProtocolV3",
+    "pool_fee": 100,
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xa5807Bec5DC044057Dd5A63f0A78e6D7930bcf25",
+    "pool_name": "USDB / WETH",
+    "project_name": "RogueXProtocolV3",
+    "pool_fee": 500,
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x08915C89c0B0C4096384cc8121c00ef8aD1219Fa",
+    "pool_name": "USDB / WETH",
+    "project_name": "RogueXProtocolV3",
+    "pool_fee": 10000,
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x08f420619f5CcEA607Bfe424dA9ae510b5e56631",
+    "pool_name": "ezETH / WETH",
+    "project_name": "RogueXProtocolV3",
+    "pool_fee": 100,
+    "token0_symbol": "EZETH",
+    "token0_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xA02ea590436Df2C2F81FCD92747BfE569E9E5F63",
+    "pool_name": "ezETH / WETH",
+    "project_name": "RogueXProtocolV3",
+    "pool_fee": 500,
+    "token0_symbol": "EZETH",
+    "token0_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  }
+]

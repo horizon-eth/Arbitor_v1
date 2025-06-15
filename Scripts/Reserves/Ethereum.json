@@ -1,0 +1,169 @@
+{
+  "AntfarmFinanceV2": {
+    "ATF_WETH_1_POOL": {
+      "address": "0x59540C3D75D70CC4cf822C7581B888390Effa92A",
+      "reserve0": "957609638247759973461329",
+      "reserve1": "38095981930112613775"
+    },
+    "ATF_USDC_1_POOL": {
+      "address": "0xa81e5b684A6EBF2E8F9B1f893805542E88E26346",
+      "reserve0": "233111783255829570366012",
+      "reserve1": "31309878063"
+    },
+    "ATF_USDT_1_POOL": {
+      "address": "0x851775f4Db187b7E1Aa06FD1f336B8168195df07",
+      "reserve0": "109672119638588889592751",
+      "reserve1": "15347203182"
+    },
+    "ATF_DAI_1_POOL": {
+      "address": "0xA4ACeF35469fEDaC7076139f139cE0d087e2FA18",
+      "reserve0": "115836668862657820503139",
+      "reserve1": "15877364384584311612419"
+    },
+    "ATF_LUSD_1_POOL": {
+      "address": "0x93598962FbEc8F67A3Fd5DCc467C910170D6A470",
+      "reserve0": "58435725932373213342316",
+      "reserve1": "7855107713660589175873"
+    },
+    "ATF_WBTC_1_POOL": {
+      "address": "0xa8b98504F7889a0608031AfAC1Dab65B48182B77",
+      "reserve0": "94104340344437635123413",
+      "reserve1": "21472651"
+    },
+    "ATF_USDC_10_POOL": {
+      "address": "0x7e0A3c39E069532e13A915dC59833149C3fAb29E",
+      "reserve0": "134707190872019784490185",
+      "reserve1": "20711589212"
+    },
+    "ATF_USDC_25_POOL": {
+      "address": "0x0722f1E83Fb082fbA0E1c9EC5dE980f29e09b43F",
+      "reserve0": "103097643009115586307300",
+      "reserve1": "14154681362"
+    },
+    "ATF_USDC_50_POOL": {
+      "address": "0x5D0eEA78E0FbF178f59FD24bb6512310b0Dd6674",
+      "reserve0": "75090795618867737362226",
+      "reserve1": "7222859372"
+    },
+    "ATF_AGT_1_POOL": {
+      "address": "0xd4DB2e6b207B7540E1e937c147641005D2d5C067",
+      "reserve0": "101499816499530272438393",
+      "reserve1": "437501827614497120693184"
+    },
+    "ATF_AGT_10_POOL": {
+      "address": "0x9222DdEA73ad273E38eF76380Abe8E7D199FB853",
+      "reserve0": "73550409000177664942293",
+      "reserve1": "323670321825977811203283"
+    },
+    "ATF_AGT_25_POOL": {
+      "address": "0x12b4a9bB7Ba8A21772F54C4dc1B3BF53FA28F106",
+      "reserve0": "72328024031045370408728",
+      "reserve1": "229991687082291866115664"
+    },
+    "ATF_AGT_50_POOL": {
+      "address": "0xD962e67308467587cfe2d3DD31E1D98f485c3B19",
+      "reserve0": "184297101472412522407746",
+      "reserve1": "430422049747055443691138"
+    },
+    "ATF_WETH_10_POOL": {
+      "address": "0xD710e7214c382F0B907B3Ec86b69289b6544E9dC",
+      "reserve0": "646022411790876104354528",
+      "reserve1": "26449246912796711136"
+    },
+    "ATF_WETH_25_POOL": {
+      "address": "0x6b4c18439515b0638437684F80600e70BF2C9DAd",
+      "reserve0": "570410071891410416575648",
+      "reserve1": "26772488074280699120"
+    },
+    "ATF_WETH_50_POOL": {
+      "address": "0xAf725a4980AB01DB3299469B874C07803f543fa5",
+      "reserve0": "411507341094182678281829",
+      "reserve1": "23026239744982918778"
+    },
+    "USDC_WETH_1_POOL": {
+      "address": "0xf0a5F01Bf89ec11ED0C394E7495570b05212Fdb9",
+      "reserve0": "1939387",
+      "reserve1": "812617328191536"
+    },
+    "MS_WETH_25_POOL": {
+      "address": "0x2f707Bf99FA57C4e2938f844F9e7250092a251D3",
+      "reserve0": "376312",
+      "reserve1": "3"
+    },
+    "MS_WETH_50_POOL": {
+      "address": "0xf1902353a545bF57e23A691e128DE152199a2C03",
+      "reserve0": "320563",
+      "reserve1": "4"
+    },
+    "ATF_WBTC_10_POOL": {
+      "address": "0xab6d0779a189616E75F7b97A18312Aa8f4d6b214",
+      "reserve0": "53452248383",
+      "reserve1": "1"
+    },
+    "WBTC_WETH_10_POOL": {
+      "address": "0xa7439AA27C9dE65D76A9d8998EBAcb6f3a0bd8B1",
+      "reserve0": "145193260",
+      "reserve1": "28302222832858519633"
+    },
+    "MS_USDC_1_POOL": {
+      "address": "0x3273D1fe1C3a7a71c4E69f4Fb2d5B271Af431C75",
+      "reserve0": "9205746179",
+      "reserve1": "1"
+    },
+    "USDC_WETH_10_POOL": {
+      "address": "0xDe0028620bB53a7a1bF1f9881B3Fb374D06b2d95",
+      "reserve0": "1410457112",
+      "reserve1": "437829383411508188"
+    },
+    "MATIC_USDC_1_POOL": {
+      "address": "0x723529AFA06F6b0FE96b6cebFbD13D5090eb8856",
+      "reserve0": "978300370",
+      "reserve1": "1"
+    },
+    "MATIC_USDC_10_POOL": {
+      "address": "0x64836573D1e0d357966479956c991A65E3BBddD7",
+      "reserve0": "2739665286513945836149",
+      "reserve1": "1700459341"
+    },
+    "DAI_WETH_100_POOL": {
+      "address": "0x51ae87febED1BD3999166eE3Da43800F0AE49344",
+      "reserve0": "105855040171970723919",
+      "reserve1": "111432304580055807"
+    },
+    "USDC_WETH_50_POOL": {
+      "address": "0x2244cC3418a5b48E36A9a83205644e0fe2868fC5",
+      "reserve0": "1",
+      "reserve1": "24835134"
+    },
+    "FTM_WETH_100_POOL": {
+      "address": "0xF51e204F03364dB12E47d1f02EC00c8E4E6D532f",
+      "reserve0": "39587",
+      "reserve1": "26"
+    },
+    "AGT_FTM_100_POOL": {
+      "address": "0x0BB7c8CAbeD51EdB96e2DdD605283eec6Bd16d2f",
+      "reserve0": "1491",
+      "reserve1": "672"
+    },
+    "LUSD_WETH_10_POOL": {
+      "address": "0xf005BD0D2DBc72Dc3f66f24800156E700e7E88AD",
+      "reserve0": "77915603634153639491510",
+      "reserve1": "22674574654672804210"
+    },
+    "DAI_MKR_10_POOL": {
+      "address": "0x0969F3866DFbC20130Dc9cd3735Fb02Ab00c66F9",
+      "reserve0": "12768781105979373851110",
+      "reserve1": "5290038710862575427"
+    },
+    "LINK_WETH_10_POOL": {
+      "address": "0x5a2c88DDc0Dd28cF2c1F9b92e3aDde599F3321Fa",
+      "reserve0": "1065042715457667333074",
+      "reserve1": "4592086433102664375"
+    },
+    "AGT_WETH_10_POOL": {
+      "address": "0x34540A1B2382aCd18705776Bf5fdb3ee17686D5e",
+      "reserve0": "106025962593971346846317",
+      "reserve1": "1332328868378127604"
+    }
+  }
+}

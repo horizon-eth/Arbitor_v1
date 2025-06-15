@@ -1,0 +1,112 @@
+[
+  {
+    "pool_address": "0x7138C6603D371272281E24CE974ad8AA23abccc8",
+    "pool_name": "USDT / WETH",
+    "project_name": "ZkEVMSwapV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x404ae659F793a37D83571F9F024dEa74cd61DF43",
+    "pool_name": "USDT / MATIC",
+    "project_name": "ZkEVMSwapV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "MATIC",
+    "token1_address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xd3510070E4c1246aB43c35B6F8a16D419186aE99",
+    "pool_name": "USDT / USDC",
+    "project_name": "ZkEVMSwapV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xd799cBa6c24231E34b35f48F5d209f4E5eeC02a4",
+    "pool_name": "WETH / MATIC",
+    "project_name": "ZkEVMSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "MATIC",
+    "token1_address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x0718811a2BeF79DD7f3baCc67A13a004bcF8a0B9",
+    "pool_name": "WETH / USDC",
+    "project_name": "ZkEVMSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xc780d2aF58A2D5231838dF10767B10E01A4A1126",
+    "pool_name": "WETH / DAI",
+    "project_name": "ZkEVMSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "DAI",
+    "token1_address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x4c8FC85B0548DC1235FdC3f130C435457e6E5d87",
+    "pool_name": "WETH / WBTC",
+    "project_name": "ZkEVMSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "WBTC",
+    "token1_address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+    "token1_decimal": 8
+  },
+  {
+    "pool_address": "0x6c992c726270c45bDab6DCBbFEf58F03dE266Fd2",
+    "pool_name": "MATIC / USDC",
+    "project_name": "ZkEVMSwapV2",
+    "token0_symbol": "MATIC",
+    "token0_address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xFBCB3d438DFE187fB2a17532166fe33855598814",
+    "pool_name": "MATIC / WBTC",
+    "project_name": "ZkEVMSwapV2",
+    "token0_symbol": "MATIC",
+    "token0_address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+    "token0_decimal": 18,
+    "token1_symbol": "WBTC",
+    "token1_address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+    "token1_decimal": 8
+  },
+  {
+    "pool_address": "0xc83EB7E87AeBAb0D64F5160CdD24d07D14D48fBF",
+    "pool_name": "USDC / DAI",
+    "project_name": "ZkEVMSwapV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token0_decimal": 6,
+    "token1_symbol": "DAI",
+    "token1_address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+    "token1_decimal": 18
+  }
+]

@@ -1,0 +1,178 @@
+{
+  "FraxSwapV2": {
+    "SFRXETH_WFRXETH_POOL": {
+      "address": "0x07412F06DB215A20909C3c29FaA3cC7A48777185",
+      "reserve0": "472668900423559",
+      "reserve1": "516649160557229"
+    },
+    "FXS_WFRXETH_POOL": {
+      "address": "0x922Aa688F879050b2e32a63D764cf4E8B79c3Bdb",
+      "reserve0": "20863986127424930082329",
+      "reserve1": "20495705996446515126"
+    },
+    "FRAX_WFRXETH_POOL": {
+      "address": "0x4527bcEd9d41706D1436507e9a6e354d3FF44ff9",
+      "reserve0": "1616254415519378744578524",
+      "reserve1": "477223295429320640008"
+    },
+    "WFRXETH_SFRAX_POOL": {
+      "address": "0xf8F4aA78316B15d910003CbE855CE1457A242C4c",
+      "reserve0": "1246834396780",
+      "reserve1": "4490019383138694"
+    },
+    "FXD_WFRXETH_POOL": {
+      "address": "0xe1b8969E412a88DDbc65d6453B2Ccb4Dd996ebdc",
+      "reserve0": "209819968223381151536041086",
+      "reserve1": "5139266680486666164"
+    },
+    "RWA_WFRXETH_POOL": {
+      "address": "0x16b7e126a047d67c615188a5B8D669fB45033109",
+      "reserve0": "1637928217834967858708295424",
+      "reserve1": "17645159228872378302"
+    },
+    "KFC_WFRXETH_POOL": {
+      "address": "0xF863fA4e2FB131DeA2C2fc43eD4cF6400CB39747",
+      "reserve0": "7184981518323315381943425089150",
+      "reserve1": "86197222823748961458"
+    },
+    "FXS_SFRXETH_POOL": {
+      "address": "0xCd170C41D9d3da1Ba942211e73fb0891C3FA44F4",
+      "reserve0": "11072609614",
+      "reserve1": "22772846"
+    },
+    "FRAX_SFRXETH_POOL": {
+      "address": "0xEBD293F2173082320d88533316F5964298dE316E",
+      "reserve0": "62135117032157395473898",
+      "reserve1": "16921468079696162546"
+    },
+    "KFC_SFRXETH_POOL": {
+      "address": "0xCeC2f6661d56B136aD2DD65c119d32ae4C95394E",
+      "reserve0": "0",
+      "reserve1": "0"
+    },
+    "FRAX_FPIS_POOL": {
+      "address": "0x78d264E25781f31343352A0f91875B655c79B843",
+      "reserve0": "10644945207158334481749",
+      "reserve1": "10817936825414115199459"
+    },
+    "FRAX_FPI_POOL": {
+      "address": "0x0EFFABede4e31101DE5209096611D073981A817b",
+      "reserve0": "117579461146981363053538",
+      "reserve1": "108385260050538819935621"
+    },
+    "FRAX_FXS_POOL": {
+      "address": "0xb4dA8dA10ffF1F6127ab71395053Aa1d499b503F",
+      "reserve0": "3524983477230868174185722",
+      "reserve1": "1060989420865544067632951"
+    },
+    "FRAX_SFRAX_POOL": {
+      "address": "0x49C790D0EeE5C841817F7a7FB0B90a84cb55E2cA",
+      "reserve0": "661225027668704488",
+      "reserve1": "1555355334362665905"
+    },
+    "USDC_FRAX_POOL": {
+      "address": "0x17b3a995399A113C934C81904367f0195276865d",
+      "reserve0": "165000000",
+      "reserve1": "165000000000000000000"
+    },
+    "RWA_KFC_POOL": {
+      "address": "0x563e973A44be08Ac2fbEb43A6Ea6828480B6d368",
+      "reserve0": "9494431074533304674",
+      "reserve1": "11547666909748403863039"
+    }
+  },
+  "ArchlyV2": {
+    "ARC_WFRXETH_POOL": {
+      "address": "0x51cb81CF0bA5c632a0D043131914f5570B41d30d",
+      "reserve0": "2020138430776416224087510",
+      "reserve1": "95599013157097566"
+    },
+    "ARC_FRAX_POOL": {
+      "address": "0x4679030b19488A68eb0A39dC1590034Ecb2258Dd",
+      "reserve0": "279189560137439553198810",
+      "reserve1": "45254400359590702668"
+    }
+  },
+  "RaExchangeV2": {
+    "FXS_WFRXETH_POOL": {
+      "address": "0x4f66cBd698F1fe6E2692D1De5d758027a5272787",
+      "reserve0": "26770999001159174401651",
+      "reserve1": "26305337013548088330"
+    },
+    "WBTC_WFRXETH_POOL": {
+      "address": "0x59e8F1FDE7C3E49B5b8c9EBFba73216F94F3D992",
+      "reserve0": "256291166",
+      "reserve1": "47513799029718098835"
+    },
+    "FRAX_WFRXETH_POOL": {
+      "address": "0xaa08c24A76a1Ad5DE28BC56B23413D13B8Be6Eeb",
+      "reserve0": "788491352155060286556",
+      "reserve1": "235433471471141505"
+    },
+    "AXLUSDC_WFRXETH_POOL": {
+      "address": "0x976a6DBB41d2D09Dcd0418f83B77ADd521590e2e",
+      "reserve0": "3244848",
+      "reserve1": "938504876360951"
+    },
+    "FXD_WFRXETH_POOL": {
+      "address": "0x28128EbE86De9515e81f3116F39925A3DB9B3B6A",
+      "reserve0": "185937287812392864607276888",
+      "reserve1": "4658431637494623778"
+    },
+    "RWA_WFRXETH_POOL": {
+      "address": "0xF6feF0fF4C7f3B00591CA643AA1843867588ea8D",
+      "reserve0": "411924371140570332150564260",
+      "reserve1": "4447865224949285669"
+    },
+    "KFC_WFRXETH_POOL": {
+      "address": "0xae00e4a580f89Ce0c8A1dcc7d9c19A0FC10C92c0",
+      "reserve0": "11089790053389412226899051181",
+      "reserve1": "134834734793468419"
+    },
+    "AXLUSDC_FPIS_POOL": {
+      "address": "0xd685d55C2216baE6e2030Fdc91f73ba5351Fc26f",
+      "reserve0": "1",
+      "reserve1": "1253679368"
+    },
+    "WBTC_FXS_POOL": {
+      "address": "0x44b6ae728ccC5dD1D5556bC9c7a1654061964950",
+      "reserve0": "1",
+      "reserve1": "1286807154558"
+    },
+    "AXLUSDC_FXS_POOL": {
+      "address": "0xb3d0554DE5670eda9B3dBE2Ce0A26390c1BF9432",
+      "reserve0": "1",
+      "reserve1": "458553822"
+    },
+    "WBTC_FRAX_POOL": {
+      "address": "0x2010dD6089082463c13Af7a715D68cfd9AbfAD03",
+      "reserve0": "5399765",
+      "reserve1": "3339184101416354918613"
+    },
+    "AXLUSDC_FRAX_POOL": {
+      "address": "0xCA833aa82df5e04353Fe8f0f7f8ae537Fe1FBa01",
+      "reserve0": "1",
+      "reserve1": "1000000000"
+    },
+    "RWA_FRAX_POOL": {
+      "address": "0xCE2b994B4f0B5D84d1B9e7aCB6De15042D6aeCaF",
+      "reserve0": "141486795919068740988230508",
+      "reserve1": "5086451906072824490039"
+    },
+    "SQUID_RWA_POOL": {
+      "address": "0xE317706A4b3078d9bf75a68f3c1dB909B9D2322D",
+      "reserve0": "95",
+      "reserve1": "10612"
+    },
+    "KFC_FXD_POOL": {
+      "address": "0x7a40eb6C3D503B91dDc537946CBCFD7ef11D78e9",
+      "reserve0": "22258",
+      "reserve1": "48"
+    },
+    "RWA_KFC_POOL": {
+      "address": "0xdFC93838Ba2F9C8311998AE061F055CD50BA4bea",
+      "reserve0": "10693128962237635523301",
+      "reserve1": "10961740447033073838832472"
+    }
+  }
+}

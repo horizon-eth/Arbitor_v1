@@ -1,0 +1,167 @@
+[
+  {
+    "pool_address": "0xFB57c98d0a9Bd50c3a01862e47190a87426b28BB",
+    "pool_name": "USDB / WETH",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x413A1Cdb8019a0729e6949412f4cAd67faEEbe53",
+    "pool_name": "KAP / WETH",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "KAP",
+    "token0_address": "0x15d24de366F69b835Be19f7Cf9447e770315DD80",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xCe5f294d5c591e6296D950D593BD58E65D05cF89",
+    "pool_name": "WETH / BND",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "BND",
+    "token1_address": "0xD71035849D2fBA67533bF50900a3E8B684ac1B42",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x3ed7B2F1040319d182d44B5F2C9642d91bcB9D33",
+    "pool_name": "BINU / WETH",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "BINU",
+    "token0_address": "0x34050224F9eA1859790b7CBBBe2264f1204771A6",
+    "token0_decimal": 9,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x025B4215a5d415f0caB61d19C51Ef2A0C874536D",
+    "pool_name": "WETH / HYPE",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "HYPE",
+    "token1_address": "0x9FE9991dAF6b9a5d79280F48cbb6827D46DE2EA4",
+    "token1_decimal": 9
+  },
+  {
+    "pool_address": "0xbeBF7905763e2b7cd69708e16d2e365f94E710a5",
+    "pool_name": "HOG / WETH",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "HOG",
+    "token0_address": "0x3120779b270cF11126940FB104eFee40AAd985D9",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x07337d5F44ED31408a0D5D6DD96A9CBe08Cf6f43",
+    "pool_name": "HOG / BLAST",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "HOG",
+    "token0_address": "0x3120779b270cF11126940FB104eFee40AAd985D9",
+    "token0_decimal": 18,
+    "token1_symbol": "BLAST",
+    "token1_address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xCC0213AC6299f8e25aCE107E2bA936b3DAfA9881",
+    "pool_name": "HOG / PAC",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "HOG",
+    "token0_address": "0x3120779b270cF11126940FB104eFee40AAd985D9",
+    "token0_decimal": 18,
+    "token1_symbol": "PAC",
+    "token1_address": "0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x0A0d6485b120652463736ba02Af9D1010Fce4c78",
+    "pool_name": "USDB / HYPE",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "HYPE",
+    "token1_address": "0x9FE9991dAF6b9a5d79280F48cbb6827D46DE2EA4",
+    "token1_decimal": 9
+  },
+  {
+    "pool_address": "0x33CD6F75839d5e6B4e5DF3b68Ab2c10026f5691d",
+    "pool_name": "HOG / USDB",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "HOG",
+    "token0_address": "0x3120779b270cF11126940FB104eFee40AAd985D9",
+    "token0_decimal": 18,
+    "token1_symbol": "USDB",
+    "token1_address": "0x4300000000000000000000000000000000000003",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xC657EA15619B91c0712795CBa727d6338380441E",
+    "pool_name": "HOG / ANDY",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "HOG",
+    "token0_address": "0x3120779b270cF11126940FB104eFee40AAd985D9",
+    "token0_decimal": 18,
+    "token1_symbol": "ANDY",
+    "token1_address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
+    "token1_decimal": 9
+  },
+  {
+    "pool_address": "0x5dd1B2c677FB0065d35D91033d69eD47f7e9bf84",
+    "pool_name": "HOG / WBTC",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "HOG",
+    "token0_address": "0x3120779b270cF11126940FB104eFee40AAd985D9",
+    "token0_decimal": 18,
+    "token1_symbol": "WBTC",
+    "token1_address": "0xF7bc58b8D8f97ADC129cfC4c9f45Ce3C0E1D2692",
+    "token1_decimal": 8
+  },
+  {
+    "pool_address": "0x93dD34A5A1E09414b2e1E0F63e31c49E54C0085f",
+    "pool_name": "HOG / OFF",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "HOG",
+    "token0_address": "0x3120779b270cF11126940FB104eFee40AAd985D9",
+    "token0_decimal": 18,
+    "token1_symbol": "OFF",
+    "token1_address": "0xD55eDfc79c0d14084260D16f38BdA75e28AbFb6A",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7f09A2B6ab2201cbcB156289F8aE130AA7c3C128",
+    "pool_name": "PEPE / HOG",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "PEPE",
+    "token0_address": "0x2A4e89dffb7960b8D09da58A6d04f7916069E6f3",
+    "token0_decimal": 18,
+    "token1_symbol": "HOG",
+    "token1_address": "0x3120779b270cF11126940FB104eFee40AAd985D9",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xfD3a559d060FDB051b7a911af3b9703Ba9804B75",
+    "pool_name": "HOG / HYPE",
+    "project_name": "HyperBlastV2",
+    "token0_symbol": "HOG",
+    "token0_address": "0x3120779b270cF11126940FB104eFee40AAd985D9",
+    "token0_decimal": 18,
+    "token1_symbol": "HYPE",
+    "token1_address": "0x9FE9991dAF6b9a5d79280F48cbb6827D46DE2EA4",
+    "token1_decimal": 9
+  }
+]

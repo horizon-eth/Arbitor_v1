@@ -1,0 +1,225 @@
+{
+  "FraxswapV2": {
+    "FRAX_FXS_POOL": {
+      "address": "0xb4dA8dA10ffF1F6127ab71395053Aa1d499b503F",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FRAX_WFRXETH_POOL": {
+      "address": "0x4527bcEd9d41706D1436507e9a6e354d3FF44ff9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FRAX_SFRXETH_POOL": {
+      "address": "0xEBD293F2173082320d88533316F5964298dE316E",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FRAX_FPI_POOL": {
+      "address": "0x0EFFABede4e31101DE5209096611D073981A817b",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FRAX_SFRAX_POOL": {
+      "address": "0x49C790D0EeE5C841817F7a7FB0B90a84cb55E2cA",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_FRAX_POOL": {
+      "address": "0x17b3a995399A113C934C81904367f0195276865d",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FRAX_FPIS_POOL": {
+      "address": "0x78d264E25781f31343352A0f91875B655c79B843",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FXS_WFRXETH_POOL": {
+      "address": "0x922Aa688F879050b2e32a63D764cf4E8B79c3Bdb",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FXS_SFRXETH_POOL": {
+      "address": "0xCd170C41D9d3da1Ba942211e73fb0891C3FA44F4",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_FXS_POOL": {
+      "address": "0xCfbB241bcc694673E7A2397952474f960648f273",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FXS_FPIS_POOL": {
+      "address": "0x4915218D9069fc0C40ce6F4c76a39e12F4a87162",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "SFRXETH_WFRXETH_POOL": {
+      "address": "0x07412F06DB215A20909C3c29FaA3cC7A48777185",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WETH_WFRXETH_POOL": {
+      "address": "0x652EBa04c576436765f641739f92475Af7Fc0b1a",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FPI_WFRXETH_POOL": {
+      "address": "0x0D578A04f385F471B7A4772B9153791246C2ECDb",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WFRXETH_SFRAX_POOL": {
+      "address": "0xf8F4aA78316B15d910003CbE855CE1457A242C4c",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_WFRXETH_POOL": {
+      "address": "0x2CdF13021Ea886272505d363E69bA46386e2AD9d",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "KFC_WFRXETH_POOL": {
+      "address": "0xF863fA4e2FB131DeA2C2fc43eD4cF6400CB39747",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FXD_WFRXETH_POOL": {
+      "address": "0xe1b8969E412a88DDbc65d6453B2Ccb4Dd996ebdc",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FPIS_WFRXETH_POOL": {
+      "address": "0x8d38aE489ea2c86E8835dD7DF565b23e2C538b93",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FPI_SFRXETH_POOL": {
+      "address": "0x44e9F95eaC04956A6c5e0BeB50a8c5D99a0C8738",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_SFRXETH_POOL": {
+      "address": "0xe6522a0401BA50b441472ec23D572AaA22dD0841",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "KFC_SFRXETH_POOL": {
+      "address": "0xCeC2f6661d56B136aD2DD65c119d32ae4C95394E",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FPIS_SFRXETH_POOL": {
+      "address": "0x920833390d667169484F843237B0eA7Eb9BEeDc6",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_FPI_POOL": {
+      "address": "0x461d5eD42aFBe2AFa59eB369b7D7Cc0c4df4a45c",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FPI_FPIS_POOL": {
+      "address": "0xCB1047e68590d9Ea2E9c0711fE9ab5D871788fc0",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_SFRAX_POOL": {
+      "address": "0x0596fF12C631061EF2A918bc4694e0b743E80ea6",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FPIS_SFRAX_POOL": {
+      "address": "0x1Dc8E49DfFb7B57B8C250663a7e1421Cc94dB4FD",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_FPIS_POOL": {
+      "address": "0x1110633278611Db3070532167d0c74daA7b542d7",
+      "reserve0": "777",
+      "reserve1": "777"
+    }
+  },
+  "RaExchangeV2": {
+    "FRAX_FXS_POOL": {
+      "address": "0xfBafbCa6e3179bf37fC2Ab8a2e32e4e6500A78a5",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FRAX_WFRXETH_POOL": {
+      "address": "0xaa08c24A76a1Ad5DE28BC56B23413D13B8Be6Eeb",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_FRAX_POOL": {
+      "address": "0x96E2b565cbAcC9ff1584e73b0e08a3066E0b9d55",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AXLUSDC_FRAX_POOL": {
+      "address": "0xCA833aa82df5e04353Fe8f0f7f8ae537Fe1FBa01",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FXS_WFRXETH_POOL": {
+      "address": "0x4f66cBd698F1fe6E2692D1De5d758027a5272787",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AXLUSDC_FXS_POOL": {
+      "address": "0xb3d0554DE5670eda9B3dBE2Ce0A26390c1BF9432",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AXLUSDC_WFRXETH_POOL": {
+      "address": "0x976a6DBB41d2D09Dcd0418f83B77ADd521590e2e",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "KFC_WFRXETH_POOL": {
+      "address": "0xae00e4a580f89Ce0c8A1dcc7d9c19A0FC10C92c0",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FXD_WFRXETH_POOL": {
+      "address": "0x28128EbE86De9515e81f3116F39925A3DB9B3B6A",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "CRV_WFRXETH_POOL": {
+      "address": "0x3b4ea1782931a20517af6474609fb16AC8cb44e6",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AXLUSDC_FRXETH_POOL": {
+      "address": "0x0d0b4332B8E552Aa14B3CDf41dcFfDb31D473a45",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AXLUSDC_FPIS_POOL": {
+      "address": "0xd685d55C2216baE6e2030Fdc91f73ba5351Fc26f",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "KFC_FXD_POOL": {
+      "address": "0x7a40eb6C3D503B91dDc537946CBCFD7ef11D78e9",
+      "reserve0": "777",
+      "reserve1": "777"
+    }
+  },
+  "BalancerV2": {
+    "SFRXETH_SFRAX_0_0005_POOL": {
+      "address": "0x1570315476480fA80ceC1FFF07A20c1df1aDfD53",
+      "reserve0": "777",
+      "reserve1": "777",
+      "poolId": "0x1570315476480fa80cec1fff07a20c1df1adfd53000200000000000000000009"
+    },
+    "USDC_WFRXETH_0_0025_POOL": {
+      "address": "0xAf125dc597aeAc3d3f9f467584275bFAa8B9c08d",
+      "reserve0": "777",
+      "reserve1": "777",
+      "poolId": "0xaf125dc597aeac3d3f9f467584275bfaa8b9c08d000200000000000000000004"
+    }
+  }
+}

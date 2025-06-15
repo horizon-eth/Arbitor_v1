@@ -1,0 +1,36 @@
+{
+  "RaExchangeV3": {
+    "FRAX_WFRXETH_0_01_POOL": {
+      "address": "0xA9950AaeC03BE7dd27b80DB7A282c366716E1752",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "FRAX_FPI_0_0025_POOL": {
+      "address": "0x6B3bBdeB4ED313bb65fD9A8076721526ce5B4C6d",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "AXLUSDC_FRAX_0_0001_POOL": {
+      "address": "0x52992f0ca147F25cBA0B727F281848220F6d4c24",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "FRXETH_WFRXETH_0_0001_POOL": {
+      "address": "0x25009F9B0aA05A8fa011d6399Fb3D31Bc64C1D59",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    }
+  }
+}

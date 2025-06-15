@@ -1,0 +1,132 @@
+{
+  "Blast": {
+    "ThrusterV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "FenixFinanceV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "BlasterswapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "UniswapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "MonoSwapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "RogueXProtocolV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "CyberblastV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "SushiSwapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "DackieSwapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "BlasterDEXV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    }
+  },
+  "Linea": {
+    "NILEV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "LynexV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "PancakeswapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "OkuTradeV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "SushiswapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "SectaFinanceV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "LineHubV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "MetavaultV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "EchoDexV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "ElkFinanceV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    }
+  },
+  "PolygonzkEVM": {
+    "PancakeswapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "QuickswapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "QuickswapUniV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "DoveSwapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "SushiswapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    }
+  },
+  "XLayer": {
+    "QuickSwapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "StationDEXV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "DackieSwapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    },
+    "RevoswapV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    }
+  },
+  "Fraxtal": {
+    "RaExchangeV3": {
+      "quoterAddress": "0xQuoterAddress",
+      "quoterVersion": 1234
+    }
+  }
+}

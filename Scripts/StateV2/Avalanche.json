@@ -1,0 +1,1312 @@
+{
+  "PangolinV2": {
+    "WAVAX_USDC_POOL": {
+      "address": "0x0e0100Ab771E9288e0Aa97e11557E6654C3a9665",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "BTC_WAVAX_POOL": {
+      "address": "0x142abd25B0586A8A4a67127d020d4F97F0f12021",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDT_WAVAX_POOL": {
+      "address": "0xe3bA3d5e3F98eefF5e9EDdD5Bd20E476202770da",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WETH_WAVAX_POOL": {
+      "address": "0x7c05d54fc5CB6e4Ad87c6f5db3b807C94bB89c52",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "SAVAX_WAVAX_POOL": {
+      "address": "0x4E9A38F05c38106C1cf5c145Df24959ec50ff70D",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "QI_WAVAX_POOL": {
+      "address": "0xE530dC2095Ef5653205CF5ea79F8979a7028065c",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "NOCHILL_WAVAX_POOL": {
+      "address": "0x5Bd7Ba4BFc6eBd9Ba39445F2057bAAd8E9b28a01",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_WAVAX_POOL": {
+      "address": "0xbd918Ed441767fe7924e99F6a0E0B568ac1970D9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "TECH_WAVAX_POOL": {
+      "address": "0x98431517B5f581F7CcfEA54B1Cc71B89ECc5A5f9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "COQ_WAVAX_POOL": {
+      "address": "0xc4D6309D1a68685B67de637489C0091024C7fA4F",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_FRAX_POOL": {
+      "address": "0x0CE543c0f81ac9AAa665cCaAe5EeC70861a6b559",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "KIMBO_WAVAX_POOL": {
+      "address": "0xfb0162ff91356aa79AB0CC702A04F280bDEf8c8C",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_ART_POOL": {
+      "address": "0xb0009fa8971fa293c5997f60CDc52D8bAaAd5525",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WBTC_WAVAX_POOL": {
+      "address": "0x5764b8D8039C6E32f1e5d8DE8Da05DdF974EF5D3",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_AXEN_POOL": {
+      "address": "0x00E9D3B3a84f416DFb37F51bFFa819F21d1a06a6",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "HUSKY_WAVAX_POOL": {
+      "address": "0xd05e435Ae8D33faE82E8A9E79b28aaFFb54c1751",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_DAI_POOL": {
+      "address": "0xbA09679Ab223C6bdaf44D45Ba2d7279959289AB0",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_XAVA_POOL": {
+      "address": "0x42152bDD72dE8d6767FE3B4E17a221D6985E8B25",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_USDT_POOL": {
+      "address": "0x9EE0a4E21bd333a6bb2ab298194320b8DaA26516",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_CLY_POOL": {
+      "address": "0x997B92C4c9d3023C11A937eC322063D952337236",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_SHRAP_POOL": {
+      "address": "0xb8e84E5103eEfFaf1D08654B21db038E18AD75d0",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "JOE_WAVAX_POOL": {
+      "address": "0x134Ad631337E8Bf7E01bA641fB650070a2e0efa8",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "MONEY_WAVAX_POOL": {
+      "address": "0x3e58e8D1c403c353f6cFe8b9582bB17bD7f433f3",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_MORE_POOL": {
+      "address": "0x5380Aa5aa182Ae3b581B365d2AD73C52450ACfFD",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_YYAVAX_POOL": {
+      "address": "0xe14643728d6607A28453A787f709Af24dd43B97d",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_WAVAX_POOL": {
+      "address": "0xd7538cABBf8605BdE1f4901B47B8D42c61DE0367",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ROCO_WAVAX_POOL": {
+      "address": "0x4a2cB99e8d91f82Cf10Fb97D43745A1f23e47caA",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FITFI_WAVAX_POOL": {
+      "address": "0x1bB665942381FB2E67c4dCCb04E6CfE7f130E93C",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "YAK_WAVAX_POOL": {
+      "address": "0xd2F01cd87A43962fD93C21e07c1a420714Cc94C9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AMPL_WAVAX_POOL": {
+      "address": "0xe36AE366692AcBf696715b6bDDCe0938398Dd991",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LINK_WAVAX_POOL": {
+      "address": "0x5875c368Cddd5FB9Bf2f410666ca5aad236DAbD4",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "KLO_WAVAX_POOL": {
+      "address": "0x6745d7F9289d7d75B5121876B1b9D8DA775c9a3E",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "TRYB_WAVAX_POOL": {
+      "address": "0x6b41673fEff1bf0b55Ba2C9F4bf213b2bE8F474D",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ODDZ_WAVAX_POOL": {
+      "address": "0xBAe8Ee2D95Aa5c68Fe8373Cd0208227E94075D5d",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AVAI_WAVAX_POOL": {
+      "address": "0x6CbfB991986EbbBc91Bf21CeaA3cBf1BD82469cf",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "KOVIN_WAVAX_POOL": {
+      "address": "0xec779d4f0755Fb9835c679fDC3827e4718B71DB7",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "CNR_WAVAX_POOL": {
+      "address": "0xC04dE3796716ae5A6788b75DC0d4a1ecE06092d9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "B4FWX_WAVAX_POOL": {
+      "address": "0xa0833B516422eB7bE894a61390136Be78B133acE",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "YAY_WAVAX_POOL": {
+      "address": "0x04D80d453033450703E3DC2d0C1e0C0281c42D81",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "MIM_WAVAX_POOL": {
+      "address": "0x239aAE4AaBB5D60941D7DFFAeaFE8e063C63Ab25",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "VEE_WAVAX_POOL": {
+      "address": "0xd69De4d5FF6778b59Ff504d7d09327B73344Ff10",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AAVE_WAVAX_POOL": {
+      "address": "0x5944f135e4F1E3fA2E5550d4B5170783868cc4fE",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LYD_WAVAX_POOL": {
+      "address": "0x87B1Cf8f0Fd3e0243043642Cea7164a67Cb67E4d",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ZEE_WAVAX_POOL": {
+      "address": "0xcf0Ea867f202Ae4eBD35bF5e6e9E679C18CeF5EC",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ZOO_WAVAX_POOL": {
+      "address": "0x97bD1EB9B32a991b1c4F27A537F3253cEB6051EB",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_PEFI_POOL": {
+      "address": "0x494Dd9f783dAF777D3fb4303da4de795953592d0",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LOST_WAVAX_POOL": {
+      "address": "0x8461681211B49c15e20B3Cfd4c63BE258878B7D9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AYIELD_WAVAX_POOL": {
+      "address": "0xa8bfFe10a9De3821f397D213b44E2cd685f676E1",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_UST_POOL": {
+      "address": "0x9D563afF8B0017868DbA57eB3E04298C157d0aF5",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "BALLN_WAVAX_POOL": {
+      "address": "0x6b16a343526a7057BD4e3f211F72311a2a662073",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FXS_WAVAX_POOL": {
+      "address": "0x86814AA25B3E2bD15FF7500c907A86f90b8109CE",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "VPND_WAVAX_POOL": {
+      "address": "0x72B0940D8e46d77fEDc023C69b0c086378c6bb6b",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_KACY_POOL": {
+      "address": "0x1938cE0E14dD71caab96F52dF3F49b1D1DAF8861",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_ETH_POOL": {
+      "address": "0x1aCf1583bEBdCA21C8025E172D8E8f2817343d65",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WMEMO_WAVAX_POOL": {
+      "address": "0x1F275Bd24c7837496064b2529F81D6F381Ad275a",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "SUSHI_WAVAX_POOL": {
+      "address": "0xd8B262C0676E13100B33590F10564b46eeF652AD",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_MU_POOL": {
+      "address": "0x7ad0e4d55f849C4f2E28B2485B25b72de93E9196",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_TIME_POOL": {
+      "address": "0x2F151656065E1d1bE83BD5b6F5e7509b59e6512D",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "MEMO_WAVAX_POOL": {
+      "address": "0x47dD92b2Dc3575c303FB6f4C767C24f29D5DA38B",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "HCT_WAVAX_POOL": {
+      "address": "0x0B1efd689eBA7E610955d0FaBd9Ab713a04c3895",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "MEOW_WAVAX_POOL": {
+      "address": "0x0871666eb93C5B655ee72b614A2E0b6C715df44f",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WET_WAVAX_POOL": {
+      "address": "0xb714d14EE6b5b194644E206c2342B8D95efb6379",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "GMX_WAVAX_POOL": {
+      "address": "0x2eD92ba5E289F66a425460D8Ba41Fd835a575fB9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "SLOT_WAVAX_POOL": {
+      "address": "0x17E4EaB2C257eD1383ce8C545a2c80f172Ef5074",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FTOMB_WAVAX_POOL": {
+      "address": "0x4be1873AfC3f2e4A4E69e9F797106748792e308f",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "YTS_WAVAX_POOL": {
+      "address": "0x363D093d419093998C06a4f422D73A43156d7f3e",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "STATIK_WAVAX_POOL": {
+      "address": "0xC99e7C5a2D0ca33175Af094F508d06b90324d491",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "BNB_WAVAX_POOL": {
+      "address": "0xF776Ef63c2E7A81d03e2c67673fd5dcf53231A3f",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "BTC_USDC_POOL": {
+      "address": "0x55E01CeF5606198d1c23f8d463f69d947f998De5",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDT_USDC_POOL": {
+      "address": "0xD0E665a16550f59d535dF6Cd929ec0AB0f40684F",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WETH_USDC_POOL": {
+      "address": "0xD3C14566bbA068Ec07F8cC768eC65614f71d49Dc",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_USDC_POOL": {
+      "address": "0x8a9c36BC3CEd5ECce703A4dA8032218Dfe72fE86",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WBTC_USDC_POOL": {
+      "address": "0x2D8d5a8d1F82B28A6f50674802E39E7bDad466A4",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_DAI_POOL": {
+      "address": "0x221Caccd55F16B5176e14C0e9DBaF9C6807c83c9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_USDT_POOL": {
+      "address": "0x147124581C39C7CaC8235E1F2d9883a3b0eddd08",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "JOE_USDC_POOL": {
+      "address": "0xF77F6Ba8D910e937598110c92A0599E19446BC74",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_USDC_POOL": {
+      "address": "0xC33Ac18900b2f63DFb60B554B1F53Cd5b474d4cd",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "YAK_USDC_POOL": {
+      "address": "0xd9BF8b0AE36F31f27e6beB1D187F4fbb68da2754",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AMPL_USDC_POOL": {
+      "address": "0xE7141D7bf1cddBB17b89d857f5A1AC0b74B23eda",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "CNR_USDC_POOL": {
+      "address": "0xcD359C9e6FB8D8098De37363107101616AF44Ad0",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "B4FWX_USDC_POOL": {
+      "address": "0xa5EeA8cfD77d5d4F9c803EE472A6dd8FCD1287c8",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "MIM_USDC_POOL": {
+      "address": "0xE75eD6E50e3e2dc6b06FAf38b943560BD22e343B",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AAVE_USDC_POOL": {
+      "address": "0x7db9FBAef7f3b8a07D62f5243d933e30f0878937",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "UST_USDC_POOL": {
+      "address": "0xE1f75E2E74BA938abD6C3BE18CCc5C7f71925C4B",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_KACY_POOL": {
+      "address": "0x9435134e52FE285fE7d5dFaa6769Dfc38EC42e5e",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_MU_POOL": {
+      "address": "0x7d3fB9f57C0D9813530f5A7497292dC69136778C",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "GMX_USDC_POOL": {
+      "address": "0x076FBB834FFB878291110A5B4Dfba660f0357650",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "BTC_MU_POOL": {
+      "address": "0x6760A8EE99233D1b750B51322778E52e2BE09584",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDT_NOCHILL_POOL": {
+      "address": "0x64746018D273298d3849e49FB2e5C190FF569f25",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDT_DAI_POOL": {
+      "address": "0x33d1f36dc53a1927b4382568E09fabd7bc361094",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDT_USDT_POOL": {
+      "address": "0x7e31e0e58b83e99739e82147C3eF456B9Ca23d08",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_USDT_POOL": {
+      "address": "0xE8AcF438B10A2C09f80aEf3Ef2858F8E758C98F9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AMPL_USDT_POOL": {
+      "address": "0x5F25e178431cEff5bB0dC754F3DA84c0fe7A1b74",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AAVE_USDT_POOL": {
+      "address": "0x7A086F7B06cD09e2FF1ea19Efd19EC9A15C13097",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDT_MU_POOL": {
+      "address": "0xac0763462054CA4f8816D4E63FAeaEBeaB54F8eE",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WETH_QI_POOL": {
+      "address": "0x9A48973CfB5C04308b4FEc1D7340dCa0949E4E93",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WETH_WBTC_POOL": {
+      "address": "0x05cbBcf65407Aa8741b51e4eDa8d378497030e62",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WETH_DAI_POOL": {
+      "address": "0xaD7D7699f46A7EbC3A500bf861287d409DABf6fD",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WETH_XAVA_POOL": {
+      "address": "0x38b783a01d58A3E913ae88541E8ca9B0AaF1b0ad",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WETH_USDT_POOL": {
+      "address": "0xaE194A23a503793498D76769114e7c13350789a0",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WETH_PNG_POOL": {
+      "address": "0xcf35400A595EFCF0Af591D3Aeb5a35cBCD120d54",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WETH_LINK_POOL": {
+      "address": "0x1b96C113F24Ee7cA41754F0490650Ea56d2821ba",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WETH_LYD_POOL": {
+      "address": "0xB89DF255F05b6d8DA0b9C348Ee7C4E68D8A90185",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WETH_MU_POOL": {
+      "address": "0xbB6639042c5e9cB42D72C4b879C38f371804c91c",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "YTS_WETH_POOL": {
+      "address": "0xB9B7B5d84832267B90620A55bf9abdb923F530D3",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "SAVAX_YYAVAX_POOL": {
+      "address": "0xF2e0DaF3C5cdD9AD988a0398634f72d4021077E1",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WBTC_QI_POOL": {
+      "address": "0xac69396a0C066CBad1Aafcbc6d7A2343AA2746e8",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "HUSKY_QI_POOL": {
+      "address": "0x074C2717359E76B1F9873e799d8539A1fbdF88fB",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "QI_DAI_POOL": {
+      "address": "0xec664461a10b620b374b492FcE7eFFD83d741a15",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "QI_XAVA_POOL": {
+      "address": "0x8a702c5e1Ec95de57A431924a128E17bc84043dD",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "QI_USDT_POOL": {
+      "address": "0x9194d8e653676f3242baAA04337d58be5917dAdB",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "JOE_QI_POOL": {
+      "address": "0xDf63F178141db074896b808502685400f886f0C8",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_QI_POOL": {
+      "address": "0x50E7e19281a80E3C24a07016eDB87EbA9fe8C6cA",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LINK_QI_POOL": {
+      "address": "0x2329639Fb425ed67F04c0B960583319222D16c0F",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "QI_KLO_POOL": {
+      "address": "0xa5a4a0873Ae1Aa45A4a7a93373239b223470DA09",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "QI_PEFI_POOL": {
+      "address": "0x91Df9Cbd0b3B2AFafb2CE6F1D60FFAE7259494A0",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "YTS_QI_POOL": {
+      "address": "0xC9F49E3b16Fb5b76b302aADac8af786627c34c86",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_NOCHILL_POOL": {
+      "address": "0x3b35F7050c99729A50e69d69E43983864934103b",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_FRAX_POOL": {
+      "address": "0x0c8249757b8d66cB2b6155281A5e4f8F53C94c05",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_XAVA_POOL": {
+      "address": "0x6caC2aC08339C63AF10198D5B488990860Ce37c1",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_CLY_POOL": {
+      "address": "0x86cDfa279507397a7B8d9DB2CF05A019F0CC474A",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_KLO_POOL": {
+      "address": "0x9b87b65ba681d536464def0bbe98A9f880D23654",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AVAI_USDC_POOL": {
+      "address": "0xeD7a2B4054757Cfdb632Af15Ad528624F0fFf3B0",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_PEFI_POOL": {
+      "address": "0x24b0596449d692A5F0371C77C64d368e5566fB3C",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AYIELD_USDC_POOL": {
+      "address": "0x454F888166f36e9705BD37859765239e2f07467e",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_UST_POOL": {
+      "address": "0x55d65C2E2c42a0a249119DD54ED4f5aBe9f40c8a",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FXS_USDC_POOL": {
+      "address": "0x8614F7ca1f4b08Ef2C158a3027EA55fAA8384aC8",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FXS_FRAX_POOL": {
+      "address": "0xe0CC7ed0666B29e60a21aF8636bBC69b21eDc434",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WBTC_DAI_POOL": {
+      "address": "0xD8f78241AaFa4488303563DFd4FD7a0d09693C17",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WBTC_XAVA_POOL": {
+      "address": "0x6bc08A623fb1a9DE5e0f4fa3D7078F3Af69f7c7f",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WBTC_USDT_POOL": {
+      "address": "0x717929111779CcDe19aF79Ddc298C3187Eed0Cfd",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WBTC_PNG_POOL": {
+      "address": "0xf277e270bc7664E6EBba19620530b83883748a13",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WBTC_LINK_POOL": {
+      "address": "0x96718F86D695557d2a21790441155d8CD3f3b737",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LYD_WBTC_POOL": {
+      "address": "0xAE609348BD67052Cf156D2C4F9776F3A6B0881DD",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WBTC_MU_POOL": {
+      "address": "0xFb576fCDe9F5DE50891429e9905c31185c5fA360",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "HUSKY_USDT_POOL": {
+      "address": "0xaCBe612cAd4555dA0FFA7030E70cE6354033a64E",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_HUSKY_POOL": {
+      "address": "0x93E5a0DA3BE1052c32fd1a04449607F75bDB05c8",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "XAVA_DAI_POOL": {
+      "address": "0x6e8bff8BA79f2A97EfF3aCE8b54e8D0180c2bFdE",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_DAI_POOL": {
+      "address": "0x603efefc3ed65e3F5b6730c603B0cfB4426E0f4f",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LYD_DAI_POOL": {
+      "address": "0xB98B8d9177C841d9CE6db5EBc6ef4b43932242e7",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "DAI_PEFI_POOL": {
+      "address": "0x07DcA207001D5c523749B0b4704D7B81535C6F1f",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "MU_DAI_POOL": {
+      "address": "0xea95b751e78Df7781332128661b9CC6C7EB8d952",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDT_XAVA_POOL": {
+      "address": "0x0F8C3F07dcb8d8E0E8907517407b39BcE2D75094",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_XAVA_POOL": {
+      "address": "0x851D47BE09BD0D3c2B24922e34a4f8AE05456924",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ROCO_XAVA_POOL": {
+      "address": "0xC689F70C22381f042d5208A75360eD0A380E7B0e",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LINK_XAVA_POOL": {
+      "address": "0x166597024e70D532103c1bC2241dc96b47B8c9b8",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "KLO_XAVA_POOL": {
+      "address": "0x763218555419BF093d687aF13bAE98c45291780D",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "CNR_XAVA_POOL": {
+      "address": "0x7e39b48c32eD1fc79bA900bFCF8d9d42EAf75820",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LYD_XAVA_POOL": {
+      "address": "0x94D6898464a8E0551A777D82aB8aC05dE85C2F79",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "XAVA_PEFI_POOL": {
+      "address": "0xad23828bea099661bd08C79fCcc59CE1d77B936c",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "XAVA_ETH_POOL": {
+      "address": "0x9044eF8C59E42AB868Da0888489f014465336E2A",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "XAVA_USDT_POOL": {
+      "address": "0x56A352936F965945b77efa89Ae45827Fc9a55F27",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDT_CLY_POOL": {
+      "address": "0x025FDfC03ad4bBfFAD76AE7980371195A4851421",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "JOE_USDT_POOL": {
+      "address": "0x63A54E0D296a11C717d89988E76EDDd8bA140A9a",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ROCO_USDT_POOL": {
+      "address": "0x55A90776b6B7f5b67D24581E2F5279194906549B",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "YAK_USDT_POOL": {
+      "address": "0x48b16D25c55B3910cE9B02D6267bAC6Dbf67b12C",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LINK_USDT_POOL": {
+      "address": "0x2A7bF0d31fdAd721e26CdB9Ee69Bd767c688165D",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "KLO_USDT_POOL": {
+      "address": "0x5193f822d3f3A80ea430E06A4a1631C30852CD47",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AVAI_USDT_POOL": {
+      "address": "0x7804cFBb882Eb7c1af293f459C5b47FA5dF6F66c",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "CNR_USDT_POOL": {
+      "address": "0x8a3EE659Ff7CF86c1f85Ce2F2d9A64700ae37a9B",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "YAY_USDT_POOL": {
+      "address": "0x9Ab2636064Cc0F3F7E35109942096654D994633B",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "MIM_USDT_POOL": {
+      "address": "0xd78fF9Ba99Cec77B5f3B798eb2DF8C9308AFDF07",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "VEE_USDT_POOL": {
+      "address": "0xe6069A6e52F6AFeC673D44948f6f4b06E4517D3D",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LYD_USDT_POOL": {
+      "address": "0x35D63e319133DD77d5De06d0c90C78866DdE0CcB",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDT_PEFI_POOL": {
+      "address": "0xD2fEE05b5f6E0BC3F4d82Ff0D6Db499a40e85Dc3",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AYIELD_USDT_POOL": {
+      "address": "0xbADca9dff0cB66444ad7144fE76f16c20CE63fFb",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "FXS_USDT_POOL": {
+      "address": "0x9Dd337a9833C7056734Ae08754D6164C77A413dA",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDT_KACY_POOL": {
+      "address": "0xc65F55585283d9dAFD7F4Ee540dFDc3e8dfe3255",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WMEMO_USDT_POOL": {
+      "address": "0x8744ac38CE92afc8C05c523412B1Df650264C37F",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "TIME_USDT_POOL": {
+      "address": "0xBE43230d6c5a9FdEbfeeF472AC7842Ad821390f7",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "MEMO_USDT_POOL": {
+      "address": "0xAF6B3529C835Def64d028a2Ac7A401a24b98FB60",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "HCT_USDT_POOL": {
+      "address": "0x9fe5767D61B24e296ff26a7dba2F78483eadEeA1",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "BNB_USDT_POOL": {
+      "address": "0x431C86C6939D639D332a351C8C8b9345047Ef961",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_CLY_POOL": {
+      "address": "0x09246261Cc06b4FD8b5924d3196aA4702Eef536f",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_JOE_POOL": {
+      "address": "0xF0BF0D28dc8A4B3617D5D2633100EE64037e4f25",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "JOE_MU_POOL": {
+      "address": "0x8A5ae470361431E8E33354bc05f25971D037b189",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_ROCO_POOL": {
+      "address": "0xFEBc0e1429f9A36D60dCe5eBF85EFFaa4a44051F",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "YAK_PNG_POOL": {
+      "address": "0x42c45fE57927AB94f5BA5484483B67184aA82e5d",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AMPL_PNG_POOL": {
+      "address": "0xBD50cc8a8e209fBE80E248b0125A5924ba74b873",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LINK_PNG_POOL": {
+      "address": "0x340d732f44E2Fb8D08719883f1C2ae088EB11682",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_KLO_POOL": {
+      "address": "0x1F4492dF820f812Cc608E43a666d813F05BcbBeB",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "TRYB_PNG_POOL": {
+      "address": "0x471163B54b5db0497cd9eAFCb1b53CC569d71B76",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_CNR_POOL": {
+      "address": "0x46004c1fDCac99b590Ed70c4f45aA714bE4db05a",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "YAY_PNG_POOL": {
+      "address": "0x0e7f25F4e01C35407A2A5D93eCF914F0f0d84496",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "VEE_PNG_POOL": {
+      "address": "0xC4466191c82b53B17C4fA1cF13ad3FC99228416F",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_AAVE_POOL": {
+      "address": "0x11Bc32032002146Cb65Ab391dF5B51682A8d7885",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LYD_PNG_POOL": {
+      "address": "0x2033C18cA39E53b88762e5Edf5808FC0e3cB2Fb5",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_PEFI_POOL": {
+      "address": "0x1bb5541EcCdA68A352649954D4C8eCe6aD68338d",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LOST_PNG_POOL": {
+      "address": "0xA22776010ACff77E45081aaC4DFa124CCF94B007",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_UST_POOL": {
+      "address": "0x2a0f65C76008EcBC469b0850454E57310E770557",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_KACY_POOL": {
+      "address": "0x61FfdAfEF30706ADaFBfA46Bc0C9C606523aD622",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_ETH_POOL": {
+      "address": "0x53B37b9A6631C462d74D65d61e1c056ea9dAa637",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "SUSHI_PNG_POOL": {
+      "address": "0xF105fb50fC6DdD8a857bbEcd296c8a630E8ca857",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_MU_POOL": {
+      "address": "0x16cF95F60223899964B67e25073E66946210760a",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PNG_TIME_POOL": {
+      "address": "0xD502052c8D41760be73B8AcA6094DaF083030e88",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "YTS_PNG_POOL": {
+      "address": "0xA017D18c0B21402908403cd0ecC788F825bC3fa6",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "BNB_PNG_POOL": {
+      "address": "0x76BC30aCdC88b2aD2e8A5377e59ed88c7f9287f9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LINK_CNR_POOL": {
+      "address": "0x3e83192A856389589ee70Bf0F01B1Cd7a9d22F4c",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LINK_PEFI_POOL": {
+      "address": "0x3968c1BDa61949724C5bBcAcF8bAffe19932cb14",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LINK_MU_POOL": {
+      "address": "0xD75CEA786229c6d5995b6Ef8715844b68824e10f",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "HCT_KLO_POOL": {
+      "address": "0x5B914Afef228d1D06473b8180E6F399d28AC1D61",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "TRYB_USDT_POOL": {
+      "address": "0x79178834d59F5Fdfb272DF13D6b1AAc2Fc143328",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LYD_CNR_POOL": {
+      "address": "0xB0F41ADE99B97A767B28aaDdaA053D5C8A417C0e",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "YTS_CNR_POOL": {
+      "address": "0x407a061C02768304BF25033d93dCCc37eE9495aA",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WMEMO_MIM_POOL": {
+      "address": "0xF2C6765a3f145E8A16640E578e6eDFE9CC09F984",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "MIM_MU_POOL": {
+      "address": "0xFF3cd82291087a19aef92293C9bC71333106f3e0",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "MIM_TIME_POOL": {
+      "address": "0x854FD586C2E53fF48844C895A87329f84A6F66eA",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "AAVE_MU_POOL": {
+      "address": "0xf8190549bd63D9d1A01ebF81c445e923F05Ce7ed",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LYD_PEFI_POOL": {
+      "address": "0x7E03ba36a75a510dCc39C449e6141a042e4Fc675",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "LYD_ETH_POOL": {
+      "address": "0x8Cc72CBBf3BBB62AD0fFE67eB8183ff9AECF7FeE",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "SUSHI_LYD_POOL": {
+      "address": "0xE3DA10e138a33bdb2c3b2a653199B4418F9DD4cD",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "YTS_LYD_POOL": {
+      "address": "0x8634c26a393388bF2134Be2bB2aFf76A10026265",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PEFI_KACY_POOL": {
+      "address": "0xC194F3Cf96b262f882767b7155d08A5fB6a23cEc",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PEFI_ETH_POOL": {
+      "address": "0x0204628bc2A38c1af0E44D5aBEDA297424d12f4E",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "SUSHI_PEFI_POOL": {
+      "address": "0x8912a0FAdF3588c6791e42310B549a7Bc0047B0E",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WET_PEFI_POOL": {
+      "address": "0x2C442776FC79def7be237F7a1bE8D7B71a5583a8",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDT_ETH_POOL": {
+      "address": "0xdDfCef1081b8eEaBe3935817b9625c9B89848a56",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "GMX_MU_POOL": {
+      "address": "0x4360c9a9C865F97463739e26785edE34d24c3a21",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "BNB_MU_POOL": {
+      "address": "0xf1e79ca22DA8b585F8459B3222140BFB5B95bf27",
+      "reserve0": "777",
+      "reserve1": "777"
+    }
+  },
+  "BalancerV2": {
+    "BTC_SAVAX_0_005_POOL": {
+      "address": "0xb8A049353e647f29Cf94F32B609baD6F67Aff080",
+      "reserve0": "777",
+      "reserve1": "777",
+      "poolId": "0xb8a049353e647f29cf94f32b609bad6f67aff080000200000000000000000039"
+    },
+    "HATCHY_WAVAX_0_003_POOL": {
+      "address": "0xb06FdBD2941d2f42d60accEe85086198Ac729236",
+      "reserve0": "777",
+      "reserve1": "777",
+      "poolId": "0xb06fdbd2941d2f42d60accee85086198ac72923600020000000000000000001a"
+    },
+    "WAVAX_USDC_0_003_POOL": {
+      "address": "0xB10968b6CA2Ea1c25D392a9A990559ed3F686861",
+      "reserve0": "777",
+      "reserve1": "777",
+      "poolId": "0xb10968b6ca2ea1c25d392a9a990559ed3f686861000200000000000000000028"
+    },
+    "BTC_USDC_0_003_POOL": {
+      "address": "0xAb567C27450E3Fa1b4eE4E67Ca7D1003C49E7ea8",
+      "reserve0": "777",
+      "reserve1": "777",
+      "poolId": "0xab567c27450e3fa1b4ee4e67ca7d1003c49e7ea800020000000000000000002b"
+    }
+  },
+  "AntfarmV2": {
+    "ATF_WAVAX_1_POOL": {
+      "address": "0x026F08F6dC6930208794BC5881a60fBaba7A125B",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "PHAR_WAVAX_22_2_POOL": {
+      "address": "0x38aF7B5114B5c70ca9F618aC7eAF58456A02c759",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ATF_USDC_1_POOL": {
+      "address": "0x8d11e2eF8b2fF68E6Ae4bB78482A8E0a366517E9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_USDC_50_POOL": {
+      "address": "0x517e7Ca9A16cC757fCa8fCBd2b92c9070e161758",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "WAVAX_USDC_22_2_POOL": {
+      "address": "0x4859015333BDB71c2A372639e05F63822bFDff59",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "CAI_USDC_50_POOL": {
+      "address": "0xcbe7480B7E6A23f8cB533d8f632684c2438685E9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "CAI_USDC_22_2_POOL": {
+      "address": "0x2b0C55d9fe6Fea2DA381f5045ebf552692Fe0042",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_CLY_100_POOL": {
+      "address": "0x610a1Ad5DF619CAF56ee22DA52EaCfEA4717592f",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_CLY_50_POOL": {
+      "address": "0x87b03d98Ac41D0548027b54503dddd80CD99A30e",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "JOE_WAVAX_22_2_POOL": {
+      "address": "0x4b73Cc790de209451c518A3F540A4FFDC4e650e9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ATF_WETH_10_5_POOL": {
+      "address": "0x1db209D632Fd110Abadf5EE47665Be6CFdC511D1",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ATF_WETH_22_2_POOL": {
+      "address": "0xeaCA9DaB0310660F764aEA56F38B822851E65Ea1",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ATF_WETH_50_POOL": {
+      "address": "0x7352C6A8A42332C82ebd52d2158A49eE0D984708",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ATF_WAVAX_10_5_POOL": {
+      "address": "0x5e6e28798ed6b4E30600382A8dC8e5C36998C12b",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ATF_WAVAX_22_2_POOL": {
+      "address": "0x41Ec9F0003F852CC435c376686D90930D5e09556",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ATF_WAVAX_50_POOL": {
+      "address": "0x437A5527A703A2c3D269FEE9B7aFC1a24D3700e3",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ATF_USDC_50_POOL": {
+      "address": "0x5DAd4d7Ec7d6492B9736148a6a5C1b5922E60998",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "BTC_USDC_10_5_POOL": {
+      "address": "0xe25Df5145e472b5e2EbaA772E61F9108a26F6BC9",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "USDC_CLY_1_POOL": {
+      "address": "0x8992d23AFdABA13c18EA7171CbFB406834Ee7a31",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ATF_USDC_22_2_POOL": {
+      "address": "0x40beDD6DB820DECE3ce6802f5A4a916414eeB858",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ATF_CLY_1_POOL": {
+      "address": "0x4685AD18A8437dB27ffa6B36C195d9acd594bD67",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ATF_CAI_1_POOL": {
+      "address": "0xfCF31329B81e7Ec5f6870e9e71Cb6c825ACedb4B",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "TECH_WAVAX_100_POOL": {
+      "address": "0x42e48213174e096d3098AFaE9C6eA456eC6dA7f7",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "TECH_WAVAX_50_POOL": {
+      "address": "0x6a8f345aC49b9Ee9b0057C7a7ad51bb9D0305674",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ATF_TECH_1_POOL": {
+      "address": "0xa917Ba5ac3aA5d3E4acAA92c2de569Ab898aaF2A",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "CAI_TECH_22_2_POOL": {
+      "address": "0x2eDb25563A6C4D49631f27de56d8925E89446ae1",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "TECH_CLY_50_POOL": {
+      "address": "0x8A63A443F482109be539a3238754f7dA2AA6200d",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "TECH_WAVAX_1_POOL": {
+      "address": "0x6161924546115805B1900d3A0E9a0e417B188b3D",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "TECH_WAVAX_22_2_POOL": {
+      "address": "0x7920A77EC9c26754482BE57f18a8d101753255FF",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "TECH_USDC_100_POOL": {
+      "address": "0x19D51961F504Ec14ACA729921AD491AFA89E484e",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "KIMBO_TECH_100_POOL": {
+      "address": "0x8EED596d119E088e6f77b9C8E2E6671A1d05C9C2",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "KIMBO_TECH_50_POOL": {
+      "address": "0x0CC082FA4A85cB4aa041Fe72AD1a5D9cBcE539Bf",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "KIMBO_TECH_22_2_POOL": {
+      "address": "0x9d185AE8f4659FAa5D712944bfdf8A6590d74Dff",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "ATF_KIMBO_1_POOL": {
+      "address": "0x7D13505eEd8ee545f00d617ffC69BD0284a38a7E",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "COQ_TECH_100_POOL": {
+      "address": "0xf14b04F5FA8c2A77d76c25338f19E7b333d21436",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "BTC_CLY_22_2_POOL": {
+      "address": "0xb6D1011Da6C8e11cE33f9cc7d38364669E2Ac137",
+      "reserve0": "777",
+      "reserve1": "777"
+    },
+    "BTC_CLY_50_POOL": {
+      "address": "0x980098D1c41a578E8D1A03792735eD9eCdd0e9ce",
+      "reserve0": "777",
+      "reserve1": "777"
+    }
+  }
+}

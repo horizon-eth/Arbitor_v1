@@ -1,0 +1,46 @@
+[
+  {
+    "pool_address": "0xfCf21D9dCF4F6a5ABCC04176CddbD1414f4a3798",
+    "pool_name": "USDT / WOKB",
+    "project_name": "StationDEXV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x0a77f90cB5d866cDabec8561aEf3C08FcC435488",
+    "pool_name": "USDT / WETH",
+    "project_name": "StationDEXV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x2F827AF1FF28a887E7858464D90B30073FC87d6A",
+    "pool_name": "USDT / USDC",
+    "project_name": "StationDEXV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "USDC",
+    "token1_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x53Fb61644d345BF5fBAd603813CCAd382aDf484C",
+    "pool_name": "WETH / WOKB",
+    "project_name": "StationDEXV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token0_decimal": 18,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  }
+]

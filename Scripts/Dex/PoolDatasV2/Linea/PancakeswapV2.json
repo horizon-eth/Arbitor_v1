@@ -1,0 +1,211 @@
+[
+  {
+    "pool_address": "0xB91A09d3794E815008194B0423802AF8359516Db",
+    "pool_name": "USDC / WETH",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x687d9b3e896E02524f5D8a059E6fA8BEB403aE1D",
+    "pool_name": "USDT / WETH",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x2d26c81A09E1300260Ac0A451F7F77606A1EED40",
+    "pool_name": "ezETH / WETH",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "EZETH",
+    "token0_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xF2076A83199097546daDEF599B8a66260dA3BD56",
+    "pool_name": "FOXY / WETH",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "FOXY",
+    "token0_address": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xEAd8F89Bc222b3d2D3FA25e7a8FC351c4C73FAfD",
+    "pool_name": "wstETH / WETH",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "WSTETH",
+    "token0_address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x8d90629c88716BEF69Dd352E7D1F2fa3e2d3FEc3",
+    "pool_name": "WBTC / WETH",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "WBTC",
+    "token0_address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token0_decimal": 8,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x3c286bFAF89785a42815F356fBD5fE0d90b2F506",
+    "pool_name": "DAI / WETH",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "DAI",
+    "token0_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xA43384a3d1c6De03FD910d29109151EFc762979b",
+    "pool_name": "Cake / WETH",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "CAKE",
+    "token0_address": "0x0D1E753a25eBda689453309112904807625bEFBe",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x85F0e820dCa021957e071E6733a5d94224039017",
+    "pool_name": "WETH / BNB",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token0_decimal": 18,
+    "token1_symbol": "BNB",
+    "token1_address": "0xf5C6825015280CdfD0b56903F9F8B5A2233476F5",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x89E33c1952921A64Fb59994353d5C7b89eCDaDaD",
+    "pool_name": "ONEPUNCH / WETH",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "ONEPUNCH",
+    "token0_address": "0x1F63D0EC7193964142ef6B13d901462d0E5CbB50",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x59c2d3F9BD0d4b3BB5Ef6322fdDDAb91B1710c2c",
+    "pool_name": "USDC / USDT",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x9A1879E45383C2D51FA920451a53C0B8728048d9",
+    "pool_name": "USDC / axlUSDC",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "AXLUSDC",
+    "token1_address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x293137e06b3e038863d9eB51f4d29D6a83Fb75E1",
+    "pool_name": "USDC / DAI",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "DAI",
+    "token1_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x227Fe2C18Dd4535C52EaC1A0a85bE7850089EcdB",
+    "pool_name": "Cake / USDC",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "CAKE",
+    "token0_address": "0x0D1E753a25eBda689453309112904807625bEFBe",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x917adBdEe1E0dE2c394680a3EB7A3FEcb15a2D17",
+    "pool_name": "WBTC / USDT",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "WBTC",
+    "token0_address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token0_decimal": 8,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x73C0FA05d5BECd71D63C65aEE5406D278c849084",
+    "pool_name": "DAI / USDT",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "DAI",
+    "token0_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token0_decimal": 18,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x84ff4c301830711ca4fAfeA2018f7dC00978130d",
+    "pool_name": "Cake / USDT",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "CAKE",
+    "token0_address": "0x0D1E753a25eBda689453309112904807625bEFBe",
+    "token0_decimal": 18,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xE019923611189aD73Cb7945DCB1f85c94ee72e49",
+    "pool_name": "DAI / wstETH",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "DAI",
+    "token0_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token0_decimal": 18,
+    "token1_symbol": "WSTETH",
+    "token1_address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xf64C622008EC869Fe71c281051EFC22b8E3beDa1",
+    "pool_name": "WBTC / DAI",
+    "project_name": "PancakeswapV2",
+    "token0_symbol": "WBTC",
+    "token0_address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token0_decimal": 8,
+    "token1_symbol": "DAI",
+    "token1_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token1_decimal": 18
+  }
+]

@@ -1,0 +1,557 @@
+[
+  {
+    "pool_address": "0x026F08F6dC6930208794BC5881a60fBaba7A125B",
+    "pool_name": "ATF / WAVAX - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "WAVAX",
+    "token1_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x38aF7B5114B5c70ca9F618aC7eAF58456A02c759",
+    "pool_name": "PHAR / WAVAX - fee: 22.2",
+    "project_name": "AntfarmV2",
+    "pool_fee": 22.2,
+    "param_fee": [
+      222
+    ],
+    "token0_symbol": "PHAR",
+    "token0_address": "0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b",
+    "token0_decimal": 18,
+    "token1_symbol": "WAVAX",
+    "token1_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x8d11e2eF8b2fF68E6Ae4bB78482A8E0a366517E9",
+    "pool_name": "ATF / USDC - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x517e7Ca9A16cC757fCa8fCBd2b92c9070e161758",
+    "pool_name": "WAVAX / USDC - fee: 50",
+    "project_name": "AntfarmV2",
+    "pool_fee": 50,
+    "param_fee": [
+      500
+    ],
+    "token0_symbol": "WAVAX",
+    "token0_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x4859015333BDB71c2A372639e05F63822bFDff59",
+    "pool_name": "WAVAX / USDC - fee: 22.2",
+    "project_name": "AntfarmV2",
+    "pool_fee": 22.2,
+    "param_fee": [
+      222
+    ],
+    "token0_symbol": "WAVAX",
+    "token0_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xcbe7480B7E6A23f8cB533d8f632684c2438685E9",
+    "pool_name": "CAI / USDC - fee: 50",
+    "project_name": "AntfarmV2",
+    "pool_fee": 50,
+    "param_fee": [
+      500
+    ],
+    "token0_symbol": "CAI",
+    "token0_address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x2b0C55d9fe6Fea2DA381f5045ebf552692Fe0042",
+    "pool_name": "CAI / USDC - fee: 22.2",
+    "project_name": "AntfarmV2",
+    "pool_fee": 22.2,
+    "param_fee": [
+      222
+    ],
+    "token0_symbol": "CAI",
+    "token0_address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x610a1Ad5DF619CAF56ee22DA52EaCfEA4717592f",
+    "pool_name": "USDC / CLY - fee: 100",
+    "project_name": "AntfarmV2",
+    "pool_fee": 100,
+    "param_fee": [
+      1000
+    ],
+    "token0_symbol": "USDC",
+    "token0_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token0_decimal": 6,
+    "token1_symbol": "CLY",
+    "token1_address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x87b03d98Ac41D0548027b54503dddd80CD99A30e",
+    "pool_name": "USDC / CLY - fee: 50",
+    "project_name": "AntfarmV2",
+    "pool_fee": 50,
+    "param_fee": [
+      500
+    ],
+    "token0_symbol": "USDC",
+    "token0_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token0_decimal": 6,
+    "token1_symbol": "CLY",
+    "token1_address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x4b73Cc790de209451c518A3F540A4FFDC4e650e9",
+    "pool_name": "JOE / WAVAX - fee: 22.2",
+    "project_name": "AntfarmV2",
+    "pool_fee": 22.2,
+    "param_fee": [
+      222
+    ],
+    "token0_symbol": "JOE",
+    "token0_address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+    "token0_decimal": 18,
+    "token1_symbol": "WAVAX",
+    "token1_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x1db209D632Fd110Abadf5EE47665Be6CFdC511D1",
+    "pool_name": "ATF / WETH - fee: 10.5",
+    "project_name": "AntfarmV2",
+    "pool_fee": 10.5,
+    "param_fee": [
+      105
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xeaCA9DaB0310660F764aEA56F38B822851E65Ea1",
+    "pool_name": "ATF / WETH - fee: 22.2",
+    "project_name": "AntfarmV2",
+    "pool_fee": 22.2,
+    "param_fee": [
+      222
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7352C6A8A42332C82ebd52d2158A49eE0D984708",
+    "pool_name": "ATF / WETH - fee: 50",
+    "project_name": "AntfarmV2",
+    "pool_fee": 50,
+    "param_fee": [
+      500
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x5e6e28798ed6b4E30600382A8dC8e5C36998C12b",
+    "pool_name": "ATF / WAVAX - fee: 10.5",
+    "project_name": "AntfarmV2",
+    "pool_fee": 10.5,
+    "param_fee": [
+      105
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "WAVAX",
+    "token1_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x41Ec9F0003F852CC435c376686D90930D5e09556",
+    "pool_name": "ATF / WAVAX - fee: 22.2",
+    "project_name": "AntfarmV2",
+    "pool_fee": 22.2,
+    "param_fee": [
+      222
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "WAVAX",
+    "token1_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x437A5527A703A2c3D269FEE9B7aFC1a24D3700e3",
+    "pool_name": "ATF / WAVAX - fee: 50",
+    "project_name": "AntfarmV2",
+    "pool_fee": 50,
+    "param_fee": [
+      500
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "WAVAX",
+    "token1_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x5DAd4d7Ec7d6492B9736148a6a5C1b5922E60998",
+    "pool_name": "ATF / USDC - fee: 50",
+    "project_name": "AntfarmV2",
+    "pool_fee": 50,
+    "param_fee": [
+      500
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xe25Df5145e472b5e2EbaA772E61F9108a26F6BC9",
+    "pool_name": "BTC / USDC - fee: 10.5",
+    "project_name": "AntfarmV2",
+    "pool_fee": 10.5,
+    "param_fee": [
+      105
+    ],
+    "token0_symbol": "BTC",
+    "token0_address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "token0_decimal": 8,
+    "token1_symbol": "USDC",
+    "token1_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x8992d23AFdABA13c18EA7171CbFB406834Ee7a31",
+    "pool_name": "USDC / CLY - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "USDC",
+    "token0_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token0_decimal": 6,
+    "token1_symbol": "CLY",
+    "token1_address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x40beDD6DB820DECE3ce6802f5A4a916414eeB858",
+    "pool_name": "ATF / USDC - fee: 22.2",
+    "project_name": "AntfarmV2",
+    "pool_fee": 22.2,
+    "param_fee": [
+      222
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x4685AD18A8437dB27ffa6B36C195d9acd594bD67",
+    "pool_name": "ATF / CLY - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "CLY",
+    "token1_address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xfCF31329B81e7Ec5f6870e9e71Cb6c825ACedb4B",
+    "pool_name": "ATF / CAI - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "CAI",
+    "token1_address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x42e48213174e096d3098AFaE9C6eA456eC6dA7f7",
+    "pool_name": "TECH / WAVAX - fee: 100",
+    "project_name": "AntfarmV2",
+    "pool_fee": 100,
+    "param_fee": [
+      1000
+    ],
+    "token0_symbol": "TECH",
+    "token0_address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+    "token0_decimal": 18,
+    "token1_symbol": "WAVAX",
+    "token1_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x6a8f345aC49b9Ee9b0057C7a7ad51bb9D0305674",
+    "pool_name": "TECH / WAVAX - fee: 50",
+    "project_name": "AntfarmV2",
+    "pool_fee": 50,
+    "param_fee": [
+      500
+    ],
+    "token0_symbol": "TECH",
+    "token0_address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+    "token0_decimal": 18,
+    "token1_symbol": "WAVAX",
+    "token1_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xa917Ba5ac3aA5d3E4acAA92c2de569Ab898aaF2A",
+    "pool_name": "ATF / TECH - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "TECH",
+    "token1_address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x2eDb25563A6C4D49631f27de56d8925E89446ae1",
+    "pool_name": "CAI / TECH - fee: 22.2",
+    "project_name": "AntfarmV2",
+    "pool_fee": 22.2,
+    "param_fee": [
+      222
+    ],
+    "token0_symbol": "CAI",
+    "token0_address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+    "token0_decimal": 18,
+    "token1_symbol": "TECH",
+    "token1_address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x8A63A443F482109be539a3238754f7dA2AA6200d",
+    "pool_name": "TECH / CLY - fee: 50",
+    "project_name": "AntfarmV2",
+    "pool_fee": 50,
+    "param_fee": [
+      500
+    ],
+    "token0_symbol": "TECH",
+    "token0_address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+    "token0_decimal": 18,
+    "token1_symbol": "CLY",
+    "token1_address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x6161924546115805B1900d3A0E9a0e417B188b3D",
+    "pool_name": "TECH / WAVAX - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "TECH",
+    "token0_address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+    "token0_decimal": 18,
+    "token1_symbol": "WAVAX",
+    "token1_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7920A77EC9c26754482BE57f18a8d101753255FF",
+    "pool_name": "TECH / WAVAX - fee: 22.2",
+    "project_name": "AntfarmV2",
+    "pool_fee": 22.2,
+    "param_fee": [
+      222
+    ],
+    "token0_symbol": "TECH",
+    "token0_address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+    "token0_decimal": 18,
+    "token1_symbol": "WAVAX",
+    "token1_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x19D51961F504Ec14ACA729921AD491AFA89E484e",
+    "pool_name": "TECH / USDC - fee: 100",
+    "project_name": "AntfarmV2",
+    "pool_fee": 100,
+    "param_fee": [
+      1000
+    ],
+    "token0_symbol": "TECH",
+    "token0_address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x8EED596d119E088e6f77b9C8E2E6671A1d05C9C2",
+    "pool_name": "KIMBO / TECH - fee: 100",
+    "project_name": "AntfarmV2",
+    "pool_fee": 100,
+    "param_fee": [
+      1000
+    ],
+    "token0_symbol": "KIMBO",
+    "token0_address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+    "token0_decimal": 18,
+    "token1_symbol": "TECH",
+    "token1_address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x0CC082FA4A85cB4aa041Fe72AD1a5D9cBcE539Bf",
+    "pool_name": "KIMBO / TECH - fee: 50",
+    "project_name": "AntfarmV2",
+    "pool_fee": 50,
+    "param_fee": [
+      500
+    ],
+    "token0_symbol": "KIMBO",
+    "token0_address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+    "token0_decimal": 18,
+    "token1_symbol": "TECH",
+    "token1_address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x9d185AE8f4659FAa5D712944bfdf8A6590d74Dff",
+    "pool_name": "KIMBO / TECH - fee: 22.2",
+    "project_name": "AntfarmV2",
+    "pool_fee": 22.2,
+    "param_fee": [
+      222
+    ],
+    "token0_symbol": "KIMBO",
+    "token0_address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+    "token0_decimal": 18,
+    "token1_symbol": "TECH",
+    "token1_address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7D13505eEd8ee545f00d617ffC69BD0284a38a7E",
+    "pool_name": "ATF / KIMBO - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7",
+    "token0_decimal": 18,
+    "token1_symbol": "KIMBO",
+    "token1_address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xf14b04F5FA8c2A77d76c25338f19E7b333d21436",
+    "pool_name": "COQ / TECH - fee: 100",
+    "project_name": "AntfarmV2",
+    "pool_fee": 100,
+    "param_fee": [
+      1000
+    ],
+    "token0_symbol": "COQ",
+    "token0_address": "0x420FcA0121DC28039145009570975747295f2329",
+    "token0_decimal": 18,
+    "token1_symbol": "TECH",
+    "token1_address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xb6D1011Da6C8e11cE33f9cc7d38364669E2Ac137",
+    "pool_name": "BTC / CLY - fee: 22.2",
+    "project_name": "AntfarmV2",
+    "pool_fee": 22.2,
+    "param_fee": [
+      222
+    ],
+    "token0_symbol": "BTC",
+    "token0_address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "token0_decimal": 8,
+    "token1_symbol": "CLY",
+    "token1_address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x980098D1c41a578E8D1A03792735eD9eCdd0e9ce",
+    "pool_name": "BTC / CLY - fee: 50",
+    "project_name": "AntfarmV2",
+    "pool_fee": 50,
+    "param_fee": [
+      500
+    ],
+    "token0_symbol": "BTC",
+    "token0_address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "token0_decimal": 8,
+    "token1_symbol": "CLY",
+    "token1_address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+    "token1_decimal": 18
+  }
+]

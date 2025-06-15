@@ -1,0 +1,189 @@
+{
+  "AntfarmFinanceV2": {
+    "ATF_WAVAX_1_POOL": {
+      "address": "0x026F08F6dC6930208794BC5881a60fBaba7A125B",
+      "reserve0": "253689333342818991576999",
+      "reserve1": "1339336854380590651093"
+    },
+    "PHAR_WAVAX_22_2_POOL": {
+      "address": "0x38aF7B5114B5c70ca9F618aC7eAF58456A02c759",
+      "reserve0": "8370668884887401",
+      "reserve1": "9904436918335107"
+    },
+    "ATF_USDC_1_POOL": {
+      "address": "0x8d11e2eF8b2fF68E6Ae4bB78482A8E0a366517E9",
+      "reserve0": "46503778765748972730920",
+      "reserve1": "6128989480"
+    },
+    "WAVAX_USDC_50_POOL": {
+      "address": "0x517e7Ca9A16cC757fCa8fCBd2b92c9070e161758",
+      "reserve0": "763989298934403814801",
+      "reserve1": "27512487767"
+    },
+    "WAVAX_USDC_22_2_POOL": {
+      "address": "0x4859015333BDB71c2A372639e05F63822bFDff59",
+      "reserve0": "684842871093558216463",
+      "reserve1": "19949779852"
+    },
+    "CAI_USDC_50_POOL": {
+      "address": "0xcbe7480B7E6A23f8cB533d8f632684c2438685E9",
+      "reserve0": "62419713347959743344",
+      "reserve1": "11753024289"
+    },
+    "CAI_USDC_22_2_POOL": {
+      "address": "0x2b0C55d9fe6Fea2DA381f5045ebf552692Fe0042",
+      "reserve0": "69588086620939364289",
+      "reserve1": "10841998082"
+    },
+    "USDC_CLY_100_POOL": {
+      "address": "0x610a1Ad5DF619CAF56ee22DA52EaCfEA4717592f",
+      "reserve0": "10081261961",
+      "reserve1": "54132977072525823733130"
+    },
+    "USDC_CLY_50_POOL": {
+      "address": "0x87b03d98Ac41D0548027b54503dddd80CD99A30e",
+      "reserve0": "11085360455",
+      "reserve1": "76924429613841773084465"
+    },
+    "JOE_WAVAX_22_2_POOL": {
+      "address": "0x4b73Cc790de209451c518A3F540A4FFDC4e650e9",
+      "reserve0": "8345",
+      "reserve1": "120"
+    },
+    "ATF_WETH_CFT_10_5_POOL": {
+      "address": "0x1db209D632Fd110Abadf5EE47665Be6CFdC511D1",
+      "reserve0": "28262742204525758117663",
+      "reserve1": "1159123196612627155"
+    },
+    "ATF_WETH_CFT_22_2_POOL": {
+      "address": "0xeaCA9DaB0310660F764aEA56F38B822851E65Ea1",
+      "reserve0": "27216096991624640517265",
+      "reserve1": "1203699414030283451"
+    },
+    "ATF_WETH_CFT_50_POOL": {
+      "address": "0x7352C6A8A42332C82ebd52d2158A49eE0D984708",
+      "reserve0": "27300000000000000000000",
+      "reserve1": "1200000000000000000"
+    },
+    "ATF_WAVAX_10_5_POOL": {
+      "address": "0x5e6e28798ed6b4E30600382A8dC8e5C36998C12b",
+      "reserve0": "25099751250458947994380",
+      "reserve1": "120313251229894215156"
+    },
+    "ATF_WAVAX_22_2_POOL": {
+      "address": "0x41Ec9F0003F852CC435c376686D90930D5e09556",
+      "reserve0": "26986419692172371794267",
+      "reserve1": "111902041668961456069"
+    },
+    "ATF_WAVAX_50_POOL": {
+      "address": "0x437A5527A703A2c3D269FEE9B7aFC1a24D3700e3",
+      "reserve0": "33359331504436696413683",
+      "reserve1": "111197771681455654710"
+    },
+    "ATF_USDC_50_POOL": {
+      "address": "0x5DAd4d7Ec7d6492B9736148a6a5C1b5922E60998",
+      "reserve0": "293800092354792412046",
+      "reserve1": "31930238"
+    },
+    "BTC_CFT_USDC_10_5_POOL": {
+      "address": "0xe25Df5145e472b5e2EbaA772E61F9108a26F6BC9",
+      "reserve0": "39",
+      "reserve1": "25843"
+    },
+    "USDC_CLY_1_POOL": {
+      "address": "0x8992d23AFdABA13c18EA7171CbFB406834Ee7a31",
+      "reserve0": "1",
+      "reserve1": "2071510293"
+    },
+    "ATF_USDC_22_2_POOL": {
+      "address": "0x40beDD6DB820DECE3ce6802f5A4a916414eeB858",
+      "reserve0": "1910737578473562006706",
+      "reserve1": "300028642"
+    },
+    "ATF_CLY_1_POOL": {
+      "address": "0x4685AD18A8437dB27ffa6B36C195d9acd594bD67",
+      "reserve0": "415907912553817622745",
+      "reserve1": "498615942803894390176"
+    },
+    "ATF_CAI_1_POOL": {
+      "address": "0xfCF31329B81e7Ec5f6870e9e71Cb6c825ACedb4B",
+      "reserve0": "560121906100322243622",
+      "reserve1": "544996379163807261"
+    },
+    "TECH_WAVAX_100_POOL": {
+      "address": "0x42e48213174e096d3098AFaE9C6eA456eC6dA7f7",
+      "reserve0": "500751",
+      "reserve1": "2"
+    },
+    "TECH_WAVAX_50_POOL": {
+      "address": "0x6a8f345aC49b9Ee9b0057C7a7ad51bb9D0305674",
+      "reserve0": "326590",
+      "reserve1": "4"
+    },
+    "ATF_TECH_1_POOL": {
+      "address": "0xa917Ba5ac3aA5d3E4acAA92c2de569Ab898aaF2A",
+      "reserve0": "1042462861228955784313",
+      "reserve1": "3099040238831559466253208"
+    },
+    "CAI_TECH_22_2_POOL": {
+      "address": "0x2eDb25563A6C4D49631f27de56d8925E89446ae1",
+      "reserve0": "2",
+      "reserve1": "718484"
+    },
+    "TECH_CLY_50_POOL": {
+      "address": "0x8A63A443F482109be539a3238754f7dA2AA6200d",
+      "reserve0": "165449396209744016215425607",
+      "reserve1": "95671758446339913315507"
+    },
+    "TECH_WAVAX_1_POOL": {
+      "address": "0x6161924546115805B1900d3A0E9a0e417B188b3D",
+      "reserve0": "303777",
+      "reserve1": "4"
+    },
+    "TECH_WAVAX_22_2_POOL": {
+      "address": "0x7920A77EC9c26754482BE57f18a8d101753255FF",
+      "reserve0": "447297",
+      "reserve1": "3"
+    },
+    "TECH_USDC_100_POOL": {
+      "address": "0x19D51961F504Ec14ACA729921AD491AFA89E484e",
+      "reserve0": "46242681363",
+      "reserve1": "1"
+    },
+    "KIMBO_TECH_100_POOL": {
+      "address": "0x8EED596d119E088e6f77b9C8E2E6671A1d05C9C2",
+      "reserve0": "1083",
+      "reserve1": "924"
+    },
+    "KIMBO_TECH_50_POOL": {
+      "address": "0x0CC082FA4A85cB4aa041Fe72AD1a5D9cBcE539Bf",
+      "reserve0": "1034",
+      "reserve1": "968"
+    },
+    "KIMBO_TECH_22_2_POOL": {
+      "address": "0x9d185AE8f4659FAa5D712944bfdf8A6590d74Dff",
+      "reserve0": "767",
+      "reserve1": "1306"
+    },
+    "ATF_KIMBO_1_POOL": {
+      "address": "0x7D13505eEd8ee545f00d617ffC69BD0284a38a7E",
+      "reserve0": "42",
+      "reserve1": "24129"
+    },
+    "COQ_TECH_100_POOL": {
+      "address": "0xf14b04F5FA8c2A77d76c25338f19E7b333d21436",
+      "reserve0": "137536063218070291447186552",
+      "reserve1": "2131298375582888492582347"
+    },
+    "BTC_CFT_CLY_22_2_POOL": {
+      "address": "0xb6D1011Da6C8e11cE33f9cc7d38364669E2Ac137",
+      "reserve0": "1",
+      "reserve1": "61636430331"
+    },
+    "BTC_CFT_CLY_50_POOL": {
+      "address": "0x980098D1c41a578E8D1A03792735eD9eCdd0e9ce",
+      "reserve0": "1",
+      "reserve1": "50472199680"
+    }
+  }
+}

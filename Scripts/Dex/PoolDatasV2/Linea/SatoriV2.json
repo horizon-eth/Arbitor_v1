@@ -1,0 +1,57 @@
+[
+  {
+    "pool_address": "0xf5C0fe53A33c78db2f2504e78D5d575790db8500",
+    "pool_name": "USDC / WETH",
+    "project_name": "SatoriV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7af336DD33B4843EE9db010C489be2a225533848",
+    "pool_name": "USDT / WETH",
+    "project_name": "SatoriV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x8E1940A008372dCCD49F46CB866fC5A6085c3c15",
+    "pool_name": "ezETH / WETH",
+    "project_name": "SatoriV2",
+    "token0_symbol": "EZETH",
+    "token0_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xD9c35ea59f5cEe245B5bcFF54A603e2Ff8923481",
+    "pool_name": "USDC / USDT",
+    "project_name": "SatoriV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x1c7f9Dd7Ccf4240294CE0B8E437aD4Eed2c4239e",
+    "pool_name": "USDC / ezETH",
+    "project_name": "SatoriV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "EZETH",
+    "token1_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token1_decimal": 18
+  }
+]

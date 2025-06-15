@@ -1,0 +1,35 @@
+{
+  "All Chains Total Worth": 74.52451955099096,
+  "Last Updated Data": "16.03.2025",
+  "Linea": {
+    "Total Worth": 37.96120823998958,
+    "Native Balance Worth": 37.96120823998958,
+    "Token Balances Worth": 0,
+    "Native Balance": "0.019789666973699076 ETH",
+    "Token Balances": []
+  },
+  "Blast": {
+    "Total Worth": 16.043289389084855,
+    "Native Balance Worth": 16.043289389084855,
+    "Token Balances Worth": 0,
+    "Native Balance": "0.008363573471252518 ETH",
+    "Token Balances": []
+  },
+  "PolygonzkEVM": {
+    "Total Worth": 16.17167476299728,
+    "Native Balance Worth": 8.403951652477224,
+    "Token Balances Worth": 7.767723110520058,
+    "Native Balance": "0.004381088278702215 eth",
+    "Token Balances": [
+      "0.315527 USDC",
+      "53.229972218000404911 ATF"
+    ]
+  },
+  "XLayer": {
+    "Total Worth": 4.3483471589192435,
+    "Native Balance Worth": 4.3483471589192435,
+    "Token Balances Worth": 0,
+    "Native Balance": "0.093789934889063152 OKB",
+    "Token Balances": []
+  }
+}

@@ -1,0 +1,1359 @@
+{
+  "Ether": {
+    "ProjectsV2": {
+      "UniswapV2FactoryAddress": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
+      "SushiswapV2FactoryAddress": "0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "ConvergenceFactoryAddress": "0x4eef5746ed22a2fd368629c1852365bf5dcb79f1",
+      "SolidlyV2FactoryAddress": "0x777de5fe8117caaa7b44f396e93a401cf5c9d4d6",
+      "UnknownDEXFactoryAddress": "0x294ba8fb4a4557ddd71e5454d30daefe777c3add",
+      "PoolsideFactoryAddress": "0xb8de4ab6c65e274630f5279f74eb69b66327ce50",
+      "KyotoXFactoryAddress": "0xafc9a9faeac462ff8c4a01ddd5679faf41a25b49",
+      "DarwinSwapFactoryAddress": "0x918bcb801e7a051f737a2ba0da8797eb039f1fab",
+      "9inchFactoryAddress": "0xcbae5c3f8259181eb7e2309bc4c72fdf02dd56d8",
+      "SmardexV2FactoryAddress": "0xb878dc600550367e14220d4916ff678fb284214f",
+      "LiquidCryptoFactoryAddress": "0xbc7d212939fbe696e514226f3fafa3697b96bf59",
+      "PepeXFactoryAddress": "0x52fba58f936833f8b643e881ad308b2e37713a86",
+      "MarswapFactoryAddress": "0x5e763172d59b3b580af29a1c9fa4ac1cee69c5dd"
+    },
+    "ProjectsV3": {
+      "UniswapV3FactoryAddress": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+      "KyberSwapElasticLegacyFactoryAddress": "0x5f1dddbf348ac2fbe22a163e30f99f9ece3dd50a",
+      "UnknownDEXFactoryAddress": "0xcfde6657c99f9c7a350635fe38319b83e359bea0",
+      "PancakeswapV3FactoryAddress": "0x0bfbcf9fa4f9c56b0f40a671ad40e0805a091865",
+      "SushiswapV3FactoryAddress": "0xbaceb8ec6b9355dfc0269c18bac9d6e2bdc29c4f",
+      "KyberSwapElasticFactoryAddress": "0xc7a590291e07b9fe9e64b86c58fd8fc764308c4a",
+      "SolidlyV3FactoryAddress": "0x70fe4a44ea505cfa3a57b95cf2862d4fd5f0f687",
+      "Lif3FactoryAddress": "0x129538ee65a692fa041e107921d716c31d186803",
+      "BlueprintFactoryAddress": "0xe777c3da43ec554ec845649323215afaa34d6c23",
+      "VVSFactoryAddress": "0x5e12f3bdeb62c6296fa457b1a69438d7fe8c6e2e"
+    },
+    "ProjectsUnknown": {
+      "MintyswapFactoryAddress": "0xa3bcedadb23cfaa592ac42f5a18c98f98a37da77",
+      "ShibaswapFactoryAddress": "0x115934131916c8b277dd010ee02de363c09d037c",
+      "KyberSwapClassicFactoryAddress": "0x833e4083b7ae46cea85695c4f7ed25cdad8886de",
+      "CroDefiswapFactoryAddress": "0x9deb29c9a4c7a88a3c0257393b7f3335338d9a9d",
+      "OrionFactoryAddress": "0x5fa0060fcfea35b31f7a5f6025f0ff399b98edf1",
+      "MooniSwapFactoryAddress": "0xbaf9a5d4b0052359326a6cdab54babaa3a3a9643",
+      "RareSwapFactoryAddress": "0x3c34473c1175a7b4eaa697356d6a6dc2618d273f",
+      "SwapsicleFactoryAddress": "0x2f0c7c98462651bb2102f6cd05acdad333e031b0",
+      "CurveFactoryAddress": "0x90e00ace148ca3b23ac1bc8c240c2a7dd9c2d7f5"
+    }
+  },
+  "Bsc": {
+    "ProjectsV2": {
+      "PancakeswapV2FactoryAddress": "0xca143ce32fe78f1f7019d7d551a6402fc5350c73",
+      "SushiswapV2FactoryAddress": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+      "CoinSwapFactoryAddress": "0xc2d8d27f3196d9989abf366230a47384010440c0",
+      "SafemoonswapV2FactoryAddress": "0x4d05d0045df5562d6d52937e93de6ec1fecdad21",
+      "FraxSwapFactoryAddress": "0xf89e6ca06121b6d4370f4b196ae458e8b969a011",
+      "UnknownDEXFactoryAddress": "0x5cd2a6e2531b14ffdc005c642d2acc2159131b27",
+      "BiokriptFactoryAddress": "0x795802cb01a7be4be2f7f114b232a83b3adce64a",
+      "MeetcoinSwapFactoryAddress": "0x2771e1e09f2cc6a56515a0777aad9b9c48e37c25",
+      "RectangleFinanceFactoryAddress": "0xbc9d8859df039b96db6f2477fe79974b51bb3823",
+      "HonorSwapFactoryAddress": "0x5b19629db8d16d551e9f3faac150fa8a11051b33",
+      "DarwinSwapFactoryAddress": "0xbcf54d1c965fe48aa52b4bdf553ae6632739095b",
+      "CreamSwapFactoryAddress": "0x8cb25774298ff036a4849c5828b44f8d865e2b40",
+      "EGSwapFactoryAddress": "0xf3930c78cfa402af7eb291b25f46dd7760482393",
+      "GetMoneyExchangeFactoryAddress": "0x7703f51cbb5e86a711491f227837e18833b5d828",
+      "DegenDexFactoryAddress": "0x858fdbfd94c298d511f5fb839d1f59eb1d8840d2",
+      "DonaswapV2FactoryAddress": "0x8e5dff1c121f661971d02950698f8c5efc3dfa78",
+      "WokenExchangeFactoryAddress": "0x0dee376e1dcb4dae68837de8ee5abe27e629acd0",
+      "SquadSwapFactoryAddress": "0x1d9f43a6195054313ac1ae423b1f810f593b6ac1",
+      "LiquidusFinanceFactoryAddress": "0x80cee6a5c97b1003f272ba8c759a7c17796c2cdc",
+      "PyreSwapFactoryAddress": "0x045d720873f0260e23da812501a7c5930e510aa4",
+      "4RealzaswapFactoryAddress": "0x34d585e195af1317b45400ce2af6c1d68a648d5f",
+      "LiquidCryptoFactoryAddress": "0x6d642253b6fd96d9d155279b57b8039675e49d8e",
+      "LovelySwapFactoryAddress": "0x8a31fa111f438a6071a659060e37a6fc2c86fa13",
+      "VCSDEXFactoryAddress": "0x94fea98dbae4b7592b2e4cba6a613b7be0188b70",
+      "UniswapV2FactoryAddress": "0x8909dc15e40173ff4699343b6eb8132c65e18ec6",
+      "MarswapFactoryAddress": "0xe19165248159b6cb2a2e35bf398581c777c9979a",
+      "CookswapFactoryAddress": "0x0404772664ee9311f6b0b30585dbc0a060ee46b5",
+      "OrangeDXFactoryAddress": "0xfef9d38f6105c6df2ca4274507f62b44e1e06235",
+      "PSTSwapFactoryAddress": "0x847b3a25ceb49887c4d76402629c2318e60c5b3d",
+      "PipiSwapFactoryAddress": "0xa08daf7f1f4bc97fbd6e67b5e6ff84f4d0f3868c"
+    },
+    "ProjectsV3": {
+      "SheepDexFactoryAddress": "0x571521f8c16f3c4ed5f2490f19187ba7a5a3cbdf",
+      "KyberSwapElasticLegacyFactoryAddress": "0x5f1dddbf348ac2fbe22a163e30f99f9ece3dd50a",
+      "UnknownDEXFactoryAddress": "0xcfa94c3dbc63be5863ece2bac614e7b4ee1ac41a",
+      "UniswapV3FactoryAddress": "0xdb1d10011ad0ff90774d0c6bb92e5c5c8b4461f7",
+      "PancakeswapV3FactoryAddress": "0x0bfbcf9fa4f9c56b0f40a671ad40e0805a091865",
+      "SushiswapV3FactoryAddress": "0x126555dd55a39328f69400d6ae4f782bd4c34abb",
+      "KyberSwapElasticFactoryAddress": "0xc7a590291e07b9fe9e64b86c58fd8fc764308c4a",
+      "CadinuFactoryAddress": "0x2cb62aeba8eb609020129983a5141db883abca85",
+      "SquadSwapV3FactoryAddress": "0x009c4ef7c0e0dd6bd1ea28417c01ea16341367c3"
+    },
+    "ProjectsUnknown": {
+      "ApeswapFactoryAddress": "0x0841bd0b734e4f5853f0dd8d7ea041c241fb0da6",
+      "MdexFactoryAddress": "0x3cd1c46068daea5ebb0d3f55f6915b10648062b8",
+      "EmpireDexFactoryAddress": "0x06530550a48f990360dfd642d2132354a144f31d",
+      "WaultFactoryAddress": "0xb42e3fe71b7e0673335b3331b3e1053bd9822570",
+      "BakeryswapFactoryAddress": "0x01bf7c66c6bd861915cdaae475042d3c4bae16a7",
+      "CoinOneFactoryAddress": "0xb8da6677658b095b43a5725c4ecb6c70125a52e6",
+      "JetswapFactoryAddress": "0x0eb58e5c8aa63314ff5547289185cc4583dfcbd5",
+      "BabyswapFactoryAddress": "0x86407bea2078ea5f5eb5a52b2caa963bc1f889da",
+      "KyberSwapClassicFactoryAddress": "0x878dfe971d44e9122048308301f540910bbd934c",
+      "BiswapFactoryAddress": "0x858e3312ed3a876947ea49d572a7c42de08af7ee",
+      "PadswapFactoryAddress": "0xb836017acf10b8a7c6c6c9e99efe0f5b0250fc45",
+      "MochiswapFactoryAddress": "0xcbac17919f7aad11e623af4fea98b10b84802eac",
+      "FirebirdFactoryAddress": "0x5de74546d3b86c8df7feec30253865e1149818c8",
+      "JustLiquidiyFactoryAddress": "0x553990f2cba90272390f62c5bdb1681ffc899675",
+      "ShibanovaFactoryAddress": "0x251912dE998ec91DFDf67EfBe032d6f4aB5EC485",
+      "ACYFinanceFactoryAddress": "0x3d077c05c3abce52257e453607209f81d9db01fc",
+      "OrionFactoryAddress": "0xe52ccf7b6ce4817449f2e6fa7efd7b567803e4b4",
+      "SwapsicleFactoryAddress": "0xee673452bd981966d4799c865a96e0b92a8d0e45",
+      "X7FinanceFactoryAddress": "0x7de800467afce442019884f51a4a1b9143a34fac",
+      "SushiTridentFactoryAddress": "0x9e4791ad13f14783c7b2a6a7bd8d6ddd1dc95847",
+      "CurveCryptoFactoryAddress": "0xbd5fbd2fa58cb15228a9abdac9ec994f79e3483c"
+    }
+  },
+  "Polygon": {
+    "ProjectsV2": {
+      "SushiswapV2FactoryAddress": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+      "QuickswapV2FactoryAddress": "0x5757371414417b8c6caad45baef941abc7d3ab32",
+      "UnknownDEXFactoryAddress": "0x32873748c53bed6654253eaaa906db5f0b0ca06c",
+      "DevoSwapFactoryAddress": "0x0c7be96f6721f119a95ff3e68bd7fc4b25d0881d",
+      "BlazarSwapFactoryAddress": "0x9405d6a4ae2605b666609c675570cd889fcdaf60",
+      "UniswapV2FactoryAddress": "0x9e5a52f57b3038f1b8eee45f28b3c1967e22799c",
+      "RabbitCoinFactoryAddress": "0x47f2604a1b19ea4ba3f613ee7c65584ecc39319e",
+      "BirdsofSpaceFactoryAddress": "0xde57cda805f01c1647c4b6fc6ffdaf36ae6f6600",
+      "LiquidCryptoFactoryAddress": "0xaa61a0223cad2eb0dfc5b8c1456d76e1702d45d1"
+    },
+    "ProjectsV3": {
+      "UniswapV3FactoryAddress": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+      "KyberSwapElasticLegacyFactoryAddress": "0x5f1dddbf348ac2fbe22a163e30f99f9ece3dd50a",
+      "QuickswapV3FactoryAddress": "0x411b0facc3489691f28ad58c47006af5e3ab3a28",
+      "UnknownDEXFactoryAddress": "0xedb2181a826822aa03a0271634e19ca1bec9d7a6",
+      "OxchangeFactoryAddress": "0xaefa1e80c86391cad041d1b479d2b23261de54e7",
+      "SushiswapV3FactoryAddress": "0x917933899c6a5f8e37f31e19f92cdbff7e8ff0e2",
+      "KyberswapElasticFactoryAddress": "0xc7a590291e07b9fe9e64b86c58fd8fc764308c4a",
+      "RetrofinanceFactoryAddress": "0x91e1b99072f238352f59e58de875691e20dc19c1",
+      "ZicoSwapFactoryAddress": "0xa8d1f40f3fca92be18095f490bd8cbc82d82e0a3"
+    },
+    "ProjectsUnknown": {
+      "JetswapFactoryAddress": "0x668ad0ed2622c62e24f0d5ab6b6ac1b9d2cd4ac7",
+      "GravityFinanceFactoryAddress": "0x3ed75aff4094d2aaa38fafca64ef1c152ec1cf20",
+      "KyberSwapClassicFactoryAddress": "0x5f1fe642060b5b9658c15721ea22e982643c095c",
+      "EmpireDexFactoryAddress": "0x06530550a48f990360dfd642d2132354a144f31d",
+      "FirebirdFactoryAddress": "0x5de74546d3b86c8df7feec30253865e1149818c8",
+      "ACYFinanceFactoryAddress": "0x3d077c05c3abce52257e453607209f81d9db01fc",
+      "DFYNFactoryAddress": "0xe7fb3e833efe5f9c441105eb65ef8b261266423b",
+      "ApeswapFactoryAddress": "0xcf083be4164828f00cae704ec15a36d711491284",
+      "WaultFactoryAddress": "0xa98ea6356a316b44bf710d5f9b6b4ea0081409ef",
+      "PolycatFactoryAddress": "0x477ce834ae6b7ab003cce4bc4d8697763ff456fa",
+      "IXSwapFactoryAddress": "0xc2d0e0bc81494adb71ce9aa350cc875dae12d81d",
+      "OrionFactoryAddress": "0xd956ded6bfc7ed1c1aa8c7954eb0ecd1e00e71b8",
+      "SwapsicleFactoryAddress": "0x735ab9808d792b5c8b54e31196c011c26c08b4ce",
+      "X7FinanceFactoryAddress": "0x7de800467afce442019884f51a4a1b9143a34fac",
+      "BallswapperFactoryAddress": "0x6ff6ef9450e5ca711b037bc23f109fcbaa03d2d3",
+      "BalancerFactoryAddress": "0xba12222222228d8ba445958a75a0704d566bf2c8",
+      "SushiTridentFactoryAddress": "0x2f28678432edf5243955054cc04a32b18ca63c97"
+    }
+  },
+  "Cronos": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0xd716b78f0002c23190b024fc93c33cf73e30b8a6",
+      "Ebisu'sBayFactoryAddress": "0x5f1d751f447236f486f4268b883782897a902379"
+    },
+    "ProjectsV3": {
+      "KyberSwapElasticLegacyFactoryAddress": "0x5f1dddbf348ac2fbe22a163e30f99f9ece3dd50a",
+      "UnknownDEXFactoryAddress": "0xe8234393e0ffe32785bd78366be2fffce51795b9",
+      "KyberswapElasticFactoryAddress": "0xc7a590291e07b9fe9e64b86c58fd8fc764308c4a",
+      "VVSFinanceFactoryAddress": "0x40ab11c64e9ff5368f09343ac860dafa34e14c35"
+    },
+    "ProjectsUnknown": {
+      "CyborgFactoryAddress": "0x6c50ee65cfcfc59b09c570e55d76daa7c67d6da5",
+      "ElkFinanceFactoryAddress": "0xeea0e2830d09d8786cb9f484ca20898b61819ef1",
+      "CrowFiFactoryAddress": "0xddcf30c1a85e5a60d85310d6b0d3952a75a00db4",
+      "EmpireDexFactoryAddress": "0x06530550a48f990360dfd642d2132354a144f31d",
+      "CrodexFactoryAddress": "0xe9c29cb475c0ade80be0319b74ad112f1e80058f",
+      "MadMeerkatFinanceFactoryAddress": "0xd590cc180601aecd6eeadd9b7f2b7611519544f4",
+      "SmolswapFactoryAddress": "0x7aa2149ff9ef4a09d4ace72c49c26aae8c89fb48",
+      "PhotonswapFactoryAddress": "0x462c98cae5affeed576c98a55daa922604e2d875",
+      "AnnexFinanceFactoryAddress": "0xfb6fe7d66e55831b7e108b77d11b8e4d479c2986",
+      "CryptoswappFactoryAddress": "0xee4fa96b695de795071d40eead0e8fd42cdb9951",
+      "CronaSwapFactoryAddress": "0x73a48f8f521eb31c55c0e1274db0898de599cb11",
+      "DuckyDefiFactoryAddress": "0x796e38bb00f39a3d39ab75297d8d6202505f52e2",
+      "KyberSwapClassicFactoryAddress": "0xd9bfe9979e9ca4b2fe84ba5d4cf963bbcb376974",
+      "AgileFinanceFactoryAddress": "0xb89e86701c4fe4a22a16914e3b0df53ea4be771b",
+      "KryptoDexFactoryAddress": "0x33c04bd4ae93336bbd1024d709f4a313cc858ebe"
+    }
+  },
+  "Oec": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x3b9232b417a2911b21a04dd764aaa25c9562f488"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x9ac086b8111cabc8a244caf416fad9b8e179d244"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Fantom": {
+    "ProjectsV2": {
+      "SushiswapV2FactoryAddress": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+      "UnknownDEXFactoryAddress": "0x6d0bf0fd7c5b902dc6b02508adefc31ca927858d",
+      "PyreSwapFactoryAddress": "0x045d720873f0260e23da812501a7c5930e510aa4",
+      "MemeboxFactoryAddress": "0x079463f811e6eb2e226908e79144cddb59a7fb71"
+    },
+    "ProjectsV3": {
+      "KyberSwapElasticLegacyFactoryAddress": "0x5f1dddbf348ac2fbe22a163e30f99f9ece3dd50a",
+      "UnknownDEXFactoryAddress": "0xe8234393e0ffe32785bd78366be2fffce51795b9",
+      "SushiswapV3FactoryAddress": "0x7770978eed668a3ba661d51a773d3a992fc9ddcb",
+      "WagmiFactoryAddress": "0xaf20f5f19698f1d19351028cd7103b63d30de7d7",
+      "KyberswapElasticFactoryAddress": "0xc7a590291e07b9fe9e64b86c58fd8fc764308c4a",
+      "EqualizerExchangeFactoryAddress": "0xe6da85feb3b4e0d6aed95c41a125fba859bb9d24",
+      "SpookySwapV3FactoryAddress": "0x7928a2c48754501f3a8064765ecae541dae5c3e6",
+      "SolidlyV3FactoryAddress": "0x70fe4a44ea505cfa3a57b95cf2862d4fd5f0f687"
+    },
+    "ProjectsUnknown": {
+      "JetswapFactoryAddress": "0xf6488205957f0b4497053d6422f49e27944ee3dd",
+      "DefyswapFactoryAddress": "0xaffdbeae1ec595cba4c262bdb52a6083aec2e2a6",
+      "fBOMBFactoryAddress": "0xd9473a05b2edf4f614593ba5d1dbd3021d8e0ebe",
+      "SpookyswapFactoryAddress": "0x152ee697f2e276fa89e96742e9bb9ab1f2e61be3",
+      "ShibaswapFactoryAddress": "0xeacc845e4db0ab59a326513347a37ed4e999abd8",
+      "SoulswapFactoryAddress": "0x1120e150da9def6fe930f4feded18ef57c0ca7ef",
+      "FirebirdFactoryAddress": "0x5de74546d3b86c8df7feec30253865e1149818c8",
+      "FantomLiveFactoryAddress": "0x1f95004efad8a202250f4c5bc166469865fcc9da",
+      "PaintswapFactoryAddress": "0x733a9d1585f2d14c77b49d39bc7d7dd14cda4aa5",
+      "EmpireDexFactoryAddress": "0x06530550a48f990360dfd642d2132354a144f31d",
+      "KyberSwapClassicFactoryAddress": "0x78df70615ffc8066cc0887917f2cd72092c86409",
+      "MorpheusSwapFactoryAddress": "0x9c454510848906fddc846607e4baa27ca999fbb6",
+      "ElkFinanceFactoryAddress": "0x7ba73c99e6f01a37f3e33854c8f544bbbadd3420",
+      "SpiritswapFactoryAddress": "0xef45d134b73241eda7703fa787148d9c9f4950b0",
+      "WingSwapFactoryAddress": "0xc0719a9a35a2d9ebbfdf1c6d383a5e8e7b2ef7a8",
+      "OrionFactoryAddress": "0xb8baf2195bfc67845049f49af9d4858f7d9c2b30",
+      "BasedDEXFactoryAddress": "0x407c47e3fdb7952ee53aa232b5f28566a024a759",
+      "SwapsicleFactoryAddress": "0x98f23162e3a7fe610ac89c88e4217a599a15858f",
+      "BeethovenXFactoryAddress": "0x20dd72ed959b6147912c2e529f0a0c651c33c9ce",
+      "DegenExpressFactoryAddress": "0x1c2aa07ef924616042dd5fa4b0b48cb2e725bfb1"
+    }
+  },
+  "Avalanche": {
+    "ProjectsV2": {
+      "SushiswapV2FactoryAddress": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+      "UnknownDEXFactoryAddress": "0x2131bdb0e0b451bc1c5a53f2cbc80b16d43634fa",
+      "PharaohV2FactoryAddress": "0xaaa32926fce6be95ea2c51cb4fcb60836d320c42",
+      "PyreSwapFactoryAddress": "0x045d720873f0260e23da812501a7c5930e510aa4",
+      "LiquidCryptoFactoryAddress": "0x91a60e98af717912c87b661fbf9e7c7b5ba7decd",
+      "UniswapV2FactoryAddress": "0x9e5a52f57b3038f1b8eee45f28b3c1967e22799c"
+    },
+    "ProjectsV3": {
+      "KyberSwapElasticLegacyFactoryAddress": "0x5f1dddbf348ac2fbe22a163e30f99f9ece3dd50a",
+      "UnknownDEXFactoryAddress": "0x91607edb8a96f831b7a7db2ecccccf40cf0ea935",
+      "SushiswapV3FactoryAddress": "0x3e603c14af37ebdad31709c4f848fc6ad5bec715",
+      "KyberswapElasticFactoryAddress": "0xc7a590291e07b9fe9e64b86c58fd8fc764308c4a",
+      "MonocerusSwapFactoryAddress": "0x8d312c2b300239b84c304b5af5a3d00cbf0803f6",
+      "UniswapV3FactoryAddress": "0x740b1c1de25031c31ff4fc9a62f554a55cdc1bad",
+      "GlacierFinanceV3FactoryAddress": "0xa2a92bb449cca49b810c84c0efc36a88431655f2",
+      "PharaohV2FactoryAddress": "0xaaa32926fce6be95ea2c51cb4fcb60836d320c42",
+      "TraderJoeV2.2FactoryAddress": "0xb43120c4745967fa9b93e79c149e66b0f2d6fe0c"
+    },
+    "ProjectsUnknown": {
+      "PangolinFactoryAddress": "0xefa94de7a4656d787667c749f7e1223d71e9fd88",
+      "LydiaFinanceFactoryAddress": "0xe0c1bb6df4851feeedc3e14bd509feaf428f7655",
+      "ElkFinanceFactoryAddress": "0x091d35d7f63487909c863001ddca481c6de47091",
+      "BaguetteFactoryAddress": "0x3587b8c0136c2c3605a9e5b03ab54da3e4044b50",
+      "HurricaneSwapFactoryAddress": "0x7009b3619d5ee60d0665ba27cf85edf95fd8ad01",
+      "OliveCashFactoryAddress": "0x4fe4d8b01a56706bc6cad26e8c59d0c7169976b3",
+      "DCTDAOFactoryAddress": "0xfba564939397e71c75c9cbb29e6e23b89e4272be",
+      "UnknownDEXFactoryAddress": "0x014b335dc90e3ee45a67334e7436c71f419d1f1a",
+      "ComplusFactoryAddress": "0x5c02e78a3969d0e64aa2cfa765acc1d671914ac0",
+      "UnifyFactoryAddress": "0x839547067bc885db205f5fa42dcfeecdff5a8530",
+      "EmpireDexFactoryAddress": "0x06530550a48f990360dfd642d2132354a144f31d",
+      "BaoswapFactoryAddress": "0xf9418c8f2dc02305df5036d9de3e4146bf1abc46",
+      "TraderJoeFactoryAddress": "0x9ad6c38be94206ca50bb0d90783181662f0cfa10",
+      "YetiSwapFactoryAddress": "0x58c8cd291fa36130119e6deb9e520fbb6aca1c3a",
+      "PartySwapFactoryAddress": "0x58a08bc28f3e8dab8fb2773d8f243bc740398b09",
+      "StormSwapFactoryAddress": "0x03c51a75a94b1cd075d6686846405dbdafbde390",
+      "CanaryExchangeFactoryAddress": "0xcfba329d49c24b70f3a8b9cc0853493d4645436b",
+      "ThorusFactoryAddress": "0xa98ea6356a316b44bf710d5f9b6b4ea0081409ef",
+      "KyberSwapClassicFactoryAddress": "0x10908c875d865c66f271f5d3949848971c9595c9",
+      "SwapsicleFactoryAddress": "0x9c60c867ce07a3c403e2598388673c10259ec768",
+      "CurveFactoryFactoryAddress": "0xb17b674d9c5cb2e441f8e196a2f048a81355d031",
+      "SushiTridentFactoryAddress": "0x97a32b4f8486735075f2cbecff64208fbf2e610a",
+      "AntfarmFinanceFactoryAddress": "0xdc0bd72cdef330786bf6f331a6aca539c0bb4eab"
+    }
+  },
+  "Arbitrum": {
+    "ProjectsV2": {
+      "SushiswapV2FactoryAddress": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+      "ChronosV2FactoryAddress": "0x4db9d624f67e00dbf8ef7ae0e0e8ee54af1dee49",
+      "UnknownDEXFactoryAddress": "0x40cbdf84475f8dd7c9a9c665ede551eeaaf21f8d",
+      "SpartaDexFactoryAddress": "0xfe8ec10fe07a6a6f4a2584f8cd9fe232930eaf55",
+      "PancakeswapV2FactoryAddress": "0x02a84c1b3bbd7401a5f7fa98a384ebc70bb5749e",
+      "PixelswapFactoryAddress": "0xd07739a9e9c46d3deded97c0edc49cea8bab1bb9",
+      "WokenExchangeFactoryAddress": "0x0dee376e1dcb4dae68837de8ee5abe27e629acd0",
+      "UniswapV2FactoryAddress": "0xf1d7cc64fb4452f05c498126312ebe29f30fbcf9",
+      "PopeyeDexFactoryAddress": "0x36e0f99a19481976c42cc45aec7205b10807e275",
+      "GASXFactoryAddress": "0x7e299ddf7e12663570dbfa8f3f20cb54f8fd04fa",
+      "KewlExchangeFactoryAddress": "0xa0bb8f9865f732c277d0c162249a4f6c157ae9d0"
+    },
+    "ProjectsV3": {
+      "UniswapV3FactoryAddress": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+      "KyberSwapElasticLegacyFactoryAddress": "0x5f1dddbf348ac2fbe22a163e30f99f9ece3dd50a",
+      "ZyberswapFactoryAddress": "0x9c2abd632771b433e5e7507bcaa41ca3b25d8544",
+      "UnknownDEXFactoryAddress": "0xf4d0512fb47319b0ce9144ef582862e2921cabf8",
+      "SushiswapV3FactoryAddress": "0x1af415a1eba07a4986a52b6f2e7de7003d82231e",
+      "MMFinanceFactoryAddress": "0x947bc57cefdd22420c9a6d61387fe4d4cf8a090d",
+      "ArbetherFactoryAddress": "0xe80f95c8cdbe1c7dac28e8dc9329923136e65fa5",
+      "ArbiDexFinanceFactoryAddress": "0x855f2c70cf5cb1d56c15ed309a4dfefb88ed909e",
+      "RamsesFactoryAddress": "0xaa2cd7477c451e703f3b9ba5663334914763edf8",
+      "KyberSwapElasticFactoryAddress": "0xc7a590291e07b9fe9e64b86c58fd8fc764308c4a",
+      "PancakeswapV3FactoryAddress": "0x0bfbcf9fa4f9c56b0f40a671ad40e0805a091865",
+      "ChronosV2FactoryAddress": "0x4db9d624f67e00dbf8ef7ae0e0e8ee54af1dee49",
+      "SolidlyV3FactoryAddress": "0x70fe4a44ea505cfa3a57b95cf2862d4fd5f0f687",
+      "DackieSwapV3FactoryAddress": "0xaedc38bd52b0380b2af4980948925734fd54fbf4",
+      "TraderJoeV2.2FactoryAddress": "0xb43120c4745967fa9b93e79c149e66b0f2d6fe0c"
+    },
+    "ProjectsUnknown": {
+      "SwapsicleFactoryAddress": "0x2f0c7c98462651bb2102f6cd05acdad333e031b0",
+      "X7FinanceFactoryAddress": "0x7de800467afce442019884f51a4a1b9143a34fac",
+      "CamelotAlgebraFactoryAddress": "0x1a3c9b1d2f0529d97f2afc5136cc23e58f1fd35b",
+      "SushiTridentFactoryAddress": "0xf0e1f962e3e6d8e2af8190b2798c1b4f018fe48d"
+    }
+  },
+  "Metis": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0xfb06fecd65248d7b2281445d36062f9f2a9d5fb8"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x7bd20a9e449d0fdaf2f2adc25aac1dd2d7a2c1fc",
+      "WagmiFactoryAddress": "0x8112e18a34b63964388a3b2984037d6a2efe5b8a",
+      "HerculesV3FactoryAddress": "0xc5bfa92f27df36d268422ee314a1387bb5ffb06a"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Heco": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x1b21ffd81b14f8b47c7a9b041a321cae05bb24fb"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xe8234393e0ffe32785bd78366be2fffce51795b9"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Velas": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0xfbb4e52fecc90924c79f980eb24a9794ae4affa4"
+    },
+    "ProjectsV3": {
+      "KyberSwapElasticLegacyFactoryAddress": "0x5f1dddbf348ac2fbe22a163e30f99f9ece3dd50a",
+      "KyberSwapElasticFactoryAddress": "0xc7a590291e07b9fe9e64b86c58fd8fc764308c4a",
+      "UnknownDEXFactoryAddress": "0xe8234393e0ffe32785bd78366be2fffce51795b9"
+    },
+    "ProjectsUnknown": {
+      "WagyuswapFactoryAddress": "0x69f3212344a38b35844cce4864c2af9c717f35e3"
+    }
+  },
+  "Aurora": {
+    "ProjectsV2": {},
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xfff6e6143ca94d33f2f2378ecdc5dfce69da71f3"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Harmony": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x39cd19e1fbb0497e891884ce6b5824395b3e28f6"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xe8234393e0ffe32785bd78366be2fffce51795b9",
+      "SwapCountryFactoryAddress": "0x12d21f5d0ab768c312e19653bf3f89917866b8e8"
+    },
+    "ProjectsUnknown": {
+      "DeFiKingdomsFactoryAddress": "0x9014b937069918bd319f80e8b3bb4a2cf6faa5f7"
+    }
+  },
+  "Moonbeam": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x7962223d940e1b099abae8f54cabfb8a3a0887ab"
+    },
+    "ProjectsV3": {
+      "StellaswapV3FactoryAddress": "0xabe1655110112d0e45ef91e94f8d757e4ddba59c",
+      "UnknownDEXFactoryAddress": "0xf9caf7ffde2822da3b3b257bac2a15b534b04e7e",
+      "BeamswapV3FactoryAddress": "0xd118fa707147c54387b738f54838ea5dd4196e71",
+      "OkuTradeFactoryAddress": "0x28f1158795a3585caaa3cd6469cd65382b89bb70"
+    },
+    "ProjectsUnknown": {
+      "FraxSwapV2FactoryAddress": "0x51f9dbed76f5dcf209817f641b549aa82f35d23f"
+    }
+  },
+  "Kucoin": {
+    "ProjectsV2": {},
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xe8234393e0ffe32785bd78366be2fffce51795b9"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Oasis": {
+    "ProjectsV2": {},
+    "ProjectsV3": {
+      "KyberSwapElasticLegacyFactoryAddress": "0x5f1dddbf348ac2fbe22a163e30f99f9ece3dd50a",
+      "KyberSwapElasticFactoryAddress": "0xc7a590291e07b9fe9e64b86c58fd8fc764308c4a"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Astar": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0xfbb4e52fecc90924c79f980eb24a9794ae4affa4"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xe8234393e0ffe32785bd78366be2fffce51795b9"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Celo": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x2d32661f52eb55c9109f2eef5fbc405da0136608"
+    },
+    "ProjectsV3": {
+      "UniswapV3FactoryAddress": "0xafe208a311b21f13ef87e33a90049fc17a7acdec",
+      "UnknownDEXFactoryAddress": "0x67fea58d5a5a4162ced847e13c2c81c73bf8aec4"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Moonriver": {
+    "ProjectsV2": {},
+    "ProjectsV3": {
+      "SushiswapV3FactoryAddress": "0x2f255d3f3c0a3726c6c99e74566c4b18e36e3ce6",
+      "UnknownDEXFactoryAddress": "0xe8234393e0ffe32785bd78366be2fffce51795b9"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Optimism": {
+    "ProjectsV2": {
+      "VelodromeV2FactoryAddress": "0xf1046053aa5682b4f9a81b5481394da16be5ff5a",
+      "UnknownDEXFactoryAddress": "0xc439c680af70aef985647b2721b68f1790c9b0dc",
+      "UniswapV2FactoryAddress": "0x0c3c1c532f1e39edf36be9fe0be1410313e074bf",
+      "EjoeSwapFactoryAddress": "0xb1697b36346d1800ac29d0fb886883e856803555"
+    },
+    "ProjectsV3": {
+      "UniswapV3FactoryAddress": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+      "KyberSwapElasticLegacyFactoryAddress": "0x5f1dddbf348ac2fbe22a163e30f99f9ece3dd50a",
+      "SushiswapV3FactoryAddress": "0x9c6522117e2ed1fe5bdb72bb0ed5e3f2bde7dbe0",
+      "KyberSwapElasticFactoryAddress": "0xc7a590291e07b9fe9e64b86c58fd8fc764308c4a",
+      "UnknownDEXFactoryAddress": "0xc2bc7a73613b9bd5f373fe10b55c59a69f4d617b",
+      "SolidlyV3FactoryAddress": "0x70fe4a44ea505cfa3a57b95cf2862d4fd5f0f687",
+      "VelodromeV3FactoryAddress": "0x548118c7e0b865c2cfa94d15ec86b666468ac758"
+    },
+    "ProjectsUnknown": {
+      "VelodromeFactoryAddress": "0x25cbddb98b35ab1ff77413456b31ec81a6b6b746",
+      "DodoVendorMachineFactoryAddress": "0x2b800dc6270726f7e2266ce8cd5a3f8436fe0b40",
+      "DodoStableFactoryAddress": "0x1f83858cd6d0ae7a08ab1fd977c06dabece6d711",
+      "SwapsicleFactoryAddress": "0x2f0c7c98462651bb2102f6cd05acdad333e031b0",
+      "DodoPrivateFactoryAddress": "0xdb9c53f2ced34875685b607c97a61a65da2f30a8",
+      "BeethovenXFactoryAddress": "0xba12222222228d8ba445958a75a0704d566bf2c8"
+    }
+  },
+  "Iotex": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0xaf3f1786a29858d4a0f16128e9f1bc62e2b3a887"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xc05a5aa56df0dc97d6b9849a06627a079790014f"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Fuse": {
+    "ProjectsV2": {},
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x7cb710dd79074474b6af7b1092edfb3664dfdca2",
+      "VoltageFinanceV3FactoryAddress": "0xad079548b3501c5f218c638a02ab18187f62b207"
+    },
+    "ProjectsUnknown": {
+      "VoltageFinanceFactoryAddress": "0x1998e4b0f1f922367d8ec20600ea2b86df55f34e"
+    }
+  },
+  "Telos": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x1f2542d8f784565d526eeadc9f1ca8fbb75e5996",
+      "HexaswapFactoryAddress": "0x7853cdd20592aaff59d6e89b59bf67499564c525"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xe8234393e0ffe32785bd78366be2fffce51795b9"
+    },
+    "ProjectsUnknown": {
+      "SwapsicleFactoryAddress": "0xb630f53df13645bff0ef55eb44a8a490a7dd4514"
+    }
+  },
+  "Milkomeda": {
+    "ProjectsV2": {},
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xda2f048c128506e720b0b0b32f20432157dde1c7"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Dfk": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x3587b8c0136c2c3605a9e5b03ab54da3e4044b50"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x3e603c14af37ebdad31709c4f848fc6ad5bec715"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Solana": {
+    "ProjectsV2": {
+      "OrcaV2FactoryAddress": "9w959dqeetigzocywcqpaj6sbmuzgfxxfqgetedp3aqp",
+      "AldrinV2FactoryAddress": "curvgozn8zycx6fxwwevgbtb2gvvdbgtepvmjdbgs2t4",
+      "LifinityV2FactoryAddress": "2wt8yq49khgdzxupxzsaelah1qbmgxteypy64bl7ad3c"
+    },
+    "ProjectsV3": {},
+    "ProjectsUnknown": {
+      "OrcaWhirlpoolFactoryAddress": "whirlbmiicvdio4qvufm5kag6ct8vwpyzgff3uctycc",
+      "FluxbeamFactoryAddress": "fluxubrmkei2q6k3y9kbpg9248ggazvsosfhtjhsrm1x",
+      "MeteoraFactoryAddress": "eo7wjkq67rjjqszxs6z3ykapzy3emj6xy8x5eqvn5uab",
+      "MeteoraDLMMFactoryAddress": "lbuzkhrxpf3xupbcjp4yztkglccjzhtsdm9yuvapwxo",
+      "TinySPLFactoryAddress": "swapnuitrusw3p96z3dubw7d51ge8uirsnwatrlnf8e"
+    }
+  },
+  "Evmos": {
+    "ProjectsV2": {},
+    "ProjectsV3": {
+      "ForgeFactoryAddress": "0xf544365e7065966f190155f629ce0182fc68eaa2",
+      "UnknownDEXFactoryAddress": "0x43c27a9b2857c3aa5522ec2df8d183f252dbcfe7"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Dogechain": {
+    "ProjectsV2": {
+      "DegenDogeDexFactoryAddress": "0xfc5f561aa36d4f85bfa9a89dbf058932223d43db",
+      "UnknownDEXFactoryAddress": "0x4faabf393cf6726ba3ce9491101c63482551903a",
+      "GuardbyEDENFactoryAddress": "0x947740539b17772d05b15cd33d1c06508a780eb9"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x1f3cd58a38b01d9cc338d1e03b0846760927e4d4"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Etc": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x164999e9174686b39987dfb7e0fab28465b867a5"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xacc703c9c8248a141113c672ea71d196e8118210",
+      "EtcSwapv3FactoryAddress": "0x2624e907bcc04f93c8f29d7c7149a8700ceb8cdc"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Gnosis": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x191780554e1430ab08cc23fd2ef94928a5415735"
+    },
+    "ProjectsV3": {
+      "SushiswapV3FactoryAddress": "0xf78031cbca409f2fb6876bdfdbc1b2df24cf9bef",
+      "UnknownDEXFactoryAddress": "0xc05a5aa56df0dc97d6b9849a06627a079790014f"
+    },
+    "ProjectsUnknown": {
+      "SwaprFactoryAddress": "0x5d48c95adffd4b40c1aaadc4e08fc44117e02179"
+    }
+  },
+  "Bitgert": {
+    "ProjectsV2": {},
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xde73b8b566ced31f21a1ee9c6868741c6bf0a01a"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Canto": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x88bccc5f0ee7ce80cf8853180e0ccd597aa0ba41",
+      "LeetswapV2FactoryAddress": "0x1bb9cf4e63cd2dab8741c334f525350ab2ee2c96"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xfcf2f7af74e5dd16decc0b422b39eba5876cc1af",
+      "VelocimeterV3FactoryAddress": "0xcc6ac37eafa77ef6c8b9283de89be64d8030dcae"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Arbitrumnova": {
+    "ProjectsV2": {
+      "SushiswapV2FactoryAddress": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+      "UnknownDEXFactoryAddress": "0x57bc06410f88a7e9edfebbfa7baeb3e6bc32fd43"
+    },
+    "ProjectsV3": {
+      "SushiswapV3FactoryAddress": "0xaa26771d497814e81d305c511efbb3ced90bf5bd",
+      "UnknownDEXFactoryAddress": "0xbaf404d7b96cdbbcba257d910c161cc53d19ac38"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Redlight": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Conflux": {
+    "ProjectsV2": {},
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x8d44b56fd5b8fe6e3c7f5fef07a9fcb6cebc6d95"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Smartbch": {
+    "ProjectsV2": {},
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x08153648c209644a68ed4dc0ac06795f6563d17b"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Kardia": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Tomb": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Wan": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x88661cdfbc90ae11a5d70d6d821e69bc7ecd411a"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xeb3e557f6fdcaba8dc98bda833e017866fc168cb"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Boba": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x39135bd1fd3a04381c1094ab0dd35c7bbe61b3c5"
+    },
+    "ProjectsV3": {
+      "SushiswapV3FactoryAddress": "0x0be808376ecb75a5cf9bb6d237d16cd37893d904",
+      "OkuTradeFactoryAddress": "0xffcd7aed9c627e82a765c3247d562239507f6f1b",
+      "UnknownDEXFactoryAddress": "0x8388ce9e1ce2f591c681e4f814e19eb4b86385fc"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Elastos": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0xce314a22ffca051836c40754eccb4c7d56787d8b"
+    },
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Shiden": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Fusion": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x6a4627f8bfa01243ffbe3a1446f6875bbd5ea340"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xb2135a53b7101d785c13844f2aad646e7e90d4fc"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Rsk": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x69d10bc18cd588a4b70f836a471d4e9c2fd86092"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xc05a5aa56df0dc97d6b9849a06627a079790014f"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Cube": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Syscoin": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Kava": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0xd408a20f1213286fb3158a2bfbf5bffaca8bf269"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xc05a5aa56df0dc97d6b9849a06627a079790014f",
+      "KinetixFinanceFactoryAddress": "0x2dbb6254231c5569b6a4313c6c1f5fe1340b35c2",
+      "WagmiFactoryAddress": "0x0e0ce4d450c705f8a0b6dd9d5123e3df2787d16b"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Thundercore": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0xb45e53277a7e0f1d35f2a77160e91e25507f1763"
+    },
+    "ProjectsV3": {
+      "SushiswapV3FactoryAddress": "0xc35dadb65012ec5796536bd9864ed8773abc74c4"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Meter": {
+    "ProjectsV2": {
+      "VoltSwapV2FactoryAddress": "0xb33de8c0843f90655ad6249f20b473a627443d21",
+      "UnknownDEXFactoryAddress": "0x8737a825d2759525f4205a9ce07571ff1cdceffd"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x20b5bc99afd2209008b971e4cb25ada834ef20d3"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Tomo": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x0c7be96f6721f119a95ff3e68bd7fc4b25d0881d"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xd1a76a4f4ff2ad3f899438ea0e919049fc0a21bf"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Ronin": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Nova": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Shib": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Ethw": {
+    "ProjectsV2": {
+      "UniswapV2FactoryAddress": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
+      "UnknownDEXFactoryAddress": "0x306b26b72bda1812c026d4ea1bfe4788f086716f"
+    },
+    "ProjectsV3": {
+      "UniswapV3FactoryAddress": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+      "UnknownDEXFactoryAddress": "0x21bf88d5753f971add459b33504cb1b62c2d2719"
+    },
+    "ProjectsUnknown": {
+      "CroDefiswapFactoryAddress": "0x9deb29c9a4c7a88a3c0257393b7f3335338d9a9d",
+      "MintyswapFactoryAddress": "0xa3bcedadb23cfaa592ac42f5a18c98f98a37da77",
+      "KyberSwapClassicFactoryAddress": "0x833e4083b7ae46cea85695c4f7ed25cdad8886de",
+      "SushiswapFactoryAddress": "0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "ShibaswapFactoryAddress": "0x115934131916c8b277dd010ee02de363c09d037c"
+    }
+  },
+  "Echelon": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Hoo": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Kek": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Ethf": {
+    "ProjectsV2": {
+      "UniswapV2FactoryAddress": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
+      "SushiswapV2FactoryAddress": "0xc0aee478e3658e2610c5f7a4a2e1777ce9e4f2ac",
+      "UnknownDEXFactoryAddress": "0x88461adda3e00698eef255395e692ec89cde5014",
+      "SDEXFactoryAddress": "0x425d988a209125c58d16a9376f997d24009f569b"
+    },
+    "ProjectsV3": {
+      "UniswapV3FactoryAddress": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+      "UnknownDEXFactoryAddress": "0x21bf88d5753f971add459b33504cb1b62c2d2719"
+    },
+    "ProjectsUnknown": {
+      "ShibaswapFactoryAddress": "0x115934131916c8b277dd010ee02de363c09d037c",
+      "CroDefiswapFactoryAddress": "0x9deb29c9a4c7a88a3c0257393b7f3335338d9a9d",
+      "KyberSwapClassicFactoryAddress": "0x833e4083b7ae46cea85695c4f7ed25cdad8886de",
+      "MintyswapFactoryAddress": "0xa3bcedadb23cfaa592ac42f5a18c98f98a37da77"
+    }
+  },
+  "Muu": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Sx": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Alvey": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Aptos": {
+    "ProjectsV2": {
+      "BaptswapV2FactoryAddress": "0x6ee5ff12d9af89de4cb9f127bc4c484d26acda56c03536b5e3792eac94da0a36"
+    },
+    "ProjectsV3": {},
+    "ProjectsUnknown": {
+      "LiquidSwapFactoryAddress": "0x163df34fccbf003ce219d3f1d9e70d140b60622cb9dd47599c25fb2f797ba6e",
+      "ThalaSwapFactoryAddress": "0x48271d39d0b05bd6efca2278f22277d6fcc375504f9839fd73f74ace240861af"
+    }
+  },
+  "Elrond": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {
+      "AshSwapFactoryAddress": "erd1qqqqqqqqqqqqqpgqjtlmapv42pcga5nglgfrnpqvkq06wdqx4fvsvw6xpt",
+      "OneDexFactoryAddress": "erd1qqqqqqqqqqqqqpgqqz6vp9y50ep867vnr296mqf3dduh6guvmvlsu3sujc"
+    }
+  },
+  "Flare": {
+    "ProjectsV2": {
+      "BlazeSwapV2FactoryAddress": "0x440602f459d7dd500a74528003e6a20a46d6e2a6",
+      "EnosysFactoryAddress": "0x28b70f6ed97429e40fe9a9cd3eb8e86bcba11dd4",
+      "UnknownDEXFactoryAddress": "0x4eef3e4ff0e7ebaafa376e1e3daf984347b63dfd"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x9c3afddea87a726891a44c037242393d524cacfe"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Pom": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Ultron": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Energi": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Exosama": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Ethergoerli": {
+    "ProjectsV2": {
+      "UniswapV2FactoryAddress": "0x5c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f",
+      "UnknownDEXFactoryAddress": "0x86ad9b2be6f7bfc2b64fa0289fa73e434edd38a1"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x78a29d8da81fc30828ae8f05b93377e313dbe5e9"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Coredao": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x71a87f5e1881d7bf583a989a2522061ae8e1a89b",
+      "WOOFSwapFactoryAddress": "0x47582fd7b5189a3b2066fc2f631c51776662e3e4",
+      "GlyphExchangeFactoryAddress": "0x3e723c7b6188e8ef638db9685af45c7cb66f77b9",
+      "OpenEXFactoryAddress": "0x6edf8aecaa888896385d7fa19d2aa4eaff3c10d8",
+      "PipiSwapFactoryAddress": "0x300eb5d633c8154466afc73e98328e882e3d843d"
+    },
+    "ProjectsV3": {
+      "NskswapFactoryAddress": "0x7a93a42cdbecc92873869e7be46e2ed7a6bb67f1",
+      "SushiswapV3FactoryAddress": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+      "UnknownDEXFactoryAddress": "0x73a8fbc13b105731ce94d47b8c0b55d49d9363a7",
+      "CORExFactoryAddress": "0x526190295afb6b8736b14e4b42744fbd95203a3a"
+    },
+    "ProjectsUnknown": {
+      "IceCreamswapFactoryAddress": "0x9e6d21e759a7a288b80eef94e4737d313d31c13f"
+    }
+  },
+  "Filecoin": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x03af3757cc411a06b8d6aed53cfc9257876e40dd",
+      "SushiswapV2FactoryAddress": "0x9b3336186a38e1b6c21955d112dbb0343ee061ee"
+    },
+    "ProjectsV3": {
+      "SushiswapV3FactoryAddress": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+      "UnknownDEXFactoryAddress": "0xb4c47ed546fc31e26470a186ec2c5f19ef09ba41"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Zksync": {
+    "ProjectsV2": {
+      "PixelswapFactoryAddress": "0x8435bd22e705dcefcf6ef8b921e6db534a4e9902",
+      "UnknownDEXFactoryAddress": "0xbddd271d57896b4e58f9c2b0862a4896192aa491",
+      "SyncSwapAquav2FactoryAddress": "0x20b28b1e4665fff290650586ad76e977eab90c5d",
+      "SyncSwapStablev2FactoryAddress": "0x81251524898774f5f2fcae7e7ae86112cb5c317f",
+      "SyncSwapClassicv2FactoryAddress": "0x0a34fbdf37c246c0b401da5f00abd6529d906193"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x488a92576da475f7429bc9dec9247045156144d3",
+      "WagmiFactoryAddress": "0x31be61ce896e8770b21e7a1cafa28402dd701995",
+      "DerpDEXFactoryAddress": "0x52a1865eb6903bc777a02ae93159105015ca1517",
+      "PancakeswapV3FactoryAddress": "0x1bb72e0cbbea93c08f535fc7856e0338d7f7a8ab",
+      "OkuTradeFactoryAddress": "0x8fda5a7a8dca67bbcdd10f02fa0649a937215422"
+    },
+    "ProjectsUnknown": {
+      "SyncSwapFactoryAddress": "0x000002c34bae6dd7bec72acba6aaac1e01a359de",
+      "SyncSwapClassicFactoryAddress": "0xf2dad89f2788a8cd54625c60b55cd3d2d0aca7cb",
+      "SyncSwapStableFactoryAddress": "0x5b9f21d407f35b10cbfddca17d5d84b129356ea3",
+      "veSyncFactoryAddress": "0x529bd7fc43285b96f1e8d5158626d1f15bb8a834",
+      "ZkSwapFinanceFactoryAddress": "0x3a76e377ed58c8731f9df3a36155942438744ce3",
+      "SyncSwapAquaFactoryAddress": "0x0754870c1aab00edcfabdf4e6febdd30e90f327d"
+    }
+  },
+  "Polygonzkevm": {
+    "ProjectsV2": {
+      "LeetswapV2FactoryAddress": "0xa2899c776baaf9925d432f83c950d5054a6cf59c",
+      "UnknownDEXFactoryAddress": "0xb45e53277a7e0f1d35f2a77160e91e25507f1763"
+    },
+    "ProjectsV3": {
+      "QuickswapV3FactoryAddress": "0x4b9f4d2435ef65559567e5dbfc1bbb37abc43b57",
+      "SushiswapV3FactoryAddress": "0x1b02da8cb0d097eb8d57a175b88c7d8b47997506",
+      "DoveswapFactoryAddress": "0xde474db1fa59898bc91314328d29507acd0d593c",
+      "UnknownDEXFactoryAddress": "0xff83c3c800fec21de45c5ec30b69ddd5ee60dfc2",
+      "PancakeswapV3FactoryAddress": "0x0bfbcf9fa4f9c56b0f40a671ad40e0805a091865"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Klaytn": {
+    "ProjectsV2": {
+      "KlayswapV2FactoryAddress": "0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654",
+      "UnknownDEXFactoryAddress": "0x1136dc479a49be40250b3a489ac9b6f90224281d"
+    },
+    "ProjectsV3": {
+      "KlayswapV3FactoryAddress": "0xa15be7e90df29a4aead0c7fc86f7a9fbe6502ac9",
+      "UnknownDEXFactoryAddress": "0x0af25138860689f967f142f4b06c29afc84ae910"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Pulse": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0xb338db3b4af779f369d7f6cdbd73d5b79e3454d3",
+      "9inchFactoryAddress": "0x5b9f077a77db37f3be0a5b5d31baeff4bc5c0bd7",
+      "9mmV2FactoryAddress": "0x3a0fa7884dd93f3cd234bbe2a0958ef04b05e13b",
+      "SparkswapFactoryAddress": "0x955219a87eb0c6754fd247266af970f7d16906cd",
+      "DexTopFactoryAddress": "0x556f4c3aaa6c6b76e1bba0409d99d4a483b29997"
+    },
+    "ProjectsV3": {
+      "UniswapV3FactoryAddress": "0x1f98431c8ad98523631ae4a59f267346ea31f984",
+      "UnknownDEXFactoryAddress": "0xcfd33c867c9f031aadff7939cb8086ee5ae88c41",
+      "9mmV3FactoryAddress": "0xe50dbdc88e87a2c92984d794bcf3d1d76f619c68"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Linea": {
+    "ProjectsV2": {
+      "HorizonDEXFactoryAddress": "0x9fe607e5dcd0ea318dbb4d8a7b04fa553d6cb2c5",
+      "EchodexFactoryAddress": "0x6d1063f2187442cc9adbfad2f55a96b846fcb399",
+      "LeetswapV1FactoryAddress": "0x4ddf0fa98b5f9bd7cb0645c25ba89a574fe9be8c",
+      "UnknownDEXFactoryAddress": "0x156d8a0be25fa232bb637fc76255bcd00deae9e9",
+      "SyncSwapStableFactoryAddress": "0xe4cf807e351b56720b17a59094179e7ed9dd3727",
+      "PheasantSwapFactoryAddress": "0x7bf960b15cbd9976042257be3f6bb2361e107384",
+      "PixelswapFactoryAddress": "0xd07739a9e9c46d3deded97c0edc49cea8bab1bb9",
+      "PancakeswapV2FactoryAddress": "0x02a84c1b3bbd7401a5f7fa98a384ebc70bb5749e",
+      "LeetswapV2FactoryAddress": "0xa2899c776baaf9925d432f83c950d5054a6cf59c",
+      "LynexV2FactoryAddress": "0xbc7695fd00e3b32d08124b7a4287493aee99f9ee",
+      "SectaFinanceV2FactoryAddress": "0x8ad39bf99765e24012a28beb0d444de612903c43"
+    },
+    "ProjectsV3": {
+      "SushiswapV3FactoryAddress": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+      "UnknownDEXFactoryAddress": "0x1d6fc1c216b4501154fa0a0ed1053c56423df5e6",
+      "LynexV3FactoryAddress": "0x622b2c98123d303ae067db4925cd6282b3a08d0f",
+      "PancakeswapV3FactoryAddress": "0x0bfbcf9fa4f9c56b0f40a671ad40e0805a091865",
+      "MetavaultV3FactoryAddress": "0x9367c561915f9d062afe3b57b18e30dec62b8488",
+      "OkuTradeFactoryAddress": "0x31fafd4889fa1269f7a13a66ee0fb458f27d72a9",
+      "PharaohV2FactoryAddress": "0xaaa32926fce6be95ea2c51cb4fcb60836d320c42",
+      "SectaFinanceV3FactoryAddress": "0x9bd425a416a276c72a13c13bbd8145272680cf07"
+    },
+    "ProjectsUnknown": {
+      "SyncSwapClassicFactoryAddress": "0x37bac764494c8db4e54bde72f6965bea9fa0ac2d",
+      "NILEFactoryAddress": "0xaaa16c016bf556fcd620328f0759252e29b1ab57",
+      "iZiSwapFactoryAddress": "0x45e5f26451cdb01b0fa1f8582e0aad9a6f27c218"
+    }
+  },
+  "Base": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0xd2156bb9ed200fe88705443bffca788ba8b205f6",
+      "CloudbaseFinanceFactoryAddress": "0x0dccfdf227c3f7b1e5d34b2488a7b0ca01d400a4",
+      "IcecreamswapFactoryAddress": "0x9e6d21e759a7a288b80eef94e4737d313d31c13f",
+      "RocketswapFactoryAddress": "0x1b8128c3a1b7d20053d10763ff02466ca7ff99fc",
+      "CBSwapFactoryAddress": "0x0a1c657b839a7fe9a976ffd4ac5a1a363de3ee69",
+      "OasisswapFactoryAddress": "0xc8126578093366968199707b7f8edff258f473b6",
+      "LFGSwapFactoryAddress": "0xe5552e0318531f9ec585c83bdc8956c08bf74b71",
+      "SwapBasedFactoryAddress": "0x04c9f118d21e8b767d2e50c946f0cc9f6c367300",
+      "SynthswapFactoryAddress": "0x4bd16d59a5e1e0db903f724aa9d721a31d7d720d",
+      "KokonutSwapFactoryAddress": "0x4cf1284dcf30345232d5bfd8a8aad6734b6941c4",
+      "BasedexFactoryAddress": "0x40e383b4820f84d9d4887cac490fd7c37094874c",
+      "BaseSwapFactoryAddress": "0xfda619b6d20975be80a10332cd39b9a4b0faa8bb",
+      "InedibleXFactoryAddress": "0xdb9e9f3397f48cdd5772e5cd876703ddd5392010",
+      "ThroneV2FactoryAddress": "0xe4806bdd8e010828324928d25587721f6b58bea2",
+      "DegenBrainFinanceFactoryAddress": "0x945cdb0e9733c5da1ef24582f101d354fa20abd2",
+      "SwapBaseFactoryAddress": "0xa29c6618723019d8df30faca84ceb3b7b97d7a9e",
+      "SoswapFactoryAddress": "0x539db2b4fe8016db2594d7cfbeab4d2b730b723e",
+      "AlienBaseFactoryAddress": "0x3e84d913803b02a4a7f027165e8ca42c14c0fde7",
+      "BasedswapFactoryAddress": "0x8937837a0ee98984eb8199b3384da7a136168154",
+      "BakeryswapFactoryAddress": "0xad376065d4fa9abb6dda0ded0eadd911fe6e0f92",
+      "DiamondswapFactoryAddress": "0x1a62a841e83ecc3d72b0de6002af7a7dbf921cd5",
+      "LeetswapV2FactoryAddress": "0xa2899c776baaf9925d432f83c950d5054a6cf59c",
+      "SushiswapV2FactoryAddress": "0x71524b4f93c58fcbf659783284e38825f0622859",
+      "ReswapFactoryAddress": "0x2e565cbf87a9f2de8252c24c60bebee994989f30",
+      "PixelswapFactoryAddress": "0xd07739a9e9c46d3deded97c0edc49cea8bab1bb9",
+      "OstrichFactoryAddress": "0x286851cab3deac70b7458f739430bc5fcefbf08d",
+      "WojakFinanceFactoryAddress": "0x40a68b054171bb4ea37d02e5e803121831bbefd3",
+      "AlienBase51FactoryAddress": "0x2d5dd5fa7b8a1bfbdbb0916b42280208ee6de51e",
+      "PancakeswapFactoryAddress": "0x02a84c1b3bbd7401a5f7fa98a384ebc70bb5749e",
+      "PlantBaseSwapFactoryAddress": "0xa081ce40f079a381b59893b4dc0abf8b1817af70",
+      "StealthSwapFactoryAddress": "0x36f5f98fa5d70bffe5d847afdb5a779eb8aa35e8",
+      "DackieSwapFactoryAddress": "0x591f122d1df761e616c13d265006fcbf4c6d6551",
+      "XbasedFactoryAddress": "0x7a9aceb13bc00eec11460a5d7122793461da96e0",
+      "MoonbaseFactoryAddress": "0xe396465a85dedb00fa8774162b106833de51ea41",
+      "BaldexFactoryAddress": "0xc5e1116c41aa4525407078123b49bafcb39cfe93",
+      "SharkSwapFactoryAddress": "0x57592d44eb60011500961ef177bff8d8691d5a8b",
+      "TorusFactoryAddress": "0x259b3217a01878ea9d64b45ee48231e660863ee7",
+      "UniswapV2FactoryAddress": "0x8909dc15e40173ff4699343b6eb8132c65e18ec6",
+      "CandySwapFactoryAddress": "0x811de30a48a243ebe87d9cfd5d6e42d81bcaf61f",
+      "Robots.farmFactoryAddress": "0x77efb7acee1b0b4f26714c9a61c7de19c053e69f",
+      "MemeboxFactoryAddress": "0x079463f811e6eb2e226908e79144cddb59a7fb71",
+      "BunnySwapFactoryAddress": "factory:bunnyswap"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xd1eacddd632638e9f1dabefad442980887e78d81",
+      "YumYumSwapFactoryAddress": "0xf6c96ac4251905572c7083b1804825850b9bc9e6",
+      "CrescentSwapFactoryAddress": "0x3539da2adb3f8311d203d334f25f7bee604a5c50",
+      "UniswapV3FactoryAddress": "0x33128a8fc17869897dce68ed026d694621f6fdfd",
+      "HorizonDEXFactoryAddress": "0x07aced5690e09935b1c0e6e88b772d9440f64718",
+      "SushiswapV3FactoryAddress": "0xc35dadb65012ec5796536bd9864ed8773abc74c4",
+      "DackieswapFactoryAddress": "0x3d237ac6d2f425d2e890cc99198818cc1fa48870",
+      "ThroneV3FactoryAddress": "0xe8839bf8175812691c6578c0fc80e721bc3e00fb",
+      "DerpDEXFactoryAddress": "0xeddef4273518b137cdbcb3a7fa1c6a688303dfe2",
+      "PancakeswapV3FactoryAddress": "0x0bfbcf9fa4f9c56b0f40a671ad40e0805a091865",
+      "BaseswapV3FactoryAddress": "0x38015d05f4fec8afe15d7cc0386a126574e8077b",
+      "EqualizerExchangeFactoryAddress": "0xe6da85feb3b4e0d6aed95c41a125fba859bb9d24",
+      "AlienBaseV3FactoryAddress": "0x0fd83557b2be93617c9c1c1b6fd549401c74558c",
+      "SolidlyV3FactoryAddress": "0x70fe4a44ea505cfa3a57b95cf2862d4fd5f0f687",
+      "CandySwapV3FactoryAddress": "0x3774bbad02ebd18a49919e1ed473163d83882dae",
+      "SwapBasedV3FactoryAddress": "0xb5620f90e803c7f957a9ef351b8db3c746021bea",
+      "AerodromeV3FactoryAddress": "0x5e7bb104d84c7cb9b682aac2f3d509f5f406809a"
+    },
+    "ProjectsUnknown": {
+      "BasoFinanceFactoryAddress": "0xcefbebf0b85b1638c19b01ce2a02c262f421b07d",
+      "SynthswapV3FactoryAddress": "0xa37359e63d1aa44c0acb2a4605d3b45785c97ee3",
+      "AlgebraFinanceFactoryAddress": "0xc207628e5e2b59e9c690071e68c7c1c4193b0252",
+      "CurveFactoryFactoryAddress": "0x3093f9b57a428f3eb6285a589cb35bea6e78c336",
+      "CurveCryptoFactoryAddress": "0x981d41c115a2d48cb1215d13bda8f989d407c9c5",
+      "InfusionFinanceFactoryAddress": "0x2d9a3a2bd6400ee28d770c7254ca840c82faf23f",
+      "Base.funFactoryAddress": "0x8ea8305b8ab80cb34f71be204c5fcae765323659",
+      "iZUMiSwapFactoryAddress": "0x8c7d3063579bdb0b90997e18a770eae32e1ebb08"
+    }
+  },
+  "Bitrock": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0xd38ec16caf3464ca04929e847e4550dcff25b27a",
+      "RockswapFactoryAddress": "0x02c73ecb9b82e545e32665edc42ae903f8aa86a9",
+      "PopSwapFactoryAddress": "0x88e1df96a5ba5e8c27dd8c249cc4eacada40d99c"
+    },
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Mantle": {
+    "ProjectsV2": {
+      "FusionXV2FactoryAddress": "0xe5020961fa51ffd3662cdf307def18f9a87cce7c",
+      "UnknownDEXFactoryAddress": "0x50e024bd504f066fd7f343d6d048f4bd97b1064e",
+      "JadeswapFactoryAddress": "0x210d0c3d885c5d296e8f32ad4b7a9a2fe39e983b",
+      "GaladorFactoryAddress": "0x6f602b6f11f174c627813262fa713f334ca20aa6",
+      "MerchantMoeFactoryAddress": "0x5bef015ca9424a7c07b68490616a4c1f094bedec"
+    },
+    "ProjectsV3": {
+      "FusionXV3FactoryAddress": "0x530d2766d1988cc1c000c8b7d00334c14b69ad71",
+      "UnknownDEXFactoryAddress": "0xead128bdf9cff441ef401ec8d18a96b4a2d25252",
+      "AmmosFactoryAddress": "0x636ea278699a300d3a849ab2ce36c891c4ee3da0",
+      "AgniFactoryAddress": "0x25780dc8fc3cfbd75f33bfdab65e969b603b2035",
+      "ToroswapFactoryAddress": "0xd897a78851ef6b35e2a3b3681773c2d7caa8a4e3",
+      "Butter.xyzFactoryAddress": "0xeeca0a86431a7b42ca2ee5f479832c3d4a4c2644",
+      "CleopatraV2FactoryAddress": "0xaaa32926fce6be95ea2c51cb4fcb60836d320c42",
+      "MethLabFactoryAddress": "0x8f140fc3e9211b8dc2fc1d7ee3292f6817c5dd5d"
+    },
+    "ProjectsUnknown": {
+      "CleopatraFactoryAddress": "0xaaa16c016bf556fcd620328f0759252e29b1ab57",
+      "LiquidityBookFactoryAddress": "0xa6630671775c4ea2743840f9a5016dcf2a104054"
+    }
+  },
+  "Opbnb": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x67b2d2c3237ea2e4dd49ed114fadbd116e568d76",
+      "BinaryswapFactoryAddress": "0xd50aae6c73e2486b0da718d23f35dcf5aad25911",
+      "FlitswapFactoryAddress": "0x243f0218ef4cb8fc922ddd6d44e2dde5b95dca89",
+      "IronswapFactoryAddress": "0x3ccbdbb61de286c57331cc0049af793cd03f229b",
+      "PixelswapFactoryAddress": "0xd07739a9e9c46d3deded97c0edc49cea8bab1bb9",
+      "FourdexFactoryAddress": "0x0f93649c2ba0f64fa939ece899f1afd0b15c7bd2",
+      "OpankeswapFactoryAddress": "0x4523a7f5414bac9bfbdfc6ef0932bf580c3cf9f1",
+      "KnightdexFactoryAddress": "0xae9f4488cc751637b18070c5453a3b7acc137a3b",
+      "ZenaFinanceFactoryAddress": "0x8b4fc88973e5b8348640d35e49b1e9ce8aac180a",
+      "LuigiswapFactoryAddress": "0x0dae6d22182c20ab9150a4dcb3160591dc41027a",
+      "OneswapFactoryAddress": "0xda493fd5bab043e4f3954f88a303fbbc2a930eb6",
+      "MobydexFactoryAddress": "0x9864c78acce7837ad1da8f9bbeccf2dbe562e698",
+      "RocketswapFactoryAddress": "0xc83ef35eb044b57850cf28eff40067719f136770",
+      "CuanswapFactoryAddress": "0x43cc4516b1b549a47b493d06fc28f6c58bc4e888",
+      "LeetswapFactoryAddress": "0xa2899c776baaf9925d432f83c950d5054a6cf59c",
+      "XopsFinanceFactoryAddress": "0x6b5f5c4e0076c5841726a3b20b87eb0709741842",
+      "PyswapFactoryAddress": "0x1434575abb43103cfb40fd8147fb1e0b2ec3e2a1",
+      "PunkswapFactoryAddress": "0x5640113ea7f369e6dafbe54cbb1406e5bf153e90",
+      "ComfyswapFactoryAddress": "0x9946468d90de3fd885b7fee9bf73a956dc363349",
+      "AllInXSwapFactoryAddress": "0xafca85a70bd1c2bf98db7f24b2380134f76af7f1",
+      "PancakeswapV2FactoryAddress": "0x02a84c1b3bbd7401a5f7fa98a384ebc70bb5749e",
+      "opBANANAFactoryAddress": "0xdf9161aa1d60f129e185d43e2862bd4826e88aa8"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xb07cb8774f65c288fbcee93b9a35568f36cd4c1b",
+      "PancakeswapV3FactoryAddress": "0x0bfbcf9fa4f9c56b0f40a671ad40e0805a091865",
+      "DerpDEXFactoryAddress": "0xb91331ea9539ee881e3a45191076c454e482dac7"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Shibarium": {
+    "ProjectsV2": {
+      "PiswapFactoryAddress": "0xf6408ddc67210e91a5ca5a82a8194b87465ce204",
+      "UnknownDEXFactoryAddress": "0x938e62594610dd35a25a1dfe35c94fa0a9f6bfaa",
+      "WoofFinanceFactoryAddress": "0x42d6041342021bc317796c6a0f10ce39346e9167",
+      "ShiniswapFactoryAddress": "0xba6da45f13d201050b76cb17504e895eb61b2d50",
+      "AlienDogFactoryAddress": "0x3270c6b29a71404bfcb6e76b2e9e7f6645cde414",
+      "DogswapFactoryAddress": "0xa780fcbff7c5232fdbef4fc67313becffdf64172",
+      "LeetswapFactoryAddress": "0xd3ea3bc1f5a3f881bd6ce9761cba5a0833a5d737",
+      "Ball(deprecated)FactoryAddress": "0x9462881e18f1d5e38b32f8cfcdd187600cb55d46",
+      "MarswapFactoryAddress": "0xbe0223f65813c7c82e195b48f8aaaacb304fbae7",
+      "PunkswapFactoryAddress": "0x5640113ea7f369e6dafbe54cbb1406e5bf153e90",
+      "ShibbexFactoryAddress": "0x6369e8dfad8db8378179d74c187f1d5dea47fa9f",
+      "ChewyswapFactoryAddress": "0xededdbde5ffa62545edf97054edc11013ed72125",
+      "BonedexFactoryAddress": "0x907599886debf90ccb1e9b446b31d52bdd25926d",
+      "ComfyswapFactoryAddress": "0x09abade821e55d7944965688ea6699a9830bae45",
+      "BallFactoryAddress": "0x6d17c4d4524de46e33a09deb37ad6e7e87780137",
+      "ShibFiFactoryAddress": "0x7956fdce944ed2a0e2bdf25d2de6c6b34398b657",
+      "VixenFinanceFactoryAddress": "0x3b0c9b932f560c22eec174ab2d1d86647e317535",
+      "WoofswapV2FactoryAddress": "0x5c6c40cae6f57b782d8ff445258989aac73d5074",
+      "MarswapV2FactoryAddress": "0xd871a3f5d3bb9c00ddb0cc772690351b9712968d",
+      "ShibaSwapFactoryAddress": "0xc2b4218f137e3a5a9b98ab3ae804108f0d312cbc"
+    },
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Starknet": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Scroll": {
+    "ProjectsV2": {
+      "ScrollswapFactoryAddress": "0x0082123cf29a85f48cd977d3000aec145a3b452f",
+      "PunkSwapFactoryAddress": "0x5640113ea7f369e6dafbe54cbb1406e5bf153e90",
+      "UnknownDEXFactoryAddress": "0x25c030116feb2e7bba054b9de0915e5f51b03e31",
+      "LeetswapFactoryAddress": "0xa2899c776baaf9925d432f83c950d5054a6cf59c",
+      "LuigiswapFactoryAddress": "0x0dae6d22182c20ab9150a4dcb3160591dc41027a",
+      "SpacefiFactoryAddress": "0x6cc370ed99f1c11e7ac439f845d0ba6aed55cf50",
+      "QuillswapFactoryAddress": "0xab8aefe85fad683a6bde16eed04c3420c713324b",
+      "IceCreamswapFactoryAddress": "0x9e6d21e759a7a288b80eef94e4737d313d31c13f",
+      "ZadaFinanceFactoryAddress": "0x113260531ecd733584b93a3fb256fd69a3d40163",
+      "PapyrusSwapFactoryAddress": "0xd5f3d3fb72210bfe71a59c05e0b8d72973baa2a6",
+      "ZebraV1FactoryAddress": "0xf3ba3bcde09bfea08fc678897a76db4227932187",
+      "ZebraV2FactoryAddress": "0xa63eb44c67813cad20a9ae654641ddc918412941",
+      "SushiswapV2FactoryAddress": "0xb45e53277a7e0f1d35f2a77160e91e25507f1763",
+      "ZProtocolFactoryAddress": "0xed93e976d43af67cc05aa9f6ab3d2234358f0c81"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x0df45d6e3bc41fd8e50d9e227215413053c003ad",
+      "CattieswapFactoryAddress": "0x65cd1d63f3078196d1f326138eeadcccc2f6b4c9",
+      "KyberSwapElasticFactoryAddress": "0xc7a590291e07b9fe9e64b86c58fd8fc764308c4a",
+      "SushiswapV3FactoryAddress": "0x46b3fdf7b5cde91ac049936bf0bdb12c5d22202e",
+      "MetavaultV3FactoryAddress": "0x9367c561915f9d062afe3b57b18e30dec62b8488",
+      "ZebraV3FactoryAddress": "0x96a7f53f7636c93735bf85de416a4ace94b56bd9",
+      "UniswapV3FactoryAddress": "0x70c62c8b8e801124a4aa81ce07b637a3e83cb919",
+      "NURIV2FactoryAddress": "0xaaa32926fce6be95ea2c51cb4fcb60836d320c42"
+    },
+    "ProjectsUnknown": {
+      "SkydromeFactoryAddress": "0x2516212168034b18a0155ffbe59f2f0063fffbd9",
+      "iZiSwapFactoryAddress": "0x8c7d3063579bdb0b90997e18a770eae32e1ebb08",
+      "SyncSwapClassicFactoryAddress": "0x37bac764494c8db4e54bde72f6965bea9fa0ac2d",
+      "CoffeeFactoryAddress": "0x23537bce0533e53609a49dffdd400e54a825cb81",
+      "SyncSwapStableFactoryAddress": "0xe4cf807e351b56720b17a59094179e7ed9dd3727",
+      "SyncSwapFactoryAddress": "0xdef746704b64a74078dc666b29ca53098d42d273",
+      "TokanExchangeFactoryAddress": "0x92af10c685d2cf4cd845388c5f45ac5dc97c5024",
+      "SyncSwapAquaFactoryAddress": "0x87aeb51d606056f48d241c4072f55acd9d937018"
+    }
+  },
+  "Manta": {
+    "ProjectsV2": {
+      "LeetswapFactoryAddress": "0xa2899c776baaf9925d432f83c950d5054a6cf59c",
+      "UnknownDEXFactoryAddress": "0xa737051ed0046b174f21b28742e92888ae4378ad",
+      "PacificswapFactoryAddress": "0x19405689008954ccddbc8c7ef2b64dd88b4a674a",
+      "CetoSwapFactoryAddress": "0xf50c8e257ccf3e2b58651f78e3c2dc83446d9c47",
+      "GullNetworkFactoryAddress": "0x31a78894a2b5de2c4244cd41595cd0050a906db3"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x7c23f66dfc733068043060ab04f88b5122042e2a",
+      "ZendexFactoryAddress": "0x4eee19e0856d23fac3d0bdd867beb4e1b8c78344",
+      "ApertureswapFactoryAddress": "0x5bd1f6735b80e58aac88b8a94836854d3068a13a",
+      "QuickswapV3FactoryAddress": "0x56c2162254b0e4417288786ee402c2b41d4e181e",
+      "OkuTradeFactoryAddress": "0x06d830e15081f65923674268121ff57cc54e4e23",
+      "FireflyFactoryAddress": "0x8666ef9dc0ca5336147f1b11f2c4fc2eca809b95"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Kujira": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Osmosis": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Bittorrent": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0xbeac75aef70273d2a615bc1ba74ce71d6dedcaf7",
+      "ISwapFactoryAddress": "0x0cee0dfb5c680e3ccaa46fa28d5057f204e24f0a",
+      "SpookyswapFactoryAddress": "0xee4bc42157cf65291ba2fe839ae127e3cc76f741",
+      "SoyFinanceFactoryAddress": "0xbf6c50889d3a620eb42c0f188b65ade90de958c4",
+      "JustMoneyFactoryAddress": "0x4deb2f0976dc3bf351555524b3a24a4fea4e137e",
+      "SushiswapV2FactoryAddress": "0xb45e53277a7e0f1d35f2a77160e91e25507f1763",
+      "ElkFinanceV2FactoryAddress": "0xc06348aee3f3e92ee452816e0d3f25c919f6fb04",
+      "TorrSwapFactoryAddress": "0xea34610f4373c8d75ed1810a6096197f297f2786"
+    },
+    "ProjectsV3": {
+      "SpookySwapV3FactoryAddress": "0xe12b00681dd2e90f51d9edf55ce1a7d171338165",
+      "SushiswapV3FactoryAddress": "0xbbde1d67297329148fe1ed5e6b00114842728e65",
+      "UnknownDEXFactoryAddress": "0xe8234393e0ffe32785bd78366be2fffce51795b9"
+    },
+    "ProjectsUnknown": {
+      "KyberswapDMMFactoryAddress": "0xd9bfe9979e9ca4b2fe84ba5d4cf963bbcb376974",
+      "SushiswapTridentFactoryAddress": "0x281bd3a3f96ae7c96049493a7ba9449df2c5b0fe",
+      "KyberswapClassicFactoryAddress": "0x1c758af0688502e49140230f6b0ebd376d429be5"
+    }
+  },
+  "Blast": {
+    "ProjectsV2": {
+      "ThrusterV2FactoryAddress": "0x37836821a2c03c171fb1a595767f4a16e2b93fc4",
+      "RingFactoryAddress": "0x24f5ac9a706de0cf795a8193f6ab3966b14ecfe6",
+      "MonoswapV2FactoryAddress": "0xe27cb06a15230a7480d02956a3521e78c5bfd2d0",
+      "ThrusterFactoryAddress": "0xb4a7d971d0adea1c73198c97d7ab3f9ce4aafa13",
+      "DYORSwapFactoryAddress": "0xa1da7a7eb5a858da410de8fbc5092c2079b58413",
+      "UnknownDEXFactoryAddress": "0x00f761a1d0c969d67f2a4578982f264ea0623e1d",
+      "AkitaswapFactoryAddress": "0x27c429dff0e6d3b43b2c404c35f58c2b36cef916",
+      "UniverseSwapFactoryAddress": "0xf2c046ef3cd0857e76a606397001444fb73dc805",
+      "BlazeswapFactoryAddress": "0x232ac7fcf7afb23739b818822c097fcafe39404a",
+      "HyperblastFactoryAddress": "0xd97ffc2041a8ab8f6bc4aee7ee8eca485381d088",
+      "BlastdexFactoryAddress": "0x66346aac17d0e61156ac5f2a934ccf2a9bde4c65",
+      "SwapBlastFactoryAddress": "0x04c9f118d21e8b767d2e50c946f0cc9f6c367300",
+      "IcecreamswapFactoryAddress": "0x9e6d21e759a7a288b80eef94e4737d313d31c13f",
+      "CyberblastV2FactoryAddress": "0x32132625cd02988fb105fbbd3138bd383df3af65",
+      "PoliaFinanceFactoryAddress": "0x2a977e214503db4322b8cc289277dbb717556703",
+      "BlasterV2FactoryAddress": "0x9cc1599d4378ea41d444642d18aa9be44f709ffd",
+      "XDXFactoryAddress": "0xf55de36072becebf162d2d54c49964f3b0683711",
+      "BitdexFactoryAddress": "0x08938ee323c6da637eff60e854812c16249d4485",
+      "LagomExchangeFactoryAddress": "0xd34a62479dedf3438cb3e28c3d959d6b9d3ba94c",
+      "UniswapV2FactoryAddress": "0x5c346464d33f90babaf70db6388507cc889c1070",
+      "LunarBlastFactoryAddress": "0x18d4ad13392570fb31a8239ea9a8a8ec4beaf442",
+      "TornadoBlastFactoryAddress": "0x4ae5e86c262af721e13d6c863780da35d0d9cbd1"
+    },
+    "ProjectsV3": {
+      "MonoswapV3FactoryAddress": "0x48d0f09710794313f33619c95147f34458bf7c3b",
+      "ThrusterV3FactoryAddress": "0x71b08f13b3c3af35aadeb3949afeb1ded1016127",
+      "CyberblastV3FactoryAddress": "0x57ef21959cf9536483ba6ddb10ad73e2a06b85ff",
+      "UnknownDEXFactoryAddress": "0x6ea64bdca26f69fdef36c1137a0eae5bf434e8fd",
+      "UniswapV3FactoryAddress": "0x792edade80af5fc680d96a2ed80a44247d2cf6fd",
+      "BlasterV3FactoryAddress": "0x1a8027625c830aac43ad82a3f7cd6d5fdce89d78",
+      "BladeSwapFactoryAddress": "0xa87dbf5082af26c9a6ab2b854e378f704638cca5"
+    },
+    "ProjectsUnknown": {
+      "iZUMiSwapFactoryAddress": "0x5162f29e9626cf7186ec40ab97d92230b428ff2d",
+      "FenixFinanceFactoryAddress": "0x7a44cd060afc1b6f4c80a2b9b37f4473e74e25df"
+    }
+  },
+  "X1testnet": {
+    "ProjectsV2": {
+      "UnknownDEXFactoryAddress": "0x76a32e5ca058af99fd801d3227a12cfcff7e6051",
+      "DackieSwapV2FactoryAddress": "0x67a30de533297f027acc4586eec6c3ad0a950d7a"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x80348c8b23520f8b5eb37a241eff65192c7b8b20",
+      "DackieSwapV3FactoryAddress": "0x08111db23ab03fdd99306a9b4f5a7b815ea4fda8"
+    },
+    "ProjectsUnknown": {}
+  },
+  "Shimmer": {
+    "ProjectsV2": {
+      "ShimmerSeaFactoryAddress": "0x4fb5d3a06f5de2e88ce490e2e11d22b840d5ac47",
+      "IceCreamSwapFactoryAddress": "0x24cb308a4e2f3a4352f513681bd0c31a0bd3ba31",
+      "UnknownDEXFactoryAddress": "0x81675259b62708774aff43b8cf3e38ab84ba4844",
+      "CyberGlowFactoryAddress": "0xb41fa9528e3866d27a03ac544ad414eac435a2e6"
+    },
+    "ProjectsV3": {
+      "IotabeeFactoryAddress": "0x2eb409e79ede4f91faeb043e72557109a2235915",
+      "TangleSwapFactoryAddress": "0xdf7ba717fb0d5ce579252f05167cd96d0fa77bcb"
+    },
+    "ProjectsUnknown": {
+      "SwaplineFactoryAddress": "0xee0616a2deaa5331e2047bc61e0b588195a49cea"
+    }
+  },
+  "Xlayer": {
+    "ProjectsV2": {
+      "RevoSwapv2FactoryAddress": "0xa38498983e7b31de851e36090bc9d1d8fb96be5e",
+      "UnknownDEXFactoryAddress": "0xf7c16c5c5af8838a884cf409543fdbe4abd3d81d",
+      "AbstraDEXFactoryAddress": "0xa7afb6163c331ddb0845843889d6f9544328846f",
+      "DackieSwapV2FactoryAddress": "0x757cd583004400ee67e5cc3c7a60c6a62e3f6d30",
+      "DYORSwapFactoryAddress": "0x2ccadb1e437aa9cdc741574bda154686b1f04c09",
+      "PotatoSwapFactoryAddress": "0x630db8e822805c82ca40a54dae02dd5ac31f7fcf",
+      "SatoriSwapFactoryAddress": "0xd967a2a9b873ccd5a5ede00869e353949f24c3dc",
+      "WizardSwapFactoryAddress": "0x957a8f03a7564ccfb69d8e56435c7c71d089d947"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0xd30dd032c7897300c66870640f3c31f74b8b3d08",
+      "DackieSwapV3FactoryAddress": "0xc6f3966e5d08ced98ac30f8b65beab5882be54c7",
+      "RevoSwapv3FactoryAddress": "0x47cdecafba3960588d79a328c725c3529d4ec081",
+      "QuickswapV3FactoryAddress": "0xd2480162aa7f02ead7bf4c127465446150d58452"
+    },
+    "ProjectsUnknown": {
+      "iZUMiSwapFactoryAddress": "0xbf8f8ef2d2a534773c61682ea7cf5323a324b188"
+    }
+  },
+  "Mode": {
+    "ProjectsV2": {
+      "DYORSwapFactoryAddress": "0xe470699f6d0384e3ea68f1144e41d22c6c8fdeef",
+      "UnknownDEXFactoryAddress": "0x7962223d940e1b099abae8f54cabfb8a3a0887ab",
+      "KimExchangev2FactoryAddress": "0xc02155946dd8c89d3d3238a6c8a64d04e2cd4500",
+      "SupSwapFactoryAddress": "0x557f46f67a36e16ff27e0a39c5da6bfcb4ff89c0",
+      "ModeSwapFactoryAddress": "0x50fd14f0eba5a678c1ebc16bdd3794f09362a95c",
+      "SwapModeFactoryAddress": "0xfb926356baf861c93c3557d7327dbe8734a71891",
+      "DackieSwapFactoryAddress": "0x757cd583004400ee67e5cc3c7a60c6a62e3f6d30"
+    },
+    "ProjectsV3": {
+      "UnknownDEXFactoryAddress": "0x6ced5313a6993561cd52018a2e3f3c037fcd0ef5",
+      "SupSwapv3FactoryAddress": "0xa0b018fe0d00ed075fb9b0eee26d25cf72e1f693",
+      "DackieSwapv3FactoryAddress": "0xc6f3966e5d08ced98ac30f8b65beab5882be54c7"
+    },
+    "ProjectsUnknown": {
+      "iZUMiSwapFactoryAddress": "0x8c7d3063579bdb0b90997e18a770eae32e1ebb08"
+    }
+  },
+  "Ton": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {}
+  },
+  "Near": {
+    "ProjectsV2": {},
+    "ProjectsV3": {},
+    "ProjectsUnknown": {
+      "Ref.financeFactoryAddress": "v2.ref-finance.near"
+    }
+  },
+  "Hedera": {
+    "ProjectsV2": {
+      "SaucerSwapV1FactoryAddress": "0x0000000000000000000000000000000000103780",
+      "UnknownDEXFactoryAddress": "0x00000000000000000000000000000000001edf24",
+      "PangolinFactoryAddress": "0x00000000000000000000000000000000001a88bc",
+      "SaucerSwapV2FactoryAddress": "0x00000000000000000000000000000000003c3951"
+    },
+    "ProjectsV3": {
+      "SaucerSwapV2FactoryAddress": "0x00000000000000000000000000000000003c3951"
+    },
+    "ProjectsUnknown": {
+      "HeliSwapFactoryAddress": "0x0000000000000000000000000000000000134224"
+    }
+  }
+}

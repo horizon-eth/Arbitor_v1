@@ -1,0 +1,377 @@
+[
+  {
+    "pool_address": "0x968AA62488d5A412e21ce5F4A8284ffaa588F472",
+    "pool_name": "ATF / WETH - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x2a48d1DaCdBCd1CdDE815E3BE0c58C0A29EA7168",
+    "pool_name": "WETH / MATIC - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "MATIC",
+    "token1_address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x3D09B07ff21C91a1E7D77E3c3d1D10B4E2Daa3CF",
+    "pool_name": "ATF / WETH - fee: 10",
+    "project_name": "AntfarmV2",
+    "pool_fee": 10,
+    "param_fee": [
+      100
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xfa1C4eebDd4a4315b91E3758d8926D95ACFc2650",
+    "pool_name": "ATF / WETH - fee: 25",
+    "project_name": "AntfarmV2",
+    "pool_fee": 25,
+    "param_fee": [
+      250
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x9F97853f72cDeAD98214398BFf6aA6d4160822dd",
+    "pool_name": "ATF / WETH - fee: 50",
+    "project_name": "AntfarmV2",
+    "pool_fee": 50,
+    "param_fee": [
+      500
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7cF42Ec4A100D6cfCcbbA46fD2797098802f4aa2",
+    "pool_name": "WETH / USDC - fee: 10",
+    "project_name": "AntfarmV2",
+    "pool_fee": 10,
+    "param_fee": [
+      100
+    ],
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x2906bE04939952B1Da9730C60a80EB96a9585168",
+    "pool_name": "WETH / USDC - fee: 100",
+    "project_name": "AntfarmV2",
+    "pool_fee": 100,
+    "param_fee": [
+      1000
+    ],
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x26af23bA66651F62278D84826b2e80FF5bc14361",
+    "pool_name": "WETH / USDC - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xb373916942016387F2327ea07355554a96d886Fb",
+    "pool_name": "ATF / USDC - fee: 10",
+    "project_name": "AntfarmV2",
+    "pool_fee": 10,
+    "param_fee": [
+      100
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x6b218fe0fc205281f5d2151A16A6242c19967023",
+    "pool_name": "ATF / MATIC - fee: 10",
+    "project_name": "AntfarmV2",
+    "pool_fee": 10,
+    "param_fee": [
+      100
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
+    "token0_decimal": 18,
+    "token1_symbol": "MATIC",
+    "token1_address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xb6C3C27769842d982f69409B36202c64c03f40A6",
+    "pool_name": "ATF / USDC - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xbF67c89cf4B0eA793E565791A8b9c8273149d077",
+    "pool_name": "ATF / MATIC - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
+    "token0_decimal": 18,
+    "token1_symbol": "MATIC",
+    "token1_address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x8931b669D1C1A8e847fafae6b6081C3493cbaF3e",
+    "pool_name": "MATIC / USDC - fee: 10",
+    "project_name": "AntfarmV2",
+    "pool_fee": 10,
+    "param_fee": [
+      100
+    ],
+    "token0_symbol": "MATIC",
+    "token0_address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x566B91a4bc5C0E89F157bCDA0FA7f71339724b3d",
+    "pool_name": "WETH / MATIC - fee: 10",
+    "project_name": "AntfarmV2",
+    "pool_fee": 10,
+    "param_fee": [
+      100
+    ],
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "MATIC",
+    "token1_address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x5927Ac02f09E6F2eBa288EF520B32A09A27fD6cd",
+    "pool_name": "MATIC / USDC - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "MATIC",
+    "token0_address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x3d9b60e8654cD8317BD385231F36D958D04c4688",
+    "pool_name": "WETH / USDC - fee: 50",
+    "project_name": "AntfarmV2",
+    "pool_fee": 50,
+    "param_fee": [
+      500
+    ],
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x88a0E8234d79f49ab67C6f3Bc1d8d09e17ff823d",
+    "pool_name": "ATF / USDC - fee: 25",
+    "project_name": "AntfarmV2",
+    "pool_fee": 25,
+    "param_fee": [
+      250
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x7CcF92b838022eEe3c6b3fFDbf6a30Fac774919E",
+    "pool_name": "WETH / USDC - fee: 25",
+    "project_name": "AntfarmV2",
+    "pool_fee": 25,
+    "param_fee": [
+      250
+    ],
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x99dd46d60078DFF5e3EEa160033Ed6789EB32bA7",
+    "pool_name": "ATF / USDC - fee: 50",
+    "project_name": "AntfarmV2",
+    "pool_fee": 50,
+    "param_fee": [
+      500
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x3ECB46fb482B1FaA8eEdD37e6be3F36E15b0ad08",
+    "pool_name": "MATIC / USDC - fee: 25",
+    "project_name": "AntfarmV2",
+    "pool_fee": 25,
+    "param_fee": [
+      250
+    ],
+    "token0_symbol": "MATIC",
+    "token0_address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xE5747904Df1340b3E02f6b02DbFefacB2B91a7f3",
+    "pool_name": "USDT / WETH - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x4D1C76AF4881BFEaa441A04Cd7e577B77Ac75E34",
+    "pool_name": "USDT / WETH - fee: 10",
+    "project_name": "AntfarmV2",
+    "pool_fee": 10,
+    "param_fee": [
+      100
+    ],
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x8b8486Ac44A6b585217b99cF80448703376BB4da",
+    "pool_name": "ATF / USDT - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "ATF",
+    "token0_address": "0x40DF0C3BBAAE5Ea3A509d8F2aa9E086776C98E6c",
+    "token0_decimal": 18,
+    "token1_symbol": "USDT",
+    "token1_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x4FcCE5FF168E143f2C8CA754d1e479EbA3477039",
+    "pool_name": "USDT / USDC - fee: 1",
+    "project_name": "AntfarmV2",
+    "pool_fee": 1,
+    "param_fee": [
+      10
+    ],
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x81e5473F1586EE915ec13255587d4D4Ff43f9149",
+    "pool_name": "USDT / USDC - fee: 10",
+    "project_name": "AntfarmV2",
+    "pool_fee": 10,
+    "param_fee": [
+      100
+    ],
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  }
+]

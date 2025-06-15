@@ -1,0 +1,1172 @@
+{
+  "PancakeswapV3": {
+    "USDT_WETH_0_0001_POOL": {
+      "address": "0x337AF062CE32bB423010415196E315c4154D36C3",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_WETH_0_0005_POOL": {
+      "address": "0x4A080D9488cE2C8258185d78852275D6d3c2820c",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_WETH_0_0025_POOL": {
+      "address": "0xc8742BC59AA168118F7d056400c4c370246de542",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_WETH_0_01_POOL": {
+      "address": "0xF9d73C67fB502E98Ff3Bb8Dbf57aF63491a0e439",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_MATIC_0_0001_POOL": {
+      "address": "0x893C031AE19097688Db592CA77fcc71a38346F8C",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_MATIC_0_0025_POOL": {
+      "address": "0x411A3De77Ce5C81f771614C1793098769d3D1D8A",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_0_0001_POOL": {
+      "address": "0xca06375be938a2d6eF311dfaFab7E326d55D23Cc",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_0_0005_POOL": {
+      "address": "0xB91CeC385c698cBC2a802d9F661341836939692f",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_DAI_0_01_POOL": {
+      "address": "0xD68F984770736e73181B92cbf839F0F9e565D95a",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_CFT_0_0005_POOL": {
+      "address": "0x2E8eFeF372DCB753b2991f224120445eDaA186e0",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_CFT_0_01_POOL": {
+      "address": "0x0b0347E65B4B30E85C8110fda4E86Cc1EB63A7C2",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "CAKE_USDT_0_01_POOL": {
+      "address": "0x77665D6fE54Cb47E3dd04A76BF9D4EB637F0D67d",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_MATIC_0_0005_POOL": {
+      "address": "0x7a816241EdaF060e33b774D6D3D6398485dFf9AF",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_MATIC_0_0025_POOL": {
+      "address": "0xaE30fcdEE41dC9eC265e841D8185d055B87d1B7a",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_USDC_0_0001_POOL": {
+      "address": "0x9f37552b87b68E7F169c442D595c1Be7A0F03b92",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_USDC_0_0005_POOL": {
+      "address": "0xD43b9dCbB61e6ccFbCFef9f21e1BB5064F1CB33f",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_USDC_0_0025_POOL": {
+      "address": "0x4641377ba87c2640B4f8D2EEcCE1F5c20048f7ed",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_USDC_0_01_POOL": {
+      "address": "0x43b0599BaFCafe014A97b07e5342F47C0b50CBf3",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_DAI_0_0025_POOL": {
+      "address": "0x8Ebc143FB436dcD9bDFcb6B50d909F632dd12Ca4",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_WBTC_0_0001_POOL": {
+      "address": "0xb5d9E1622BFA6Efb3FB50c0bDc6a0EE2b2d046fA",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_WBTC_0_0005_POOL": {
+      "address": "0xf1e501f74Ed9dc619be53Fddb698c94AbF9D56B6",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_WBTC_0_0025_POOL": {
+      "address": "0x2376fC177F2Ac738D6Be5Aba3bd911DF502AD53F",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_WETH_0_0001_POOL": {
+      "address": "0x462f40F6426F90993caC0E240E7980c9Ef8b32B0",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_RETH_0_0001_POOL": {
+      "address": "0x66f1320E9f77C6036a39C884E7fDC63F88e39E50",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_RETH_0_0005_POOL": {
+      "address": "0x2e780D6666C2C44754a0cA7A8e2Ed97506B47751",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "CAKE_WETH_0_0025_POOL": {
+      "address": "0x58684788c718D0CfeC837ff65ADDA6C8721FE1e9",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "CAKE_WETH_0_01_POOL": {
+      "address": "0x3Fa1c450f3842C1252e4cB443e3F435b41D6f472",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_WSTETH_CFT_0_0001_POOL": {
+      "address": "0xE0a5B3A014084B7E0fF6526986497629AEE16533",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_WSTETH_CFT_0_0005_POOL": {
+      "address": "0x3752BDb9215A2C0609d71407b50A528e1C6ECaBD",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_RSETH_0_0001_POOL": {
+      "address": "0xbAABf57B49eaa079523b29EC9D25879D82D17Dc6",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_RSETH_0_0005_POOL": {
+      "address": "0x435564Fb7E82daB83B2733D6Bc1fDB8B5a732DE8",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "MATIC_USDC_0_0025_POOL": {
+      "address": "0xFfDb00470ADda49f0eCf893b9160f35EFB79418A",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "MATIC_GRAI_0_0025_POOL": {
+      "address": "0x942568C0F1216cC4B01d1fCEF8B87Ce4a5986234",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_DAI_0_0001_POOL": {
+      "address": "0x9Bc342259cCEdA0487E70b71A3161F002a95F0e8",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_USDC_0_0001_POOL": {
+      "address": "0x849c0ae884bFDc14DDdeB7Cae95494f368414855",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "CAKE_USDC_0_0025_POOL": {
+      "address": "0x2D2D6C2429721E6a31d986C2c866a724D6ea4e68",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "CAKE_USDC_0_01_POOL": {
+      "address": "0xb4BAB40e5a869eF1b5ff440a170A57d9feb228e9",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_GRAI_0_0005_POOL": {
+      "address": "0x39aCc7cf02af19A1eB0e3628bA0F5C48f44beBF3",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "DUSD_USDC_0_0005_POOL": {
+      "address": "0x65E003Ac1682cFF56B4a187E7cf90DdBeD736aF0",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "DYSN_USDC_0_0025_POOL": {
+      "address": "0x7aC3D204C17Cf57C0e0f9bc5D11cd51c967ba1F9",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_GRAI_0_0005_POOL": {
+      "address": "0x160f3d3af6A2ECe5274AfD0925137e0387BAA5F2",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WSTETH_CFT_RETH_0_0005_POOL": {
+      "address": "0xf142d852c9c805e419399c9B3Ce2A8485F950BBf",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    }
+  },
+  "QuickswapV3": {
+    "USDT_WETH_POOL": {
+      "address": "0x4412c7152c658967a3360F0A1472E701bDBeca9E",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_MATIC_POOL": {
+      "address": "0x5eAAE02CcE922deb3F356974B01d2031DEa06BD2",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_POOL": {
+      "address": "0x9591b8A30c3a52256ea93E98dA49EE43Afa136A8",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_DAI_POOL": {
+      "address": "0xC033e1510528F1ACed09af52F728D6bBDD9959B8",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_CFT_POOL": {
+      "address": "0x07a42e9f31C1FB7C2056b040e55E35c2ea674477",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_QUICK_POOL": {
+      "address": "0x872607C5C255594545Ec89610c26F3146C2c8fc8",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_CRV_POOL": {
+      "address": "0xF94DB410539416D4640CDD02fcdD466EAe42F960",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_FRAX_POOL": {
+      "address": "0x937A37f95fBaA9C5B6f8141ec23BAA262B92eB5E",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_MATIC_POOL": {
+      "address": "0xB73AbFb5a2C89f4038baA476Ff3A7942A021c196",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_USDC_POOL": {
+      "address": "0xc44AD482f24fd750cAeBa387d2726d8653F8c4bB",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_DAI_POOL": {
+      "address": "0xcAaA9869581000cd760884A663C05B0F6B1B8b5F",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_WBTC_POOL": {
+      "address": "0xFC4A3A7dc6b62bd2EA595b106392f5E006083b83",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_WETH_POOL": {
+      "address": "0xd147d6722eb13Ab70a91fa7faa2b4EeC13c6Be56",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_WSTETH_CFT_POOL": {
+      "address": "0x82f5303D3F5842D8230aC459a6353a4A7439E966",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_QUICK_POOL": {
+      "address": "0xc44A71b0c932751B1851fe2eF01011a005fC0120",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "LINK_WETH_POOL": {
+      "address": "0x43A2ff02BD9117a116a3C97a0aF02b1Cf5c6c49B",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_STMATIC_POOL": {
+      "address": "0x6ECF8fBC209479bEB99C37F280d460b7456AEe96",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_AAVE_POOL": {
+      "address": "0x29C7F8c7b6E087c2632e577C49e9e892AaAd3b80",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "CRV_WETH_POOL": {
+      "address": "0xa9FE2b6Fd0e9ec712Fb8E49FCCb07485a5ADfd78",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_FRXETH_POOL": {
+      "address": "0x0B19F0144bD78528C8ACDB6FC38914D855CDb0fa",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_FRAX_POOL": {
+      "address": "0x2614E246E51DFCe2De56Cb057F5fdAf46c8d8fFf",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "ATF_WETH_POOL": {
+      "address": "0xe30714A33Df05c77D533880aef3069b1CF99E6c1",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_DUSD_POOL": {
+      "address": "0x43Ea42E220DBbcE461780E6f5B3D6179669bAd1c",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_WSTETH_POOL": {
+      "address": "0x852ca8a0157388f5117ed26B79AE4df7Ef466913",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_DOV_POOL": {
+      "address": "0xc2F75ac4F5a05deF575028B7a3992285133ec745",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "MATIC_USDC_POOL": {
+      "address": "0xc9853F9f29CDd15Ece6965e20Ca288A2946C15E6",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "MATIC_DAI_POOL": {
+      "address": "0xfe9901aed780520Ed7c150097F79Fd934EbB9650",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "MATIC_WBTC_POOL": {
+      "address": "0xdD659e42f54b472fa9AA96442F1d02295733D567",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_MATIC_POOL": {
+      "address": "0x1a258d8a6c23F244592eAc7735bF9F69eC594A50",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "QUICK_MATIC_POOL": {
+      "address": "0x40750d30Ee4a60Da987135ca1d0B6d224BdE8Fae",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "STMATIC_MATIC_POOL": {
+      "address": "0x8f2A1450C040B3c19eFE9676165d8f30d8280019",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_DAI_POOL": {
+      "address": "0x68cc0516162b423930cD8448A2a00310E841E7f5",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_WBTC_POOL": {
+      "address": "0x1Cd1D779CFd8E86b40a254046377561Ea76E22e4",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_USDC_POOL": {
+      "address": "0xEc6Bf9141d12a8B2258b1F29CDf6E18A6883357b",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "QUICK_USDC_POOL": {
+      "address": "0x1247B70c4b41890E8c1836E88DD0C8e3B23Dd60e",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "LINK_USDC_POOL": {
+      "address": "0x167A0cfc63f52945640e2672A0a720a2621232C3",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "STMATIC_USDC_POOL": {
+      "address": "0x0EA656379a6A9e8dBEA601BAeaA2c8cc68843bd4",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "AAVE_USDC_POOL": {
+      "address": "0x8663ce5230c4c17d0d73b6b63CA5531Ed6dFa757",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_FRAX_POOL": {
+      "address": "0xC4aD89d0A07081871f3007079f816B0757D2638E",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "DUSD_USDC_POOL": {
+      "address": "0xf63AAf0c7E35742a888A84807736aE5d989Aa206",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "DAI_WBTC_POOL": {
+      "address": "0x40001612Dbe6D43110a5Dc6DfcCB659565dc0BfB",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_DAI_POOL": {
+      "address": "0x0eB211dFA194044560Cb368f147c614b94871a17",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "QUICK_DAI_POOL": {
+      "address": "0xf2249266eA9A219c333361d06b8894CaB4a488F0",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "DUSD_DAI_POOL": {
+      "address": "0x4270f9C83BD0838782c125F55b809642A887cAbd",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_WBTC_POOL": {
+      "address": "0xb9D1C46313b20734D2ddb730E4D42b36d883de43",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_QUICK_POOL": {
+      "address": "0xf64388a321e500861E87b6e45FacfE881FED4E46",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "FRXETH_FRAX_POOL": {
+      "address": "0x9191a358548513A107c74810Ad753EF19402Df42",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "FXS_FRAX_POOL": {
+      "address": "0xcbb9D995933C4F7A8CeB0C7Cb096Cb9B7d9DeFc8",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    }
+  },
+  "QuickswapUniV3": {
+    "USDT_WETH_0_0001_POOL": {
+      "address": "0x0981C4b55C110520145299a58535d3B8eB8C80B2",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_WETH_0_0005_POOL": {
+      "address": "0x55d70076a5087a5BF22c927075Cca8ed2C8D1bf1",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_WETH_0_01_POOL": {
+      "address": "0x2D33059621f3aF4dd7DcA3C9eA0fE78f48C8D093",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_MATIC_0_0005_POOL": {
+      "address": "0xC2a3BcA5e2BfDd89EB20b162037d4e6B876c995E",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_0_0001_POOL": {
+      "address": "0x733e0Cb8580Bb3bb05193489Ea4b06a4184a53D6",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_0_0005_POOL": {
+      "address": "0x3FE795d44Ae597082E0f4Ae498F88dC5159D3d45",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_0_01_POOL": {
+      "address": "0xE57A7642c6bd89f8CA57B2E9C85307F8D77D9F14",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_DAI_0_0001_POOL": {
+      "address": "0x1C2A80442212AfCBdD2e72551a7e4F3F9842c634",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_CFT_0_0001_POOL": {
+      "address": "0x80707236008A51725C876231fF2345b25e2468f0",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_CFT_0_0005_POOL": {
+      "address": "0x86e56c0a6d31fB34f98c62873da6e0169C2D5C95",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_CFT_0_01_POOL": {
+      "address": "0xeaCb7E712a979BC12bffFD7e4b8f96F04172f06a",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_QUICK_0_0001_POOL": {
+      "address": "0x00947904c7EF833553416B45FCC8cBA2C996dFCf",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_MATIC_0_0001_POOL": {
+      "address": "0x1212ec1d20b62A59e2286Ebbafd3Bb03E4949c28",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_MATIC_0_0005_POOL": {
+      "address": "0x8C6B3411c2d04dfBA5E8e00406e8F0F247830A58",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_MATIC_0_01_POOL": {
+      "address": "0xaFAf0ae2338972e7811597d00E9117323AD5D4Fc",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_USDC_0_0001_POOL": {
+      "address": "0xAC3F567Ef04566706848F18E950644219DE7C0cb",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_USDC_0_0005_POOL": {
+      "address": "0xE968FBDFe01fB45BcF1C71c4B105FD271Db5A10b",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_USDC_0_01_POOL": {
+      "address": "0x3725abD1Fc6D07cAEbB404596b759C596e4C6254",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_DAI_0_0001_POOL": {
+      "address": "0x4D6BE03cC30E1Ac53c1a06ee3E49f9e81cE37988",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_DAI_0_0005_POOL": {
+      "address": "0xa4D3A2713e1dEEAB6945fd667605b8A3041782d0",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_WBTC_0_0005_POOL": {
+      "address": "0x29A529264a546B3526b0B2517D5369a6b6d43214",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_WBTC_0_01_POOL": {
+      "address": "0x774B13C87d75dC2080C6310BF1C347BE1e73a25e",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_WETH_0_0005_POOL": {
+      "address": "0xB2687CcE107DDc1424E30CfB375178984f55A444",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_WETH_0_01_POOL": {
+      "address": "0x387dFfCe8308efa013d8fb38b8E1e7DCbF9a6cA3",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_RETH_0_0005_POOL": {
+      "address": "0xc76c933b7DB10C443EDa2e74baE1b5309d0A499c",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_QUICK_0_0005_POOL": {
+      "address": "0x2341a5c09907330e145b967871397600B7FADC0f",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_QUICK_0_01_POOL": {
+      "address": "0x107a4dd0fA6c27Eb9ECb86344fE9a12f706FbeEf",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "LINK_WETH_0_0001_POOL": {
+      "address": "0x8c7B85DAdAE589bC07e6ef5cB842262dE535a185",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_WSTETH_0_0005_POOL": {
+      "address": "0x8cCB7552334b6586D5b6c4Fa4d381Dd74a737e70",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "MATIC_USDC_0_0005_POOL": {
+      "address": "0x830B7FCedcB711000b9565f68Dcfa758676f5Ebe",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_MATIC_0_0001_POOL": {
+      "address": "0xf3af5B48cF371b15A4667B67bf6293864438cD81",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_MATIC_0_0005_POOL": {
+      "address": "0x885D9E016003E4EA6aa5e28C2f038C168a27Fc68",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "STMATIC_MATIC_0_0005_POOL": {
+      "address": "0x38c6DBc64e51e7b1BB5d7c3655D4BDd646f57b41",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "EURA_USDC_0_01_POOL": {
+      "address": "0x4E0d2D6FE6615867a535C57f030A7Aa03a8bb9fa",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_WBTC_0_0001_POOL": {
+      "address": "0xA0Cb75E28d3c92428701A7DD176F979Ea844d67b",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_CFT_WBTC_0_0005_POOL": {
+      "address": "0x712EBEc422d283e6540227721241be3A461D7C04",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    }
+  },
+  "DoveSwapV3": {
+    "USDT_USDC_0_0001_POOL": {
+      "address": "0x12D1484297Bb9771F3dfFC8fF8026f7d797FF4ee",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_MATIC_0_01_POOL": {
+      "address": "0x65F84066A49Ea2Bc6273059156899155cE4f5c63",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_FRXETH_0_0005_POOL": {
+      "address": "0x1f8F43348f784b31560238fE65a8a6D74d7bc550",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_DOV_0_01_POOL": {
+      "address": "0xa36BA122eeB3EF87225E3C4d44dA80aAA16aa166",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDC_FRAX_0_0005_POOL": {
+      "address": "0xb15efAa05269a7220875521b5dE0A2DEE035A21A",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "DOV_USDC_0_01_POOL": {
+      "address": "0xBE10b996e37ce81C74F919743b9e305d2729f317",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "SFRXETH_FRXETH_0_0005_POOL": {
+      "address": "0xb6B2708851AA58EED8EDD90c724569c15BcB9D76",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    }
+  },
+  "SushiswapV3": {
+    "USDT_WETH_0_0001_POOL": {
+      "address": "0xb138E87e41eb1FCDf9bA7e4258CAf68b08Eb9d35",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_WETH_0_0005_POOL": {
+      "address": "0x68fc2c297f597907fA49daAFFD786Be9095A512F",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_WETH_0_01_POOL": {
+      "address": "0x061b87d639521511848B8A85De1c783dBfF7e0a8",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_0_0001_POOL": {
+      "address": "0x1A59Ac9EB718c7619904aA2456ee954e42F12f29",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "USDT_USDC_0_0005_POOL": {
+      "address": "0xf84141eddFf81C9247D76C4F85a949C0444a5880",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_MATIC_0_0001_POOL": {
+      "address": "0xC063F9ab38DD6c45FCBE9fD4F7DD5eDf8e7503a1",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_USDC_0_0001_POOL": {
+      "address": "0x7Fd8B54b59517A54F173eEF4c49c43e23A3Aa659",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_USDC_0_0005_POOL": {
+      "address": "0x41BBdE5dFA689a2e53808D752E864C013AC4B733",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_USDC_0_01_POOL": {
+      "address": "0xE40bFa37162B9B5C7522E929Bdc559D32Bb24CB3",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_DAI_0_0001_POOL": {
+      "address": "0xAC6918cd3F9B7b722b724680d382eF3d13C241BD",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_DAI_0_0005_POOL": {
+      "address": "0x87a554efC1c3462550681C5193aEA3bFe7701762",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    },
+    "WETH_DAI_0_01_POOL": {
+      "address": "0x22F350508F7284701f110cC27eD2da0b09C3F0C9",
+      "sqrtPriceX96": "777",
+      "tick": "777",
+      "liquidity": "777",
+      "tickSpacing": "777",
+      "feePips": "777"
+    }
+  }
+}

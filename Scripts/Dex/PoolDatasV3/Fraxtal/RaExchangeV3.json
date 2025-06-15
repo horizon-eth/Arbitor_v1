@@ -1,0 +1,58 @@
+[
+  {
+    "pool_address": "0xA9950AaeC03BE7dd27b80DB7A282c366716E1752",
+    "pool_name": "FRAX / wfrxETH",
+    "pool_object_name": "FRAX_WFRXETH_0_01_POOL",
+    "project_name": "RaExchangeV3",
+    "pool_fee": 10000,
+    "pool_tick_spacing": 200,
+    "token0_symbol": "FRAX",
+    "token0_address": "0xFc00000000000000000000000000000000000001",
+    "token0_decimal": 18,
+    "token1_symbol": "WFRXETH",
+    "token1_address": "0xFC00000000000000000000000000000000000006",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x6B3bBdeB4ED313bb65fD9A8076721526ce5B4C6d",
+    "pool_name": "FRAX / FPI",
+    "pool_object_name": "FRAX_FPI_0_0025_POOL",
+    "project_name": "RaExchangeV3",
+    "pool_fee": 2500,
+    "pool_tick_spacing": 25,
+    "token0_symbol": "FRAX",
+    "token0_address": "0xFc00000000000000000000000000000000000001",
+    "token0_decimal": 18,
+    "token1_symbol": "FPI",
+    "token1_address": "0xFc00000000000000000000000000000000000003",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x52992f0ca147F25cBA0B727F281848220F6d4c24",
+    "pool_name": "axlUSDC / FRAX",
+    "pool_object_name": "AXLUSDC_FRAX_0_0001_POOL",
+    "project_name": "RaExchangeV3",
+    "pool_fee": 100,
+    "pool_tick_spacing": 1,
+    "token0_symbol": "AXLUSDC",
+    "token0_address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "token0_decimal": 6,
+    "token1_symbol": "FRAX",
+    "token1_address": "0xFc00000000000000000000000000000000000001",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x25009F9B0aA05A8fa011d6399Fb3D31Bc64C1D59",
+    "pool_name": "frxETH / wfrxETH",
+    "pool_object_name": "FRXETH_WFRXETH_0_0001_POOL",
+    "project_name": "RaExchangeV3",
+    "pool_fee": 100,
+    "pool_tick_spacing": 1,
+    "token0_symbol": "FRXETH",
+    "token0_address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+    "token0_decimal": 18,
+    "token1_symbol": "WFRXETH",
+    "token1_address": "0xFC00000000000000000000000000000000000006",
+    "token1_decimal": 18
+  }
+]

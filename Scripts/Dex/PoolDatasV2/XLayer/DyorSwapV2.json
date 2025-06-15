@@ -1,0 +1,13 @@
+[
+  {
+    "pool_address": "0x348853f42c4B02Fb460372944038E2ab11d51B90",
+    "pool_name": "OKBABY / WOKB",
+    "project_name": "DyorSwapV2",
+    "token0_symbol": "OKBABY",
+    "token0_address": "0xd0034aEe8e1d8d8919A401c546Ed2d0F2A4C90F1",
+    "token0_decimal": 18,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  }
+]

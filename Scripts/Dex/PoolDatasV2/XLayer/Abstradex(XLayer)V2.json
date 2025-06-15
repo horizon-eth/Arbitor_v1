@@ -1,0 +1,79 @@
+[
+  {
+    "pool_address": "0xcc452d8390581B095C9561135C2f54b804de23db",
+    "pool_name": "OKBABY / WOKB",
+    "project_name": "Abstradex(XLayer)V2",
+    "token0_symbol": "OKBABY",
+    "token0_address": "0xd0034aEe8e1d8d8919A401c546Ed2d0F2A4C90F1",
+    "token0_decimal": 18,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7D7756b4Bd8900e204b0Eb7B9E341586F7Cb23F4",
+    "pool_name": "BabyOKB / WOKB",
+    "project_name": "Abstradex(XLayer)V2",
+    "token0_symbol": "BABYOKB",
+    "token0_address": "0x0e09D452C77a9Ba4531E8b5Db29873D48ED90eb9",
+    "token0_decimal": 18,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x721E5d8F4EEEBD5c2F2a7178E5dDae599654b95C",
+    "pool_name": "USDT / WOKB",
+    "project_name": "Abstradex(XLayer)V2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xedc42D2f408b4dc8fa5ac0a6f92ABD6235A3e138",
+    "pool_name": "ABS / WOKB",
+    "project_name": "Abstradex(XLayer)V2",
+    "token0_symbol": "ABS",
+    "token0_address": "0x54455532324468f5D60eBD6469f2BbD3Dc47a7F8",
+    "token0_decimal": 18,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xF28A2ce2792498a1a0FfEe7b6a6f0800b6902289",
+    "pool_name": "ABS / OKBABY",
+    "project_name": "Abstradex(XLayer)V2",
+    "token0_symbol": "ABS",
+    "token0_address": "0x54455532324468f5D60eBD6469f2BbD3Dc47a7F8",
+    "token0_decimal": 18,
+    "token1_symbol": "OKBABY",
+    "token1_address": "0xd0034aEe8e1d8d8919A401c546Ed2d0F2A4C90F1",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xB8a292763a8DF31709b4613Fab796FBE0AA417b5",
+    "pool_name": "Pepe / WOKB",
+    "project_name": "Abstradex(XLayer)V2",
+    "token0_symbol": "PEPE",
+    "token0_address": "0xBa5fb907f6dAC3E64BC23182Dc4e2187605F52a6",
+    "token0_decimal": 9,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xb3B3FAD6fAC9Ea8Ac5022c6B5cAF14c00800b317",
+    "pool_name": "WETH / WOKB",
+    "project_name": "Abstradex(XLayer)V2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token0_decimal": 18,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  }
+]

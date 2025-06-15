@@ -1,0 +1,59 @@
+{
+  "AntfarmFinanceV2": {
+    "ATF_ARB_1_POOL": {
+      "address": "0x1ee7Fe95f3Fd698d221761e871344816321cc5f9",
+      "reserve0": "2250329891887752620",
+      "reserve1": "283868093525198008"
+    },
+    "WETH_ARB_25_POOL": {
+      "address": "0x7D67e8901878a1510b4Cd834308d53D683906857",
+      "reserve0": "64366631186607",
+      "reserve1": "93433214430451738"
+    },
+    "ATF_WETH_1_POOL": {
+      "address": "0x7BCcE3B51209D15B1eABf7c08b19dAbF97216380",
+      "reserve0": "90999644973062147723784",
+      "reserve1": "3923223996381806907"
+    },
+    "ATF_WETH_10_POOL": {
+      "address": "0xBC3AaCEA4D3355812653D5E357d6284eE7DC93de",
+      "reserve0": "10028799239603227404551",
+      "reserve1": "415470023277958970"
+    },
+    "ATF_WETH_25_POOL": {
+      "address": "0xf7287676DBd5b0af7F8A87DaE13DA557B5650a86",
+      "reserve0": "9364245171672512776302",
+      "reserve1": "445809288532062374"
+    },
+    "ATF_WETH_50_POOL": {
+      "address": "0x1700b06d715B16ddffF7f75518DFB2072F91831C",
+      "reserve0": "8377764007258139424839",
+      "reserve1": "502625630385057560"
+    },
+    "ATF_ARB_10_POOL": {
+      "address": "0x587ceA1dAE3b94EBcCE5D5359CC84a1f89d3AF22",
+      "reserve0": "3163",
+      "reserve1": "317"
+    },
+    "ATF_ARB_25_POOL": {
+      "address": "0xfc5389502CF1dc65B0EDEDBe96cf544DCe6e85D8",
+      "reserve0": "5602150984952536021",
+      "reserve1": "345283658625109361"
+    },
+    "ATF_LUSD_1_POOL": {
+      "address": "0x2c1438028Df3792315f4CC8daccB1CdAEF59CBF5",
+      "reserve0": "2868",
+      "reserve1": "349"
+    },
+    "LUSD_LQTY_25_POOL": {
+      "address": "0x323e7ba42639F63D5f37eBC9BAb1F46Ea6c6E2A6",
+      "reserve0": "13328744593620978375",
+      "reserve1": "12679363672470846281"
+    },
+    "ATF_USDC_1_POOL": {
+      "address": "0xdc9B5552632012f19d6baECbFE3dee69D14769b5",
+      "reserve0": "4544152746124870677820",
+      "reserve1": "688699384"
+    }
+  }
+}

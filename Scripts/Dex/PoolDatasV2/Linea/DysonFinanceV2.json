@@ -1,0 +1,13 @@
+[
+  {
+    "pool_address": "0xCeC911f803D984ae2e5A134b2D15218466993869",
+    "pool_name": "USDC / WETH",
+    "project_name": "DysonFinanceV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  }
+]

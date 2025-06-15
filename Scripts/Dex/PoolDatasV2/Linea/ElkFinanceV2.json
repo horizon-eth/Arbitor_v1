@@ -1,0 +1,24 @@
+[
+  {
+    "pool_address": "0x59048Ff7D11ef18514163d0A860fb7A34927a452",
+    "pool_name": "USDC / WETH",
+    "project_name": "ElkFinanceV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7Fc9dD5810041B03089A6C2Ce758f15987950864",
+    "pool_name": "BUSD / WETH",
+    "project_name": "ElkFinanceV2",
+    "token0_symbol": "BUSD",
+    "token0_address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  }
+]

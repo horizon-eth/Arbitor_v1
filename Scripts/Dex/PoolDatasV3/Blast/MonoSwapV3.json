@@ -1,0 +1,122 @@
+[
+  {
+    "pool_address": "0x79Fb89437CB97a6BBFFB9c76b0F0dFA102b4C07D",
+    "pool_name": "WETH / BLAST",
+    "project_name": "MonoSwapV3",
+    "pool_fee": 10000,
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "BLAST",
+    "token1_address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x56Ce78755639eAFEd5Df91a030fcAc8ad908E1de",
+    "pool_name": "USDB / WETH",
+    "project_name": "MonoSwapV3",
+    "pool_fee": 500,
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x1DeFFc548B6b587E693da54d1d09496AD6345F64",
+    "pool_name": "USDB / WETH",
+    "project_name": "MonoSwapV3",
+    "pool_fee": 10000,
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x84b00A16fC0F84C01Fcd932D8a2d411302b46024",
+    "pool_name": "ezETH / WETH",
+    "project_name": "MonoSwapV3",
+    "pool_fee": 500,
+    "token0_symbol": "EZETH",
+    "token0_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x1567Ba41aCd3469928B77e93d30FDdaEDC59dE61",
+    "pool_name": "WETH / MUSD",
+    "project_name": "MonoSwapV3",
+    "pool_fee": 500,
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "MUSD",
+    "token1_address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x73a32469383f3A89Eb97B969f731c2E79B60c239",
+    "pool_name": "WETH / MUSD",
+    "project_name": "MonoSwapV3",
+    "pool_fee": 10000,
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "MUSD",
+    "token1_address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x69F20D266594A143D55AF2F0392c542d3DB483B7",
+    "pool_name": "USDB / USDe",
+    "project_name": "MonoSwapV3",
+    "pool_fee": 500,
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "USDE",
+    "token1_address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x52b3B26541E5347BA22c17334a12cA759f221d8f",
+    "pool_name": "USDB / MUSD",
+    "project_name": "MonoSwapV3",
+    "pool_fee": 500,
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "MUSD",
+    "token1_address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x0A6E7055C16Ee7965031611c2d9CFadB7835479F",
+    "pool_name": "USDB / MUSD",
+    "project_name": "MonoSwapV3",
+    "pool_fee": 10000,
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "MUSD",
+    "token1_address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xEA8607679B0BA18d28B99dCE72759a6276264AF9",
+    "pool_name": "USDe / MUSD",
+    "project_name": "MonoSwapV3",
+    "pool_fee": 500,
+    "token0_symbol": "USDE",
+    "token0_address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+    "token0_decimal": 18,
+    "token1_symbol": "MUSD",
+    "token1_address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
+    "token1_decimal": 18
+  }
+]

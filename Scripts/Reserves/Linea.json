@@ -1,0 +1,566 @@
+{
+  "DysonFinanceV2": {
+    "USDC_WETH_POOL": {
+      "address": "0xCeC911f803D984ae2e5A134b2D15218466993869",
+      "reserve0": "68689202206",
+      "reserve1": "20163238652043076491",
+      "feeRatio": [
+        "19059969840725065",
+        "33382675785990933"
+      ]
+    }
+  },
+  "PancakeSwapV2": {
+    "WBTC_WETH_POOL": {
+      "address": "0x8d90629c88716BEF69Dd352E7D1F2fa3e2d3FEc3",
+      "reserve0": "1418625",
+      "reserve1": "256717599267367520"
+    },
+    "WSTETH_WETH_POOL": {
+      "address": "0xEAd8F89Bc222b3d2D3FA25e7a8FC351c4C73FAfD",
+      "reserve0": "26074977624392722",
+      "reserve1": "30436160697506687"
+    },
+    "USDC_WETH_POOL": {
+      "address": "0xB91A09d3794E815008194B0423802AF8359516Db",
+      "reserve0": "3233317387",
+      "reserve1": "949991035640960277"
+    },
+    "USDT_WETH_POOL": {
+      "address": "0x687d9b3e896E02524f5D8a059E6fA8BEB403aE1D",
+      "reserve0": "1240979414",
+      "reserve1": "364041329219067283"
+    },
+    "DAI_WETH_POOL": {
+      "address": "0x3c286bFAF89785a42815F356fBD5fE0d90b2F506",
+      "reserve0": "76876392430164031042",
+      "reserve1": "22802597662081188"
+    },
+    "WETH_BNB_POOL": {
+      "address": "0x85F0e820dCa021957e071E6733a5d94224039017",
+      "reserve0": "51058083",
+      "reserve1": "389113818"
+    },
+    "CAKE_WETH_POOL": {
+      "address": "0xA43384a3d1c6De03FD910d29109151EFc762979b",
+      "reserve0": "7845318032346441889",
+      "reserve1": "4974504361166394"
+    },
+    "FOXY_WETH_POOL": {
+      "address": "0xF2076A83199097546daDEF599B8a66260dA3BD56",
+      "reserve0": "2762094720160296544035",
+      "reserve1": "12941275835526705"
+    },
+    "WBTC_USDT_POOL": {
+      "address": "0x917adBdEe1E0dE2c394680a3EB7A3FEcb15a2D17",
+      "reserve0": "43",
+      "reserve1": "27866"
+    },
+    "USDC_USDT_POOL": {
+      "address": "0x59c2d3F9BD0d4b3BB5Ef6322fdDDAb91B1710c2c",
+      "reserve0": "671129131",
+      "reserve1": "672648230"
+    },
+    "USDC_DAI_POOL": {
+      "address": "0x293137e06b3e038863d9eB51f4d29D6a83Fb75E1",
+      "reserve0": "32168",
+      "reserve1": "32230458884655843"
+    },
+    "CAKE_USDC_POOL": {
+      "address": "0x227Fe2C18Dd4535C52EaC1A0a85bE7850089EcdB",
+      "reserve0": "23209426466145394169",
+      "reserve1": "49522072"
+    },
+    "CAKE_USDT_POOL": {
+      "address": "0x84ff4c301830711ca4fAfeA2018f7dC00978130d",
+      "reserve0": "610982699",
+      "reserve1": "1"
+    }
+  },
+  "SushiSwapV2": {
+    "USDC_WETH_POOL": {
+      "address": "0x77e73Ec14c38Bc1E123E19b3b3c7371BEF467609",
+      "reserve0": "11206389240",
+      "reserve1": "3297202600849473892"
+    },
+    "WETH_AXLUSDC_POOL": {
+      "address": "0x53Ec211009D0F9D05d35376BF5546540be279721",
+      "reserve0": "324435776731047442",
+      "reserve1": "1095890790"
+    }
+  },
+  "EchoDexV2": {
+    "WBTC_WETH_POOL": {
+      "address": "0x05f2dD2CA07B697d610104e93e6237Cfaab50bb2",
+      "reserve0": "245",
+      "reserve1": "47439128145634"
+    },
+    "WSTETH_WETH_POOL": {
+      "address": "0x52FF9Fd74605c042cdF3c43aee6172E73D8CdfEb",
+      "reserve0": "929",
+      "reserve1": "1077"
+    },
+    "USDC_WETH_POOL": {
+      "address": "0x04dBd3a597FEe8A8c7Ea9d02ee3CDd1A6fB05bFc",
+      "reserve0": "25849728",
+      "reserve1": "7698295992077557"
+    },
+    "USDT_WETH_POOL": {
+      "address": "0x311D22fc04fa6D023c5aa2E8A94556BDA8a8A424",
+      "reserve0": "3303300",
+      "reserve1": "983443626523404"
+    },
+    "DAI_WETH_POOL": {
+      "address": "0xbF4a6E781Ae59C17C2a86650d5062d38D7d528D9",
+      "reserve0": "310979559785311279",
+      "reserve1": "91114708355169"
+    },
+    "WETH_AXLUSDC_POOL": {
+      "address": "0x789836543fac61864BBbE61f88A4e48EDe007cDf",
+      "reserve0": "120393842254994467",
+      "reserve1": "407353202"
+    },
+    "BUSD_WETH_POOL": {
+      "address": "0x7DE2B2b6ad99d83f97aD3eA24bB36d2F5b800e00",
+      "reserve0": "9433197579141202904000",
+      "reserve1": "2752455332828236615"
+    },
+    "MATIC_WETH_POOL": {
+      "address": "0x530249C35D65b8E141785dcbF041FC46b8158DA0",
+      "reserve0": "1506887629666893526798",
+      "reserve1": "252663429506481459"
+    },
+    "WETH_BNB_POOL": {
+      "address": "0xeD9f36C758489C09106ec48543308Ac6C71782e4",
+      "reserve0": "282031100554518909",
+      "reserve1": "1662209015604429863"
+    },
+    "AVAX_WETH_POOL": {
+      "address": "0xe21B3D13Fb192Bcaf92eE17eA11F94dA52fB4843",
+      "reserve0": "4641426601062808814",
+      "reserve1": "33740473170446528"
+    },
+    "ECP_WETH_POOL": {
+      "address": "0x7c3892BE12ADF04DEAEC3909b2d849F341f61dBd",
+      "reserve0": "21385458371653640761811",
+      "reserve1": "2831708158841465332"
+    },
+    "USDC_USDT_POOL": {
+      "address": "0xA2fF36fD6Ec234c1d3Dbf7f53AED503Ead234494",
+      "reserve0": "5891707",
+      "reserve1": "5924217"
+    },
+    "USDC_DAI_POOL": {
+      "address": "0x74138f121b6656532E60758cbA4856f38DE457cA",
+      "reserve0": "48302",
+      "reserve1": "48475794883992225"
+    },
+    "USDC_BUSD_POOL": {
+      "address": "0x06e2e6BED1834cBa093Aa9375029C0a114f86a80",
+      "reserve0": "1",
+      "reserve1": "32482529273"
+    },
+    "USDT_AXLUSDC_POOL": {
+      "address": "0xA4e50A913889F75345e5106a370AEb36c1a465A2",
+      "reserve0": "100974",
+      "reserve1": "100940"
+    },
+    "MATIC_BUSD_POOL": {
+      "address": "0xEe98274c06338e80d80A4DCF1d9390599E46d6E5",
+      "reserve0": "5805574161081556781",
+      "reserve1": "3332036764869382641"
+    },
+    "AVAX_BUSD_POOL": {
+      "address": "0x830a847d99D9475341D63D868C9c08f792236f9e",
+      "reserve0": "526979706430311",
+      "reserve1": "19422764423935878"
+    },
+    "BUSD_ECP_POOL": {
+      "address": "0x6aD028dF37b4F6e21dFAE3b4D9eBb7a0720d5907",
+      "reserve0": "58073148996255419674",
+      "reserve1": "127560585275859186841"
+    },
+    "MATIC_BNB_POOL": {
+      "address": "0xeb3A829dadF709A076345A92b7E2D9e68b01bAd2",
+      "reserve0": "2215831804826305503",
+      "reserve1": "4349887480525571"
+    },
+    "MATIC_AVAX_POOL": {
+      "address": "0x4509ADb0a5Df3dd869ad9b28a334Ca0CB78d643b",
+      "reserve0": "3734630704560506400",
+      "reserve1": "61319707930527899"
+    },
+    "MATIC_ECP_POOL": {
+      "address": "0x50721ec38eF626535333a8e94D5d7726097ba044",
+      "reserve0": "2347040107490912148",
+      "reserve1": "3994695651378288178"
+    },
+    "AVAX_BNB_POOL": {
+      "address": "0xa28C6b44F307f6B1021780a4D2b0D2CEF065a36e",
+      "reserve0": "321570123462431004",
+      "reserve1": "14230584602462292"
+    },
+    "ECP_BNB_POOL": {
+      "address": "0xAaD095085D7d2E2c422A0439ffD3B772Ef394e4d",
+      "reserve0": "4506324957335041639",
+      "reserve1": "3814274964104292"
+    },
+    "AVAX_ECP_POOL": {
+      "address": "0x32DdAD0F9930E8506E4f5261F9B93121FFef3105",
+      "reserve0": "184762448544987",
+      "reserve1": "10934303952580042"
+    }
+  },
+  "ElkFinanceV2": {
+    "USDC_WETH_POOL": {
+      "address": "0x59048Ff7D11ef18514163d0A860fb7A34927a452",
+      "reserve0": "74575049",
+      "reserve1": "22075152789725465"
+    },
+    "BUSD_WETH_POOL": {
+      "address": "0x7Fc9dD5810041B03089A6C2Ce758f15987950864",
+      "reserve0": "53306370236833366",
+      "reserve1": "13838526061084"
+    }
+  },
+  "SectaFinanceV2": {
+    "WBTC_WETH_POOL": {
+      "address": "0x53249119571829ac9F21897eD4B1f740DdEbbF1f",
+      "reserve0": "81678",
+      "reserve1": "14808395417980227"
+    },
+    "WSTETH_WETH_POOL": {
+      "address": "0x72C7f40FF8715f9118EfB65D5374bd97b446ba64",
+      "reserve0": "2794507753045813722",
+      "reserve1": "3270447434878494948"
+    },
+    "USDC_WETH_POOL": {
+      "address": "0xEcDbB2dA6BA86C84f364EBbd068561C8f383fE27",
+      "reserve0": "50727591151",
+      "reserve1": "14862120517075595006"
+    },
+    "USDT_WETH_POOL": {
+      "address": "0xD9DB1363381cc9E7711B0EeB875156Eb41Cd5DE2",
+      "reserve0": "411231902",
+      "reserve1": "120581883484418389"
+    },
+    "DAI_WETH_POOL": {
+      "address": "0x5b872317C3520b9AA2f2Eacb8717DD3D2D92D8A1",
+      "reserve0": "164919223602669147404",
+      "reserve1": "48831431346347815"
+    },
+    "MENDI_WETH_POOL": {
+      "address": "0xb922ADB7ff19827656a653Af558ad964Ef261dfF",
+      "reserve0": "3872250450986201676",
+      "reserve1": "168902419373343"
+    },
+    "DAI_WSTETH_POOL": {
+      "address": "0x675beD08Ab83b6D7dd5aCFDd54783DFa08ca8753",
+      "reserve0": "28795831202423381943",
+      "reserve1": "7424740724390154"
+    },
+    "USDC_USDT_POOL": {
+      "address": "0x2192b90Fcb059F8a03B990e0466ADb7B9553b8B2",
+      "reserve0": "2463613782",
+      "reserve1": "2459457480"
+    },
+    "DAI_USDT_POOL": {
+      "address": "0x5A022ee7E58beB6D55bb2d83DC5f432047cdB806",
+      "reserve0": "53527503785998452",
+      "reserve1": "47871"
+    }
+  },
+  "NileV2": {
+    "WEETH_WETH_POOL": {
+      "address": "0x3323eab70Fcb5B74d55Cf17334b2e02831698421",
+      "reserve0": "46865703989688359",
+      "reserve1": "48646607825348606"
+    },
+    "WRSETH_WETH_POOL": {
+      "address": "0x4E70D0f5F8bbF43A470aA0C0ac271841890a4204",
+      "reserve0": "1000",
+      "reserve1": "1000"
+    },
+    "EZETH_WETH_POOL": {
+      "address": "0x76B0d13428eb01f12F132aa58707d254c42DF568",
+      "reserve0": "480836464560212173",
+      "reserve1": "485151845113893846"
+    },
+    "WSTETH_WETH_POOL": {
+      "address": "0xC3281de49011E2591b516Bb2fdB58A1502F4467F",
+      "reserve0": "87014396747860799",
+      "reserve1": "101907065297817596"
+    },
+    "USDC_WETH_POOL": {
+      "address": "0x769a64A1C49202E49dC3e20F2B4B42eeb2e2f226",
+      "reserve0": "457091031",
+      "reserve1": "135675543514832266"
+    },
+    "USDT_WETH_POOL": {
+      "address": "0x311459C4F422ac5E979103F23974eABd51e06079",
+      "reserve0": "130922820",
+      "reserve1": "38893432883636978"
+    },
+    "NILE_WETH_POOL": {
+      "address": "0xFC6A4cd4007C3d24D37114d81A801a56F9536625",
+      "reserve0": "770075221813126816300699",
+      "reserve1": "191677668313682944024"
+    },
+    "ZERO_WETH_POOL": {
+      "address": "0x0040F36784dDA0821E74BA67f86E084D70d67a3A",
+      "reserve0": "598940848811054216589976955",
+      "reserve1": "68971802417237799390"
+    },
+    "WEETH_WRSETH_POOL": {
+      "address": "0x54F28a1082Aa313f0c0c5C1E2C30a1822b673c95",
+      "reserve0": "4807878793194357",
+      "reserve1": "4952353556602858"
+    },
+    "USDC_EZETH_POOL": {
+      "address": "0x4A6F0D5a856ad1Efd1cc6243491Ff6DF068f6A35",
+      "reserve0": "1",
+      "reserve1": "20427784"
+    },
+    "USDC_USDT_POOL": {
+      "address": "0x3Cd0083f6860df3c5F634067BfF6cb5C5596ab94",
+      "reserve0": "6964868",
+      "reserve1": "6964868"
+    },
+    "USDC_NILE_POOL": {
+      "address": "0x9971DBA6e18536b0415a6Fbbf49d81AB12068AB7",
+      "reserve0": "556404177341",
+      "reserve1": "663918015578233491463590"
+    },
+    "USDC_MENDI_POOL": {
+      "address": "0xEc06f5100758bE74B33762f99123A1b9B9E9A7F2",
+      "reserve0": "1",
+      "reserve1": "1834716041047"
+    }
+  },
+  "LynexV2": {
+    "WBTC_WETH_POOL": {
+      "address": "0x8d2a23eb25A0a8213319A4ED2984602a7C23f06B",
+      "reserve0": "21051738",
+      "reserve1": "3814457285357901382"
+    },
+    "WEETH_WETH_POOL": {
+      "address": "0x9D2495eE468dd08E072514B6924a140632c281B1",
+      "reserve0": "8107575868679947703",
+      "reserve1": "8424209468957253959"
+    },
+    "EZETH_WETH_POOL": {
+      "address": "0x80295173FD6962F38671C39ba726309B637cA241",
+      "reserve0": "2931793586265623460",
+      "reserve1": "2950449536927668472"
+    },
+    "WSTETH_WETH_POOL": {
+      "address": "0xaC716681656D3F22C23BF09C9b52786216827Ac3",
+      "reserve0": "986244624008711766",
+      "reserve1": "1151412335516936724"
+    },
+    "USDC_WETH_POOL": {
+      "address": "0x6FB44889a9aA69F7290258D3716BfFcB33CdE184",
+      "reserve0": "24224087458",
+      "reserve1": "7132124178842153449"
+    },
+    "USDT_WETH_POOL": {
+      "address": "0x94769abFbEb114cF7BA2e7B9cEF242ac70da20d6",
+      "reserve0": "1605473698",
+      "reserve1": "476270523901940673"
+    },
+    "MATIC_WETH_POOL": {
+      "address": "0x2a73093943232aFD02661a112E149c777cf01e57",
+      "reserve0": "71519",
+      "reserve1": "19"
+    },
+    "NILE_WETH_POOL": {
+      "address": "0xc97CE419663d9E1c06F48C5032ab61715A62272A",
+      "reserve0": "232630734651",
+      "reserve1": "54571169"
+    },
+    "LYNX_WETH_POOL": {
+      "address": "0x1C6Fb08C1ef4E505a4Ae3Ffc3C99E443070Df64A",
+      "reserve0": "143037949016846462693039",
+      "reserve1": "4653841946098667619"
+    },
+    "MENDI_WETH_POOL": {
+      "address": "0x53c3B77DF14d9dbE572a858ba6ed2Cc073A0cfE0",
+      "reserve0": "2450830717460748379526",
+      "reserve1": "102492709025593796"
+    },
+    "ZERO_WETH_POOL": {
+      "address": "0x904e2BBDb669cB30f51d69DaEfdcDeB83759D833",
+      "reserve0": "628161581402200526286979",
+      "reserve1": "72360287963309647"
+    },
+    "FOXY_WETH_POOL": {
+      "address": "0x8F63B44D31FbCA1D62Ab4e32663Fb91B4a363D01",
+      "reserve0": "114159261108841888391323",
+      "reserve1": "522196318853679349"
+    },
+    "USDC_WBTC_POOL": {
+      "address": "0xD4630a296E33dfF7fdAcca2C6f192E9C78DCde13",
+      "reserve0": "12190858",
+      "reserve1": "20053"
+    },
+    "LYNX_WBTC_POOL": {
+      "address": "0x4E78173588F16Ee42B61Aa6b6BF7F02FC86a7d89",
+      "reserve0": "42625483464",
+      "reserve1": "1"
+    },
+    "USDC_WEETH_POOL": {
+      "address": "0x6057F9dff137315e0eb9560F6bC3759061a5c013",
+      "reserve0": "4542377",
+      "reserve1": "1260488050412927"
+    },
+    "LYNX_WEETH_POOL": {
+      "address": "0x9a146698b16DC334f9B99aF20b359649e6f4C844",
+      "reserve0": "70683987021729270240",
+      "reserve1": "2693467589988215"
+    },
+    "WEETH_FOXY_POOL": {
+      "address": "0x80b3b2BDC115b70F4fD5A50352F81cbd3AaF48B3",
+      "reserve0": "3",
+      "reserve1": "488349"
+    },
+    "USDC_EZETH_POOL": {
+      "address": "0xE27529456541Bdeb011a9F5f591095FDDF9E00f0",
+      "reserve0": "192157479",
+      "reserve1": "56840433144368312"
+    },
+    "EZETH_USDT_POOL": {
+      "address": "0xE3164204a93bcB833f09b3FC9552680547Bb3039",
+      "reserve0": "17596079",
+      "reserve1": "1"
+    },
+    "USDC_WSTETH_POOL": {
+      "address": "0x38400DA4F6562E93875ae161d790BCB6F36eB722",
+      "reserve0": "1",
+      "reserve1": "14945659"
+    },
+    "LYNX_WSTETH_POOL": {
+      "address": "0xCa2BB0D69e78D9b64E7F3aC02A4F1Ff365e3b896",
+      "reserve0": "27699342706547128",
+      "reserve1": "1341500803214"
+    },
+    "USDC_USDT_POOL": {
+      "address": "0xC6c46Cd01403AC0B28Ef92C4880f2E4Be2D410E1",
+      "reserve0": "10986309445",
+      "reserve1": "10983274307"
+    },
+    "USDC_DAI_POOL": {
+      "address": "0xdB4eCdF24559fBAC12Eb4AB7574185409c09875f",
+      "reserve0": "78476591",
+      "reserve1": "78567913717632403223"
+    },
+    "USDC_MAI_POOL": {
+      "address": "0x0CafBb18fFE4d91A858Bb05011818c5358D99095",
+      "reserve0": "1",
+      "reserve1": "32004620935"
+    },
+    "USDC_LYNX_POOL": {
+      "address": "0x3E78c1F766D7FE2c3dceF6aFe6609966540B6391",
+      "reserve0": "12668608958",
+      "reserve1": "114576681484290379402829"
+    },
+    "USDC_MENDI_POOL": {
+      "address": "0xE5e19bBF39c76A8c980B48F2Ec89d0dE877bF567",
+      "reserve0": "365121299342",
+      "reserve1": "2577075340902063882279023"
+    },
+    "USDC_FOXY_POOL": {
+      "address": "0x42544dA1a642Eb32F36841CdE92f2BEd85514Fb3",
+      "reserve0": "1",
+      "reserve1": "6900655594"
+    },
+    "AGEUR_USDT_POOL": {
+      "address": "0xbbD94Eef0109ec29433073E30c6ecE83Fd3C4C52",
+      "reserve0": "1092980365",
+      "reserve1": "2"
+    },
+    "LYNX_USDT_POOL": {
+      "address": "0xbB9da18545F6705047b42523AAc1d558260B213c",
+      "reserve0": "52595186260103464649",
+      "reserve1": "5893511"
+    },
+    "MENDI_USDT_POOL": {
+      "address": "0x0aEF9098F45B6A85a3C33B5c48E47a7e91b9ba1a",
+      "reserve0": "1475064183",
+      "reserve1": "1"
+    },
+    "LYNX_MATIC_POOL": {
+      "address": "0xe400C1a76a26a4F02D5591a676fddBC66Ed07Baf",
+      "reserve0": "56371191489170107",
+      "reserve1": "15686948304504889"
+    },
+    "MATIC_MENDI_POOL": {
+      "address": "0x0C978a9529B01DFe1A0745b6F97e3A05A8F81023",
+      "reserve0": "28948692352982495",
+      "reserve1": "92766455093004874"
+    },
+    "LYNX_FOXY_POOL": {
+      "address": "0xd4025fA2e6B8c1726B12eEcD0A8fd05A88b85FEA",
+      "reserve0": "126824317284352380122",
+      "reserve1": "1044540196095909961077"
+    }
+  },
+  "MetaVaultV2": {
+    "WBTC_WETH_POOL": {
+      "address": "0xE696d6c42a4Cd1dF3A5422569cd4cc04d792AB7b",
+      "reserve0": "243",
+      "reserve1": "46780999726326"
+    },
+    "USDC_WETH_POOL": {
+      "address": "0x0a700e8a842a86A03abcCD0F535661bA7F0858bF",
+      "reserve0": "275720802",
+      "reserve1": "81375871426173173"
+    },
+    "USDT_WETH_POOL": {
+      "address": "0x3106f32AF4C7B7B59FA0303277Ed8DA305964813",
+      "reserve0": "1",
+      "reserve1": "145982817"
+    },
+    "USDC_USDT_POOL": {
+      "address": "0x822531Bce0471893EaD44D931Ae994a6161d51BF",
+      "reserve0": "60011774",
+      "reserve1": "60152556"
+    }
+  },
+  "LeetSwapV2": {
+    "WBTC_WETH_POOL": {
+      "address": "0x679d06A7edCbA76B4595E334224760443a2817d5",
+      "reserve0": "5933196",
+      "reserve1": "1083421859673048455"
+    },
+    "USDC_WETH_POOL": {
+      "address": "0xB6636f12F30C8fC7ad694F03bB6e6A54feBDd621",
+      "reserve0": "3130008733",
+      "reserve1": "922073596734989976"
+    },
+    "USDT_WETH_POOL": {
+      "address": "0xf359E3E29B20041511a48aa257eCf5a56951A3Da",
+      "reserve0": "2616777333",
+      "reserve1": "761833134947966798"
+    },
+    "BUSD_WETH_POOL": {
+      "address": "0x0BA3CBB512617526882d41c31c8468cb9e2a4b5c",
+      "reserve0": "2404443663962778109971",
+      "reserve1": "717085931561168011"
+    },
+    "USDC_USDT_POOL": {
+      "address": "0x7fEF5e6EEE6576c0f20A904cB63FFEeE3b22b528",
+      "reserve0": "5262921",
+      "reserve1": "5250524"
+    },
+    "USDC_BUSD_POOL": {
+      "address": "0x41B291c888cfAa496BbC3718C10B4b5263fD30E6",
+      "reserve0": "2784935",
+      "reserve1": "2722524750607183103"
+    },
+    "BUSD_USDT_POOL": {
+      "address": "0x3C3F2Df88d237c00EACED9459C1c4f5BDB5C8c42",
+      "reserve0": "9444509890353718750",
+      "reserve1": "9131307"
+    }
+  }
+}

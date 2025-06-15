@@ -1,0 +1,167 @@
+[
+  {
+    "pool_address": "0x570698D03c5A3C7eEdA5D97dbaF5FBfa117E46B7",
+    "pool_name": "weETH / WETH",
+    "project_name": "LineHubV2",
+    "token0_symbol": "WEETH",
+    "token0_address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xc1204D80cbA94Af9920733ccABB65Ae517aF05c1",
+    "pool_name": "weETH / ezETH",
+    "project_name": "LineHubV2",
+    "token0_symbol": "WEETH",
+    "token0_address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "token0_decimal": 18,
+    "token1_symbol": "EZETH",
+    "token1_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xa8483Ca97eD1418cEc1b3b6Ab5DD0C80492DA331",
+    "pool_name": "USDC / WETH",
+    "project_name": "LineHubV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xC267F235Dee51a87c095b4cDA1C4ceDeFD19Cbd2",
+    "pool_name": "USDT / WETH",
+    "project_name": "LineHubV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x53Afa7A9bbd0b76b8fBb08Aac0196cffd0AAD575",
+    "pool_name": "wstETH / WETH",
+    "project_name": "LineHubV2",
+    "token0_symbol": "WSTETH",
+    "token0_address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xe6679409181f2da2FC972963654923dfFCb825c9",
+    "pool_name": "WBTC / WETH",
+    "project_name": "LineHubV2",
+    "token0_symbol": "WBTC",
+    "token0_address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token0_decimal": 8,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x197684d63518240D8324ff94538F0C9e2d4f3dae",
+    "pool_name": "MATIC / WETH",
+    "project_name": "LineHubV2",
+    "token0_symbol": "MATIC",
+    "token0_address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xc6571706B30E5282b1bBc2e1370A32E4A77f0A92",
+    "pool_name": "AVAX / WETH",
+    "project_name": "LineHubV2",
+    "token0_symbol": "AVAX",
+    "token0_address": "0x5471ea8f739dd37E9B81Be9c5c77754D8AA953E4",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x3DA9882a864d55dcd690D7C348fc5baAce6174C2",
+    "pool_name": "USDC / USDT",
+    "project_name": "LineHubV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xD1D556BaCBBcb5fdbc2185c95F4fFd1A5aC22cd8",
+    "pool_name": "USDC / WBTC",
+    "project_name": "LineHubV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "WBTC",
+    "token1_address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token1_decimal": 8
+  },
+  {
+    "pool_address": "0x8865db315689144f54c5136004528f1ad81B25F0",
+    "pool_name": "USDC / DAI",
+    "project_name": "LineHubV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "DAI",
+    "token1_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x1b5C2b75eCe015304600704eb1Bd58B5292B66D7",
+    "pool_name": "DAI / USDT",
+    "project_name": "LineHubV2",
+    "token0_symbol": "DAI",
+    "token0_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token0_decimal": 18,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xE13730e87888F7CD64d8B0e51A4E0D5022a107c0",
+    "pool_name": "iZi / USDT",
+    "project_name": "LineHubV2",
+    "token0_symbol": "IZI",
+    "token0_address": "0x60D01EC2D5E98Ac51C8B4cF84DfCCE98D527c747",
+    "token0_decimal": 18,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xAEBF44C13FBe04f5CFC2c4ddD0A6b2e794099bbC",
+    "pool_name": "MATIC / WBTC",
+    "project_name": "LineHubV2",
+    "token0_symbol": "MATIC",
+    "token0_address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+    "token0_decimal": 18,
+    "token1_symbol": "WBTC",
+    "token1_address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token1_decimal": 8
+  },
+  {
+    "pool_address": "0x480cCd907dC8d5c06400391a99c4638012723bC6",
+    "pool_name": "MVX / AVAX",
+    "project_name": "LineHubV2",
+    "token0_symbol": "MVX",
+    "token0_address": "0x0018D96C579121a94307249d47F053E2D687b5e7",
+    "token0_decimal": 18,
+    "token1_symbol": "AVAX",
+    "token1_address": "0x5471ea8f739dd37E9B81Be9c5c77754D8AA953E4",
+    "token1_decimal": 18
+  }
+]

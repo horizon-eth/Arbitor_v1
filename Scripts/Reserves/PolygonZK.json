@@ -1,0 +1,450 @@
+{
+  "DysonFinanceV2": {
+    "WETH_USDC_POOL": {
+      "address": "0xEce7244a0e861C841651401fC22cEE577fEE90AF",
+      "reserve0": "12480982240783014354",
+      "reserve1": "42078996696",
+      "feeRatio": [
+        "4252048455",
+        "15633052654779"
+      ]
+    },
+    "DYSN_USDC_POOL": {
+      "address": "0xC9001AFF3701e19C29E996D48e474Baf4C5eD006",
+      "reserve0": "1226074646462244216975890",
+      "reserve1": "34822520205",
+      "feeRatio": [
+        "23420174046927419",
+        "328450804597437251"
+      ]
+    }
+  },
+  "AntfarmFinanceV2": {
+    "ATF_WETH_1_POOL": {
+      "address": "0x968AA62488d5A412e21ce5F4A8284ffaa588F472",
+      "reserve0": "202939599276832963676982",
+      "reserve1": "7838316731823364894"
+    },
+    "WETH_MATIC_1_POOL": {
+      "address": "0x2a48d1DaCdBCd1CdDE815E3BE0c58C0A29EA7168",
+      "reserve0": "255770000979939326",
+      "reserve1": "1559629686692242130608"
+    },
+    "ATF_WETH_10_POOL": {
+      "address": "0x3D09B07ff21C91a1E7D77E3c3d1D10B4E2Daa3CF",
+      "reserve0": "3219075431962768315086",
+      "reserve1": "145386259106566478"
+    },
+    "ATF_WETH_25_POOL": {
+      "address": "0xfa1C4eebDd4a4315b91E3758d8926D95ACFc2650",
+      "reserve0": "19740331784960540139008",
+      "reserve1": "840239841179784644"
+    },
+    "ATF_WETH_50_POOL": {
+      "address": "0x9F97853f72cDeAD98214398BFf6aA6d4160822dd",
+      "reserve0": "20448439511650723579639",
+      "reserve1": "1085097566450227957"
+    },
+    "WETH_USDC_10_POOL": {
+      "address": "0x7cF42Ec4A100D6cfCcbbA46fD2797098802f4aa2",
+      "reserve0": "1656699858625290165",
+      "reserve1": "6363161375"
+    },
+    "WETH_USDC_100_POOL": {
+      "address": "0x2906bE04939952B1Da9730C60a80EB96a9585168",
+      "reserve0": "2185158252610796",
+      "reserve1": "6360806"
+    },
+    "WETH_USDC_1_POOL": {
+      "address": "0x26af23bA66651F62278D84826b2e80FF5bc14361",
+      "reserve0": "612004860712963606",
+      "reserve1": "2064886549"
+    },
+    "ATF_USDC_10_POOL": {
+      "address": "0xb373916942016387F2327ea07355554a96d886Fb",
+      "reserve0": "617296857112368460114",
+      "reserve1": "95249115"
+    },
+    "ATF_MATIC_10_POOL": {
+      "address": "0x6b218fe0fc205281f5d2151A16A6242c19967023",
+      "reserve0": "108776089951136024932",
+      "reserve1": "11385611432872193685"
+    },
+    "ATF_USDC_1_POOL": {
+      "address": "0xb6C3C27769842d982f69409B36202c64c03f40A6",
+      "reserve0": "4276491127371841201635",
+      "reserve1": "680492053"
+    },
+    "ATF_MATIC_1_POOL": {
+      "address": "0xbF67c89cf4B0eA793E565791A8b9c8273149d077",
+      "reserve0": "412982040575409557393",
+      "reserve1": "97449572026138338821"
+    },
+    "MATIC_USDC_10_POOL": {
+      "address": "0x8931b669D1C1A8e847fafae6b6081C3493cbaF3e",
+      "reserve0": "8854065273045079620799",
+      "reserve1": "4690749570"
+    },
+    "WETH_MATIC_10_POOL": {
+      "address": "0x566B91a4bc5C0E89F157bCDA0FA7f71339724b3d",
+      "reserve0": "2917133309460756696",
+      "reserve1": "15166719126206714649280"
+    },
+    "MATIC_USDC_1_POOL": {
+      "address": "0x5927Ac02f09E6F2eBa288EF520B32A09A27fD6cd",
+      "reserve0": "214170583032396156788",
+      "reserve1": "126918003"
+    },
+    "WETH_USDC_50_POOL": {
+      "address": "0x3d9b60e8654cD8317BD385231F36D958D04c4688",
+      "reserve0": "7645870387582227",
+      "reserve1": "32546865"
+    },
+    "ATF_USDC_25_POOL": {
+      "address": "0x88a0E8234d79f49ab67C6f3Bc1d8d09e17ff823d",
+      "reserve0": "262157470450328152971",
+      "reserve1": "22406632"
+    },
+    "WETH_USDC_25_POOL": {
+      "address": "0x7CcF92b838022eEe3c6b3fFDbf6a30Fac774919E",
+      "reserve0": "3031656769956922",
+      "reserve1": "7359017"
+    },
+    "ATF_USDC_50_POOL": {
+      "address": "0x99dd46d60078DFF5e3EEa160033Ed6789EB32bA7",
+      "reserve0": "9176754338509329041",
+      "reserve1": "1415107"
+    },
+    "MATIC_USDC_25_POOL": {
+      "address": "0x3ECB46fb482B1FaA8eEdD37e6be3F36E15b0ad08",
+      "reserve0": "1005393202096495836",
+      "reserve1": "587201"
+    },
+    "USDT_WETH_1_POOL": {
+      "address": "0xE5747904Df1340b3E02f6b02DbFefacB2B91a7f3",
+      "reserve0": "34513450",
+      "reserve1": "7918260689999737"
+    },
+    "USDT_WETH_10_POOL": {
+      "address": "0x4D1C76AF4881BFEaa441A04Cd7e577B77Ac75E34",
+      "reserve0": "970532",
+      "reserve1": "249872466256955"
+    },
+    "ATF_USDT_1_POOL": {
+      "address": "0x8b8486Ac44A6b585217b99cF80448703376BB4da",
+      "reserve0": "1239641563254424523",
+      "reserve1": "156646"
+    },
+    "USDT_USDC_1_POOL": {
+      "address": "0x4FcCE5FF168E143f2C8CA754d1e479EbA3477039",
+      "reserve0": "1018",
+      "reserve1": "985"
+    },
+    "USDT_USDC_10_POOL": {
+      "address": "0x81e5473F1586EE915ec13255587d4D4Ff43f9149",
+      "reserve0": "1017",
+      "reserve1": "984"
+    }
+  },
+  "BalancerV2": {
+    "USDC_CFT_DAI_CFT_0_001_POOL": {
+      "address": "0xFFb847598207Ec5D3f0c8d256C061e1D664dB2D3",
+      "poolId": "0xffb847598207ec5d3f0c8d256c061e1d664db2d3000200000000000000000061",
+      "reserve0": "251922066769",
+      "reserve1": "252151502247666650393605"
+    },
+    "BAL_WETH_0_003_POOL": {
+      "address": "0xA4475Aa0A6971E3Cc82dE08E9CE432Ecc8A562aD",
+      "poolId": "0xa4475aa0a6971e3cc82de08e9ce432ecc8a562ad000200000000000000000029",
+      "reserve0": "796311091239700172300",
+      "reserve1": "701943569794452479"
+    },
+    "USDT_DAI_0_003_POOL": {
+      "address": "0x1eff97f8C47d3c60C11aEADd46764164732C8113",
+      "poolId": "0x1eff97f8c47d3c60c11aeadd46764164732c811300020000000000000000003e",
+      "reserve0": "1529782",
+      "reserve1": "1605000026131164935"
+    },
+    "USDT_USDC_0_01_POOL": {
+      "address": "0x47eeb5e07B8Db37F75F29422d90A2b729C8F3955",
+      "poolId": "0x47eeb5e07b8db37f75f29422d90a2b729c8f395500020000000000000000001e",
+      "reserve0": "121730206",
+      "reserve1": "119454097"
+    },
+    "USDT_USDC_0_0001_POOL": {
+      "address": "0xE4293DBD32e54421304E4f0D040Fc06c7Dc6c0b5",
+      "poolId": "0xe4293dbd32e54421304e4f0d040fc06c7dc6c0b5000200000000000000000044",
+      "reserve0": "1854332",
+      "reserve1": "1858050"
+    },
+    "WETH_MATIC_0_01_POOL": {
+      "address": "0x7Da2bB31Cb168be60025f9122A95CBB3949e7E9e",
+      "poolId": "0x7da2bb31cb168be60025f9122a95cbb3949e7e9e000200000000000000000016",
+      "reserve0": "6543236391174596",
+      "reserve1": "40885716054294329787"
+    },
+    "USDC_DAI_0_005_POOL": {
+      "address": "0x852DF7d05F441E231a060B5E1983fC3A65BDd8f8",
+      "poolId": "0x852df7d05f441e231a060b5e1983fc3a65bdd8f8000200000000000000000054",
+      "reserve0": "1500000",
+      "reserve1": "1500000000000000000"
+    },
+    "USDC_DAI_0_01_POOL": {
+      "address": "0xAeA5071C1Ca459F27c126c1aa304e280F764DE37",
+      "poolId": "0xaea5071c1ca459f27c126c1aa304e280f764de3700020000000000000000004d",
+      "reserve0": "1501840",
+      "reserve1": "1510404376039294481"
+    },
+    "MATIC_USDC_0_001_POOL": {
+      "address": "0x33911F5cE1C5504B68f90b1a5850Ca2E2Df71b94",
+      "poolId": "0x33911f5ce1c5504b68f90b1a5850ca2e2df71b9400020000000000000000003a",
+      "reserve0": "4124546763693394579",
+      "reserve1": "2363393"
+    },
+    "USDT_USDC_0_003_POOL": {
+      "address": "0x246e3D0AE7664854E4dcb0D8c85220e714A5f033",
+      "poolId": "0x246e3d0ae7664854e4dcb0d8c85220e714a5f033000200000000000000000022",
+      "reserve0": "9909629",
+      "reserve1": "10280458"
+    },
+    "WETH_WBTC_0_003_POOL": {
+      "address": "0xf74d0C533012e372A465712B49A26199A1b0714C",
+      "poolId": "0xf74d0c533012e372a465712b49a26199a1b0714c000200000000000000000038",
+      "reserve0": "1918626559294796",
+      "reserve1": "12812"
+    },
+    "USDT_USDC_0_001_POOL": {
+      "address": "0x42972CDE4AdAAD1227F1CeB14faf85C2d9e53Eb9",
+      "poolId": "0x42972cde4adaad1227f1ceb14faf85c2d9e53eb9000200000000000000000030",
+      "reserve0": "1002834",
+      "reserve1": "997656"
+    },
+    "WETH_RETH_0_003_POOL": {
+      "address": "0x0e0D3981497603EEd2481344844Ef8c6583762f1",
+      "poolId": "0x0e0d3981497603eed2481344844ef8c6583762f100020000000000000000005e",
+      "reserve0": "8989257953553",
+      "reserve1": "8244008640556"
+    },
+    "USDC_DAI_0_004_POOL": {
+      "address": "0xE5e1C6768f0CFd69468B3a45B6e29AC3406C5272",
+      "poolId": "0xe5e1c6768f0cfd69468b3a45b6e29ac3406c527200020000000000000000003b",
+      "reserve0": "1505827",
+      "reserve1": "1496766007453310657"
+    },
+    "WETH_USDC_0_003_POOL": {
+      "address": "0x4Edd641193f3Cb21e2dF66227D5050Db69Cc741F",
+      "poolId": "0x4edd641193f3cb21e2df66227d5050db69cc741f000200000000000000000035",
+      "reserve0": "517506515038869",
+      "reserve1": "1956063"
+    },
+    "USDC_DAI_0_002_POOL": {
+      "address": "0xC1AE92E34bF8752a6DC08fede8F45C9eaAB4c97F",
+      "poolId": "0xc1ae92e34bf8752a6dc08fede8f45c9eaab4c97f000200000000000000000051",
+      "reserve0": "4122335",
+      "reserve1": "4296141505446730621"
+    },
+    "USDC_DAI_0_003_POOL": {
+      "address": "0xf92264b0965D32058B099cdF93E8B3F15d8A6E63",
+      "poolId": "0xf92264b0965d32058b099cdf93e8b3f15d8a6e63000200000000000000000039",
+      "reserve0": "2035482",
+      "reserve1": "1982884834792519431"
+    },
+    "USDT_MATIC_0_003_POOL": {
+      "address": "0x6772D3AeFE8304DbeA9c4e606AEC76157d5947e8",
+      "poolId": "0x6772d3aefe8304dbea9c4e606aec76157d5947e8000200000000000000000041",
+      "reserve0": "654173",
+      "reserve1": "1044733655622801425"
+    },
+    "WETH_STMATIC_0_003_POOL": {
+      "address": "0x66A25b6C454fF0c23C676a458f451f05590236E8",
+      "poolId": "0x66a25b6c454ff0c23c676a458f451f05590236e8000200000000000000000032",
+      "reserve0": "204815203199902",
+      "reserve1": "959623391139180430"
+    },
+    "WETH_USDC_0_01_POOL": {
+      "address": "0xe767A4553730CEDDDDd5184588Da93298424396d",
+      "poolId": "0xe767a4553730ceddddd5184588da93298424396d000200000000000000000036",
+      "reserve0": "4008377580864425",
+      "reserve1": "13971379"
+    },
+    "BAL_DAI_0_01_POOL": {
+      "address": "0x5480B5f610fA0e11e66b42B977e06703C07bC5cf",
+      "poolId": "0x5480b5f610fa0e11e66b42b977e06703c07bc5cf000200000000000000000008",
+      "reserve0": "2615887269884931028",
+      "reserve1": "6887607770541575423"
+    },
+    "WETH_DAI_0_01_POOL": {
+      "address": "0xa7F602cfaf75A566CB0Ed110993Ee81c27Fa3f53",
+      "poolId": "0xa7f602cfaf75a566cb0ed110993ee81c27fa3f53000200000000000000000009",
+      "reserve0": "26630798174521019",
+      "reserve1": "91207050693866451813"
+    },
+    "WETH_DAI_0_003_POOL": {
+      "address": "0x5b125477cD532b892c3A6b206014C6c9518A0AFe",
+      "poolId": "0x5b125477cd532b892c3a6b206014c6c9518a0afe000200000000000000000018",
+      "reserve0": "10519618199876063",
+      "reserve1": "36514780594919416602"
+    }
+  },
+  "PancakeSwapV2": {
+    "USDT_DAI_POOL": {
+      "address": "0xBC25B472a648cDC4A4b64858452eb16eb12222C4",
+      "reserve0": "10357",
+      "reserve1": "10404098225796524"
+    },
+    "USDC_CFT_USDC_POOL": {
+      "address": "0x99478ca7f6E23C7f437A6DB5dC8d26D8ee4cB6Ff",
+      "reserve0": "102322",
+      "reserve1": "100435"
+    },
+    "USDT_USDC_POOL": {
+      "address": "0x408d7c48B588D0614ca7d4997125DDFd09BDc0a8",
+      "reserve0": "269285524",
+      "reserve1": "270064188"
+    },
+    "WETH_USDC_POOL": {
+      "address": "0xcF6030B2Bfb39bb51f70Bf666581483B36eE0113",
+      "reserve0": "170769761627323125",
+      "reserve1": "578671660"
+    },
+    "USDC_WBTC_POOL": {
+      "address": "0x1bB8E4Fd28Ed951326C102b5ED77Ce97D209f452",
+      "reserve0": "0",
+      "reserve1": "0"
+    },
+    "MATIC_USDC_POOL": {
+      "address": "0xF5A1BF87cE9c344Df8666a81B693b79DbcE8C46b",
+      "reserve0": "4634718953607",
+      "reserve1": "4"
+    },
+    "CAKE_USDC_POOL": {
+      "address": "0x46Bbf643Ea4843675824a79A9EC9d2401df70bB4",
+      "reserve0": "1445272566179017334",
+      "reserve1": "3275942"
+    },
+    "USDC_CFT_WETH_POOL": {
+      "address": "0x133afd2E52551e2d8f8bA7B71744Cd1EEfB98e35",
+      "reserve0": "1156803148",
+      "reserve1": "341199805476728734"
+    },
+    "USDT_WETH_POOL": {
+      "address": "0x03a9A6A8F62af9376a83C391fd90eEEEa67FAd6c",
+      "reserve0": "294199388",
+      "reserve1": "85420476998978844"
+    },
+    "USDT_WBTC_POOL": {
+      "address": "0xFba52ed6CB396526b48E526970007531B83b409E",
+      "reserve0": "1309160",
+      "reserve1": "1954"
+    },
+    "USDT_MATIC_POOL": {
+      "address": "0x177Eb762Ed99EDb899C31BDC829d9278297346F7",
+      "reserve0": "957",
+      "reserve1": "1630659436727207"
+    },
+    "CAKE_USDT_POOL": {
+      "address": "0x090AEa2dC6C89461f2B64f8A711E82Fd3927e055",
+      "reserve0": "895559165216222922",
+      "reserve1": "2215099"
+    },
+    "WETH_RETH_POOL": {
+      "address": "0x0D596779FaDef8Dd29c0bf7e60e7A74c2eFe38AF",
+      "reserve0": "88016659559759",
+      "reserve1": "80799877201227"
+    },
+    "WETH_WBTC_POOL": {
+      "address": "0xf60537acA98aB2433904d5091FdaDc6521c5bb28",
+      "reserve0": "11554968056073",
+      "reserve1": "60"
+    },
+    "WETH_MATIC_POOL": {
+      "address": "0xf38C94108817c49c8Eb901bdf2d4575a7aB6dCBd",
+      "reserve0": "1333473676011",
+      "reserve1": "3603378558722964"
+    },
+    "ATF_WETH_POOL": {
+      "address": "0x2439B3473C696fd916D3523c06a63AC98BDa45C4",
+      "reserve0": "6888191432175751311",
+      "reserve1": "339569196536237"
+    },
+    "CAKE_WETH_POOL": {
+      "address": "0xF31839E96Cd83B3FC9F145381BF336819A9723B9",
+      "reserve0": "63876351868305744027",
+      "reserve1": "40340118263225849"
+    },
+    "CAKE_RETH_POOL": {
+      "address": "0x9EB6506aCE3f039F23C0594CbA01Fc6eBB581159",
+      "reserve0": "10000000000000000",
+      "reserve1": "50000000000000"
+    },
+    "STMATIC_MATIC_POOL": {
+      "address": "0x23ba0a84B070087576A2F2308fAFFfd5B337De36",
+      "reserve0": "34273",
+      "reserve1": "30"
+    }
+  },
+  "zkEVMSwapV2": {
+    "USDC_DAI_POOL": {
+      "address": "0xc83EB7E87AeBAb0D64F5160CdD24d07D14D48fBF",
+      "reserve0": "120000",
+      "reserve1": "120000000000000000"
+    },
+    "WETH_DAI_POOL": {
+      "address": "0xc780d2aF58A2D5231838dF10767B10E01A4A1126",
+      "reserve0": "7459840537037766",
+      "reserve1": "30748426283571017675"
+    },
+    "USDT_USDC_POOL": {
+      "address": "0xd3510070E4c1246aB43c35B6F8a16D419186aE99",
+      "reserve0": "1192511908",
+      "reserve1": "1182056105"
+    },
+    "WETH_USDC_POOL": {
+      "address": "0x0718811a2BeF79DD7f3baCc67A13a004bcF8a0B9",
+      "reserve0": "706160825088935843",
+      "reserve1": "2389045218"
+    },
+    "MATIC_USDC_POOL": {
+      "address": "0x6c992c726270c45bDab6DCBbFEf58F03dE266Fd2",
+      "reserve0": "117117873395156379191",
+      "reserve1": "65732650"
+    },
+    "USDT_WETH_POOL": {
+      "address": "0x7138C6603D371272281E24CE974ad8AA23abccc8",
+      "reserve0": "415546404",
+      "reserve1": "122957903179581032"
+    },
+    "USDT_MATIC_POOL": {
+      "address": "0x404ae659F793a37D83571F9F024dEa74cd61DF43",
+      "reserve0": "7461354",
+      "reserve1": "12611442447322987735"
+    },
+    "WETH_MATIC_POOL": {
+      "address": "0xd799cBa6c24231E34b35f48F5d209f4E5eeC02a4",
+      "reserve0": "63733174904443369",
+      "reserve1": "381618309861873621549"
+    },
+    "MATIC_WBTC_POOL": {
+      "address": "0xFBCB3d438DFE187fB2a17532166fe33855598814",
+      "reserve0": "1261335792493843385",
+      "reserve1": "1230"
+    }
+  },
+  "FlashLiquidityV2": {
+    "WETH_USDC_POOL": {
+      "address": "0x00951FE42fF7Cfc8dF56d256D1757D8Af6fd42E6",
+      "reserve0": "68197119441193579",
+      "reserve1": "228636990"
+    },
+    "MATIC_USDC_POOL": {
+      "address": "0x8d893ce60E3C0cBE8FA6cB74332351b08259E74d",
+      "reserve0": "273071667193058899414",
+      "reserve1": "153901361"
+    },
+    "USDT_WETH_POOL": {
+      "address": "0x33366C5F427ABD75ED2f68b18Fc9F8c0e7C9caCb",
+      "reserve0": "654030",
+      "reserve1": "183853097467809"
+    }
+  }
+}

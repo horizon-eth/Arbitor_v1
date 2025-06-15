@@ -1,0 +1,90 @@
+[
+  {
+    "pool_address": "0xF6148755B472910FB221B8Fd3106496DE8AB97D0",
+    "pool_name": "WETH / BLAST",
+    "project_name": "SwapBlastV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "BLAST",
+    "token1_address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xa3b24617c02B860A1B5Aa1CF9beB05d1b2c2629C",
+    "pool_name": "USDB / WETH",
+    "project_name": "SwapBlastV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xBe6FB534bc0e7E9C3331f72E2759a2F88D95eF2F",
+    "pool_name": "WETH / SBF",
+    "project_name": "SwapBlastV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "SBF",
+    "token1_address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x61612C9872F5C05815B794Dc1fAc434Ba0a9bd5E",
+    "pool_name": "WETH / xSBF",
+    "project_name": "SwapBlastV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "XSBF",
+    "token1_address": "0xfEE958Fa595B4478cea7560C91400A98b83d6C91",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x963980f7a74Ee89cc84a346402dB69C9CA39e5Ba",
+    "pool_name": "WETH / aETH",
+    "project_name": "SwapBlastV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "AETH",
+    "token1_address": "0x6a4698baa14d072A1A1D235c6990033230e2a50a",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x6548a90Ef5d12363908D58e24675A520d1C23099",
+    "pool_name": "USDB / SBF",
+    "project_name": "SwapBlastV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "SBF",
+    "token1_address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x426EAD73947149d10b61c5896Ee1F751d83694E4",
+    "pool_name": "USDB / xSBF",
+    "project_name": "SwapBlastV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "XSBF",
+    "token1_address": "0xfEE958Fa595B4478cea7560C91400A98b83d6C91",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x9E4f591C80652Ed22069a835Bb6389029aE19a4c",
+    "pool_name": "SBF / xSBF",
+    "project_name": "SwapBlastV2",
+    "token0_symbol": "SBF",
+    "token0_address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+    "token0_decimal": 18,
+    "token1_symbol": "XSBF",
+    "token1_address": "0xfEE958Fa595B4478cea7560C91400A98b83d6C91",
+    "token1_decimal": 18
+  }
+]

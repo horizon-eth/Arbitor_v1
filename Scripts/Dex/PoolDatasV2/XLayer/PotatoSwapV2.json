@@ -1,0 +1,90 @@
+[
+  {
+    "pool_address": "0xC71f9e1DE80Eb505C0cB3bBf90ae6593130e5D25",
+    "pool_name": "USDT / WOKB",
+    "project_name": "PotatoSwapV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xbc5f0255f341054531e2dF6BA20aD46B8556985b",
+    "pool_name": "USDT / WETH",
+    "project_name": "PotatoSwapV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xc665706b4777E288901e915267b9d88161fe3Fe8",
+    "pool_name": "USDT / USDC",
+    "project_name": "PotatoSwapV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "USDC",
+    "token1_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xa8f060edDFbA0eF41810e4a9211F8b85B0f64a51",
+    "pool_name": "WETH / WOKB",
+    "project_name": "PotatoSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token0_decimal": 18,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x8BC3b18232DCEa4E10eCbCDE6d56F2C68Fe1F3C7",
+    "pool_name": "USDC / WOKB",
+    "project_name": "PotatoSwapV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xAd71E567501633f96948cd46E4700799006D3D15",
+    "pool_name": "PUFF / WOKB",
+    "project_name": "PotatoSwapV2",
+    "token0_symbol": "PUFF",
+    "token0_address": "0x4D87750a795b0Ae310A24349fA9108585100A90e",
+    "token0_decimal": 18,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xa0f752EAF34D574dd9dd3C7A821568DB90e676dd",
+    "pool_name": "OKBABY / WOKB",
+    "project_name": "PotatoSwapV2",
+    "token0_symbol": "OKBABY",
+    "token0_address": "0xd0034aEe8e1d8d8919A401c546Ed2d0F2A4C90F1",
+    "token0_decimal": 18,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x16c12eaD4932cF48f896dDb42377aac4F3d43906",
+    "pool_name": "WETH / USDC",
+    "project_name": "PotatoSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token1_decimal": 6
+  }
+]

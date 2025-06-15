@@ -1,0 +1,79 @@
+[
+  {
+    "pool_address": "0xB6636f12F30C8fC7ad694F03bB6e6A54feBDd621",
+    "pool_name": "USDC / WETH",
+    "project_name": "LeetSwapV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xf359E3E29B20041511a48aa257eCf5a56951A3Da",
+    "pool_name": "USDT / WETH",
+    "project_name": "LeetSwapV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x679d06A7edCbA76B4595E334224760443a2817d5",
+    "pool_name": "WBTC / WETH",
+    "project_name": "LeetSwapV2",
+    "token0_symbol": "WBTC",
+    "token0_address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token0_decimal": 8,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x0BA3CBB512617526882d41c31c8468cb9e2a4b5c",
+    "pool_name": "BUSD / WETH",
+    "project_name": "LeetSwapV2",
+    "token0_symbol": "BUSD",
+    "token0_address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7fEF5e6EEE6576c0f20A904cB63FFEeE3b22b528",
+    "pool_name": "USDC / USDT",
+    "project_name": "LeetSwapV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x41B291c888cfAa496BbC3718C10B4b5263fD30E6",
+    "pool_name": "USDC / BUSD",
+    "project_name": "LeetSwapV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "BUSD",
+    "token1_address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x3C3F2Df88d237c00EACED9459C1c4f5BDB5C8c42",
+    "pool_name": "BUSD / USDT",
+    "project_name": "LeetSwapV2",
+    "token0_symbol": "BUSD",
+    "token0_address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+    "token0_decimal": 18,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  }
+]

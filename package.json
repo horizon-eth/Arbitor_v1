@@ -1,0 +1,38 @@
+{
+  "name": "arbitor-v1-node-ethers",
+  "description": "Cross-Chain Uniswap V2/V3 Interoperalbe Capital-Free Universal Flash Swap Arbitrage Bot",
+  "author": "0xufuk",
+  "version": "4.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js",
+    "start:pm2": "pm2 start ./ecosystem.config.js",
+    "build": "npm install && npm install -g pm2 && npm install -g hardhat && npx hardhat compile",
+    "withdraw:all": "node ./Scripts/ContractFunctions/WithdrawAllOnAllChains.js",
+    "withdraw:single": "node ./Scripts/ContractFunctions/WithdrawAllOnSingleChain.js"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.1"
+  },
+  "dependencies": {
+    "@balancer-labs/v2-vault": "^3.0.1",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.1",
+    "@pythnetwork/pyth-evm-js": "^1.39.0",
+    "@uniswap/v2-core": "^1.0.1",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "@uniswap/v3-core": "^1.0.1",
+    "axios": "^1.9.0",
+    "bignumber.js": "^9.1.2",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.13.4",
+    "events": "^3.3.0",
+    "fs-extra": "^11.2.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "pm2": "^5.4.2",
+    "proper-lockfile": "^4.1.2"
+  },
+  "keywords": []
+}

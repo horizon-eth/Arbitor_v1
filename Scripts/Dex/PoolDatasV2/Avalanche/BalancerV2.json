@@ -1,0 +1,62 @@
+[
+  {
+    "pool_address": "0xb8A049353e647f29Cf94F32B609baD6F67Aff080",
+    "pool_id": "0xb8a049353e647f29cf94f32b609bad6f67aff080000200000000000000000039",
+    "pool_fee": "0.005",
+    "pool_name": "BTC / sAVAX - fee: 0.005",
+    "project_name": "BalancerV2",
+    "weight0": "500000000000000000",
+    "token0_symbol": "BTC",
+    "token0_address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "token0_decimal": 8,
+    "weight1": "500000000000000000",
+    "token1_symbol": "SAVAX",
+    "token1_address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xb06FdBD2941d2f42d60accEe85086198Ac729236",
+    "pool_id": "0xb06fdbd2941d2f42d60accee85086198ac72923600020000000000000000001a",
+    "pool_fee": "0.003",
+    "pool_name": "HATCHY / WAVAX - fee: 0.003",
+    "project_name": "BalancerV2",
+    "weight0": "800000000000000000",
+    "token0_symbol": "HATCHY",
+    "token0_address": "0x502580fc390606b47FC3b741d6D49909383c28a9",
+    "token0_decimal": 18,
+    "weight1": "200000000000000000",
+    "token1_symbol": "WAVAX",
+    "token1_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xB10968b6CA2Ea1c25D392a9A990559ed3F686861",
+    "pool_id": "0xb10968b6ca2ea1c25d392a9a990559ed3f686861000200000000000000000028",
+    "pool_fee": "0.003",
+    "pool_name": "WAVAX / USDC - fee: 0.003",
+    "project_name": "BalancerV2",
+    "weight0": "800000000000000000",
+    "token0_symbol": "WAVAX",
+    "token0_address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+    "token0_decimal": 18,
+    "weight1": "200000000000000000",
+    "token1_symbol": "USDC",
+    "token1_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xAb567C27450E3Fa1b4eE4E67Ca7D1003C49E7ea8",
+    "pool_id": "0xab567c27450e3fa1b4ee4e67ca7d1003c49e7ea800020000000000000000002b",
+    "pool_fee": "0.003",
+    "pool_name": "BTC / USDC - fee: 0.003",
+    "project_name": "BalancerV2",
+    "weight0": "930000000000000000",
+    "token0_symbol": "BTC",
+    "token0_address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+    "token0_decimal": 8,
+    "weight1": "70000000000000000",
+    "token1_symbol": "USDC",
+    "token1_address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+    "token1_decimal": 6
+  }
+]

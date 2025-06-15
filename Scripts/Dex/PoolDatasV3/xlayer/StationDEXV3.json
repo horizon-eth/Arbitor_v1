@@ -1,0 +1,62 @@
+[
+  {
+    "pool_address": "0x11E7C6Ff7aD159E179023bB771AEc61DB6D9234d",
+    "pool_name": "USDT / WOKB",
+    "project_name": "StationDEXV3",
+    "pool_fee": 3000,
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xDd26d766020665F0e7c0d35532cF11EE8ED29d5A",
+    "pool_name": "USDT / WETH",
+    "project_name": "StationDEXV3",
+    "pool_fee": 3000,
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x335Db3Ca65887958CA9d590acF287Ae770f81e72",
+    "pool_name": "USDT / USDC",
+    "project_name": "StationDEXV3",
+    "pool_fee": 500,
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "USDC",
+    "token1_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x3C386527EB1b63A36f5eE32ae00612107C0F5E0B",
+    "pool_name": "USDC / WOKB",
+    "project_name": "StationDEXV3",
+    "pool_fee": 500,
+    "token0_symbol": "USDC",
+    "token0_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xc13100A8cEd6001C47E8945a1387d792656Fa01F",
+    "pool_name": "USDC / WOKB",
+    "project_name": "StationDEXV3",
+    "pool_fee": 3000,
+    "token0_symbol": "USDC",
+    "token0_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  }
+]

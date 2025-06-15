@@ -1,0 +1,270 @@
+{
+  "SushiSwapV2": {
+    "MOON_BRICK_POOL": {
+      "address": "0x3fBbE1FE1208686B132747510740a327fb52a893",
+      "reserve0": "3918491607048446984002",
+      "reserve1": "6601282257766549201394"
+    },
+    "BRICK_SUSHI_POOL": {
+      "address": "0x2e4657D9aa65d3eeAB1992142534DE6f7c5d00c0",
+      "reserve0": "52899569696582895614",
+      "reserve1": "6071975215329013098"
+    },
+    "BRICK_DOUBLOON_POOL": {
+      "address": "0x3C3895460bEC4908766ff1951bd07AE5a72e2F6E",
+      "reserve0": "76123312885677146139",
+      "reserve1": "18367316528951045603925"
+    },
+    "MOON_BOPE_POOL": {
+      "address": "0xc2436CA1456D1C08047fAC79544d9Ed6060a789A",
+      "reserve0": "84712732948652494",
+      "reserve1": "240753666883547086469"
+    },
+    "MOON_SUSHI_POOL": {
+      "address": "0x3BEfE1609b558b672F8919c1e991B4a2B49Df648",
+      "reserve0": "48765675007822358396",
+      "reserve1": "9552773131638091447"
+    },
+    "MOON_DOUBLOON_POOL": {
+      "address": "0x8c55Ad680c9815D097A2fEa9524A7Fb3b9D56B34",
+      "reserve0": "7140151945920724627",
+      "reserve1": "3142145984434526805128"
+    },
+    "DOUBLOON_SUSHI_POOL": {
+      "address": "0x6C35fc1c9bE47773C42f7bDD726dE269fc85A453",
+      "reserve0": "900334529839670551181",
+      "reserve1": "321107069698883445"
+    }
+  },
+  "RPCSwapV2": {
+    "BOPE_BRICK_POOL": {
+      "address": "0x365a31433631e2c27D9679Bf187FD39850bF7150",
+      "reserve0": "1088631778835331219560026",
+      "reserve1": "684632039989547110972"
+    },
+    "BRICK_AIUS_POOL": {
+      "address": "0x48C000184D9B8378A619A4eDb6fF5f1A82F80C30",
+      "reserve0": "22431036197872955489",
+      "reserve1": "34653850634744459"
+    },
+    "MOON_BRICK_POOL": {
+      "address": "0x25aAC29Aa78d44D1CD6026f51851934BB98B640B",
+      "reserve0": "46771139746692828573295",
+      "reserve1": "78148159540458027493220"
+    },
+    "MOOND_BRICK_POOL": {
+      "address": "0x2802C7f470214C7cb832C23809d13b97cB0f673F",
+      "reserve0": "16234324815468328263",
+      "reserve1": "23050166006920642323"
+    },
+    "MOON_BOPE_POOL": {
+      "address": "0x645bFdF16C767dFD5b4400858a16a79202De462d",
+      "reserve0": "204642643221077840118",
+      "reserve1": "558876798552190096677514"
+    },
+    "MOOND_AIUS_POOL": {
+      "address": "0xF272EcAD8B7b52620f2141464d3f4a6B77aCDC5b",
+      "reserve0": "73517573524862280",
+      "reserve1": "327987020661036"
+    },
+    "MOON_MOOND_POOL": {
+      "address": "0x3DbB972B7653899677DC5facfCCCEC1579cc60bc",
+      "reserve0": "149474811127216488830374",
+      "reserve1": "184537517276390705112789"
+    }
+  },
+  "ArbSwapV2": {
+    "WETH_ARB_POOL": {
+      "address": "0x9Edb75c256d991D7b418fb81af6695c884495884",
+      "reserve0": "10573134310966661476",
+      "reserve1": "43039633329595836198686"
+    },
+    "WBTC_WETH_POOL": {
+      "address": "0xBEF29a14abfF45f42764c32fAD8008934eAb8aB4",
+      "reserve0": "805440",
+      "reserve1": "144398063847010573"
+    },
+    "WETH_USDC_POOL": {
+      "address": "0xdBA61558A49c0A836A4106502cFbe5870DAD1743",
+      "reserve0": "31371608594646212433",
+      "reserve1": "106421540316"
+    },
+    "USDT_WETH_POOL": {
+      "address": "0x72c46a42962690F0aaBF2Ad2921503B45a7304aC",
+      "reserve0": "543",
+      "reserve1": "233685144929516"
+    },
+    "WETH_DAI_POOL": {
+      "address": "0x3a94C233A80d7aDA126C1a7A6657de4513AD5D76",
+      "reserve0": "5910528958346656431",
+      "reserve1": "20203966318565775934311"
+    },
+    "BRICK_WETH_POOL": {
+      "address": "0x8931d94bb23AD766D0fea653342c4633F61a3Ac6",
+      "reserve0": "7139460945033041868834",
+      "reserve1": "196016612297148736"
+    },
+    "BOPE_WETH_POOL": {
+      "address": "0xa190665946Ba11D3Fa3149BdDB2476677936118b",
+      "reserve0": "1735945359884712506140",
+      "reserve1": "50046952732431"
+    },
+    "WETH_ARBS_POOL": {
+      "address": "0x7B8f0Abc15892C2EBd3891689b4a138220997b55",
+      "reserve0": "988599025230060682",
+      "reserve1": "19089605730753813641690199"
+    },
+    "MOON_WETH_POOL": {
+      "address": "0x415ECDa5dBe67d25Ed3CDC98100a581b290a35B2",
+      "reserve0": "6777445784810287427713",
+      "reserve1": "312918088053545674"
+    },
+    "WETH_SUSHI_POOL": {
+      "address": "0x06523C0CF92e12319A83fd0552bd51877cb9E611",
+      "reserve0": "839070403322275",
+      "reserve1": "3573423584735581831"
+    },
+    "WBTC_ARB_POOL": {
+      "address": "0x22cAb7a6AB474f73B46dEf69Bc1502B3B59bF472",
+      "reserve0": "15317",
+      "reserve1": "11727221884324995427"
+    },
+    "USDC_ARB_POOL": {
+      "address": "0x243dB8DE66c0e4C8c3144adDd7920F4480378776",
+      "reserve0": "1247526008",
+      "reserve1": "1503088049370589878740"
+    },
+    "DAI_ARB_POOL": {
+      "address": "0x047157020CBF517D5E396ecd253DCABd2Bef344b",
+      "reserve0": "271376550086507349780",
+      "reserve1": "326672786912821416635"
+    },
+    "BRICK_ARB_POOL": {
+      "address": "0x18F3a04FFFB64C87D2515f5171eD389bCD410266",
+      "reserve0": "93732865632096173530",
+      "reserve1": "10380570558761620823"
+    },
+    "ARBS_ARB_POOL": {
+      "address": "0x6841F55C7E9ef1bf5b43033C03cb829bdd0D81b5",
+      "reserve0": "11685780947037403083066",
+      "reserve1": "2339013664036079037"
+    },
+    "MOON_ARB_POOL": {
+      "address": "0x513CfaDcB9501e05e4c931d11e2e172BC3CD2F1D",
+      "reserve0": "42293202749239984091",
+      "reserve1": "8138215441174049835"
+    },
+    "WBTC_USDC_POOL": {
+      "address": "0x5c186C73772E88Ba54F842fa93BD6eb6CC32a2C1",
+      "reserve0": "72877",
+      "reserve1": "44464397"
+    },
+    "WBTC_DAI_POOL": {
+      "address": "0xf1A7EfEa6104CD5733736C863B3A34E8008B8681",
+      "reserve0": "45686",
+      "reserve1": "27826001911002128154"
+    },
+    "WBTC_BRICK_POOL": {
+      "address": "0x5a549Fa160E035015084d6FBAA9a9fa41e731290",
+      "reserve0": "4604",
+      "reserve1": "31586706048103760524"
+    },
+    "MOON_WBTC_POOL": {
+      "address": "0xc34439A43029a901160fAf80e0F1a04da058B8A0",
+      "reserve0": "5296015399228421962",
+      "reserve1": "1233"
+    },
+    "USDC_DAI_POOL": {
+      "address": "0x659E2B4569D16D8c29a40CEC935FCC203a7Fe72D",
+      "reserve0": "4438977597",
+      "reserve1": "4470235074473287559308"
+    },
+    "BRICK_USDC_POOL": {
+      "address": "0xa55E706Ed4Fad88e37CAc8755518B21F159583Ea",
+      "reserve0": "194100577390523769923",
+      "reserve1": "17804970"
+    },
+    "USDC_ARBS_POOL": {
+      "address": "0x79D7A4d5C53b172165F0A0740cF410437e063Dac",
+      "reserve0": "4347",
+      "reserve1": "27324491014355848300"
+    },
+    "MOON_USDC_POOL": {
+      "address": "0x62597f0249120947263A372E9c9e8387A701B561",
+      "reserve0": "1634584375719721608003",
+      "reserve1": "255307987"
+    },
+    "BRICK_DAI_POOL": {
+      "address": "0xD6bC8fe57aadb7d09A2dFe9689483d45C3a6e2d1",
+      "reserve0": "190294446156533806308",
+      "reserve1": "17822509904020107355"
+    },
+    "ARBS_DAI_POOL": {
+      "address": "0xEf960Df13D206008b75c31C501DB7A72c134a926",
+      "reserve0": "14641379376079066233102",
+      "reserve1": "2598421113405645477"
+    },
+    "MOON_DAI_POOL": {
+      "address": "0xeCfebCc302B683EB8F5A7BA56333EAc6ec65B6Da",
+      "reserve0": "622488063346472652198",
+      "reserve1": "97901324173629858357"
+    },
+    "BRICK_ARBS_POOL": {
+      "address": "0xB784E97286E0F5d8cd5d3ed85Dd62F04de7E69c1",
+      "reserve0": "2298977074342768589",
+      "reserve1": "928547267788711784097"
+    },
+    "MOON_BRICK_POOL": {
+      "address": "0xe8E2Ef776C689d9e5042C545f12eEb5D0CEd53C4",
+      "reserve0": "287368047825755275331",
+      "reserve1": "485801240131457350170"
+    },
+    "MOON_ARBS_POOL": {
+      "address": "0x90ab2c110199A1C7DF5e89fBAdb6809b7B5507f1",
+      "reserve0": "157451166474312194",
+      "reserve1": "60074086834051537598"
+    }
+  },
+  "ArchlyV2": {
+    "WETH_ARB_POOL": {
+      "address": "0x0DBA77E7D2F8767e710DC92f2eB689172903B7da",
+      "reserve0": "7646564538520626",
+      "reserve1": "31833758445555935556"
+    },
+    "WBTC_WETH_POOL": {
+      "address": "0x76feB3cf6E57Dd92F5626033Dc580C20a549EB70",
+      "reserve0": "1650483",
+      "reserve1": "299967597464075788"
+    },
+    "WETH_USDC_POOL": {
+      "address": "0xf2485aC05903e14Cd34180C6452215C55aa4C8Bf",
+      "reserve0": "20117859678461729",
+      "reserve1": "67417740"
+    },
+    "WETH_DAI_POOL": {
+      "address": "0x7Df8C70988465E45CFE24925FbA285268193c815",
+      "reserve0": "3478031586895685",
+      "reserve1": "12126503707507566025"
+    },
+    "MOON_WETH_POOL": {
+      "address": "0x865d1dDFa41f468ae4ea14897daBC8B7AF6fd24f",
+      "reserve0": "28644691723666797063",
+      "reserve1": "1230280585208256"
+    },
+    "USDC_ARB_POOL": {
+      "address": "0x52E3CF4f83ba2a9972eFAB5280968F44496a70b9",
+      "reserve0": "881301",
+      "reserve1": "955697316971214222"
+    },
+    "DAI_ARB_POOL": {
+      "address": "0xC6B41e904CC52251f79E88Cd24D016cfBDBbBD80",
+      "reserve0": "1872206209524326303",
+      "reserve1": "2185481391661659529"
+    },
+    "USDC_DAI_POOL": {
+      "address": "0x38d0F7A80fD4EF6Bb044c0078B6d6a33A0614481",
+      "reserve0": "647311",
+      "reserve1": "651500641313374787"
+    }
+  }
+}

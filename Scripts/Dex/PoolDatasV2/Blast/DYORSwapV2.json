@@ -1,0 +1,134 @@
+[
+  {
+    "pool_address": "0x97A2636e8c7D980dc08528f3719A1370583Ac972",
+    "pool_name": "USDB / WETH",
+    "project_name": "DYORSwapV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xbDB74C1025d33E6807688317131b1755b1C7b750",
+    "pool_name": "PUMP / WETH",
+    "project_name": "DYORSwapV2",
+    "token0_symbol": "PUMP",
+    "token0_address": "0x216A5a1135A9dab49FA9Ad865E0f22FE22b5630A",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xAA45A296A4f09933cc22a1A1a49aCD27106F7fd3",
+    "pool_name": "WETH / ANDY",
+    "project_name": "DYORSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "ANDY",
+    "token1_address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
+    "token1_decimal": 9
+  },
+  {
+    "pool_address": "0x78abad20F759b928BFe63e445C10BBB011c4080d",
+    "pool_name": "WETH / BCat",
+    "project_name": "DYORSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "BCAT",
+    "token1_address": "0x9bD75c164dAf830733AC2EA71A0258f95aac7C57",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x80b9E145f3CDd59Ef086b012f90416eEbe5e1842",
+    "pool_name": "OHNO / WETH",
+    "project_name": "DYORSwapV2",
+    "token0_symbol": "OHNO",
+    "token0_address": "0x000000dAA580e54635a043D2773f2c698593836a",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x56A22aEB7b40E67b50B0403F08Bb1Df0620303B8",
+    "pool_name": "WETH / BEPE",
+    "project_name": "DYORSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "BEPE",
+    "token1_address": "0xB582Dc28968c725D2868130752aFa0c13EbF9b1a",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xCE5EED2e525a2C721fea2A5B15C2ebdD7f57410D",
+    "pool_name": "WETH / BHUB",
+    "project_name": "DYORSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "BHUB",
+    "token1_address": "0x6ABE0f515B839f242Bf8253ca1f47A7ED061adb0",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x70FB0A692d99dA1a6210147a7b64398F40B4469D",
+    "pool_name": "WETH / SBF",
+    "project_name": "DYORSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "SBF",
+    "token1_address": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xc3a2FF68af4253B15B1b095ea4Ca7B0598eF064b",
+    "pool_name": "BINU / WETH",
+    "project_name": "DYORSwapV2",
+    "token0_symbol": "BINU",
+    "token0_address": "0x34050224F9eA1859790b7CBBBe2264f1204771A6",
+    "token0_decimal": 9,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x892D1427afb19BCAbC670287dc57d51F5DFf5f2D",
+    "pool_name": "WETH / FINGER",
+    "project_name": "DYORSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "FINGER",
+    "token1_address": "0x7217124C626f0b7077bE91dF939195C9a8184ecC",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x5468079770068E425eF4464E5449b59282e26e44",
+    "pool_name": "WETH / PUMP",
+    "project_name": "DYORSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "PUMP",
+    "token1_address": "0x47B5b0B420ead662933F7a7c690fD3c09f695c81",
+    "token1_decimal": 9
+  },
+  {
+    "pool_address": "0x3f32D15874FDc3B3Dd66fD250c10D62968cC34C1",
+    "pool_name": "WETH / BD",
+    "project_name": "DYORSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "BD",
+    "token1_address": "0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88",
+    "token1_decimal": 18
+  }
+]

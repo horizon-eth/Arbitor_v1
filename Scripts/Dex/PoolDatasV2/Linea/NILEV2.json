@@ -1,0 +1,233 @@
+[
+  {
+    "pool_address": "0x3323eab70Fcb5B74d55Cf17334b2e02831698421",
+    "pool_name": "weETH / WETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "WEETH",
+    "token0_address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x54F28a1082Aa313f0c0c5C1E2C30a1822b673c95",
+    "pool_name": "weETH / wrsETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "WEETH",
+    "token0_address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+    "token0_decimal": 18,
+    "token1_symbol": "WRSETH",
+    "token1_address": "0xD2671165570f41BBB3B0097893300b6EB6101E6C",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x4E70D0f5F8bbF43A470aA0C0ac271841890a4204",
+    "pool_name": "wrsETH / WETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "WRSETH",
+    "token0_address": "0xD2671165570f41BBB3B0097893300b6EB6101E6C",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x769a64A1C49202E49dC3e20F2B4B42eeb2e2f226",
+    "pool_name": "USDC / WETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x311459C4F422ac5E979103F23974eABd51e06079",
+    "pool_name": "USDT / WETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x76B0d13428eb01f12F132aa58707d254c42DF568",
+    "pool_name": "ezETH / WETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "EZETH",
+    "token0_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xA84A72a82cD917d013C3d94F78Ea66B59b291b20",
+    "pool_name": "FOXY / WETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "FOXY",
+    "token0_address": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xC3281de49011E2591b516Bb2fdB58A1502F4467F",
+    "pool_name": "wstETH / WETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "WSTETH",
+    "token0_address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xFC6A4cd4007C3d24D37114d81A801a56F9536625",
+    "pool_name": "NILE / WETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "NILE",
+    "token0_address": "0xAAAac83751090C6ea42379626435f805DDF54DC8",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x0040F36784dDA0821E74BA67f86E084D70d67a3A",
+    "pool_name": "ZERO / WETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "ZERO",
+    "token0_address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xF12DA574d0c6aF5bB98861488cf1C51374ef7ED1",
+    "pool_name": "LUBE / WETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "LUBE",
+    "token0_address": "0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xd68A19D764e39C997b6e6110Cc6a0A98d3F50c54",
+    "pool_name": "DAI / WETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "DAI",
+    "token0_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xdA486ec64f4B64A6a412Ab68dA8F4Ec5E53f15A4",
+    "pool_name": "LINE / WETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "LINE",
+    "token0_address": "0x2Fab0952449378DfdF4625fE37F9603011F189ab",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x74478EfA0Fff0dFc18e0a566b8dE016e2D2982AD",
+    "pool_name": "ONEPUNCH / WETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "ONEPUNCH",
+    "token0_address": "0x1F63D0EC7193964142ef6B13d901462d0E5CbB50",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x3Cd0083f6860df3c5F634067BfF6cb5C5596ab94",
+    "pool_name": "USDC / USDT",
+    "project_name": "NILEV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x4A6F0D5a856ad1Efd1cc6243491Ff6DF068f6A35",
+    "pool_name": "USDC / ezETH",
+    "project_name": "NILEV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "EZETH",
+    "token1_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x9971DBA6e18536b0415a6Fbbf49d81AB12068AB7",
+    "pool_name": "USDC / NILE",
+    "project_name": "NILEV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "NILE",
+    "token1_address": "0xAAAac83751090C6ea42379626435f805DDF54DC8",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xEc06f5100758bE74B33762f99123A1b9B9E9A7F2",
+    "pool_name": "USDC / MENDI",
+    "project_name": "NILEV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "MENDI",
+    "token1_address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xC59c9a5826d54EC4e2857a72eBEb6B8941A46899",
+    "pool_name": "LYNX / USDT",
+    "project_name": "NILEV2",
+    "token0_symbol": "LYNX",
+    "token0_address": "0x1a51b19CE03dbE0Cb44C1528E34a7EDD7771E9Af",
+    "token0_decimal": 18,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x8b5DF893C80212712fB00d57A47d50A436520BF3",
+    "pool_name": "EURO3 / FOXY",
+    "project_name": "NILEV2",
+    "token0_symbol": "EURO3",
+    "token0_address": "0x3F817b28Da4940F018C6b5c0A11C555ebB1264f9",
+    "token0_decimal": 18,
+    "token1_symbol": "FOXY",
+    "token1_address": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xBb0191a1FbF72A7c52C570d02Dafa7edBAFfB5FD",
+    "pool_name": "LUBE / NILE",
+    "project_name": "NILEV2",
+    "token0_symbol": "LUBE",
+    "token0_address": "0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf",
+    "token0_decimal": 18,
+    "token1_symbol": "NILE",
+    "token1_address": "0xAAAac83751090C6ea42379626435f805DDF54DC8",
+    "token1_decimal": 18
+  }
+]

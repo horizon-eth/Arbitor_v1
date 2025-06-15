@@ -1,0 +1,86 @@
+[
+  {
+    "pool_address": "0x56e74724dC8a1dFe3a30aACb05156C22C68aE310",
+    "pool_name": "USDT / WOKB",
+    "project_name": "DackieSwapV3",
+    "pool_fee": 500,
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xa5388037b5FEf0EfCdFC9e1d6d7bC6E7e61C7082",
+    "pool_name": "USDT / WOKB",
+    "project_name": "DackieSwapV3",
+    "pool_fee": 2500,
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x2A11952d48BAC1aC0FF2CDc9470bE275C627F6ab",
+    "pool_name": "USDT / USDC",
+    "project_name": "DackieSwapV3",
+    "pool_fee": 500,
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "USDC",
+    "token1_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xc35a6710a94b7B057647F01AD4E4EA597cD59B1c",
+    "pool_name": "WETH / WOKB",
+    "project_name": "DackieSwapV3",
+    "pool_fee": 2500,
+    "token0_symbol": "WETH",
+    "token0_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token0_decimal": 18,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x541A72Bb2580B70854520a90756e01Ad7146A363",
+    "pool_name": "USDC / WOKB",
+    "project_name": "DackieSwapV3",
+    "pool_fee": 500,
+    "token0_symbol": "USDC",
+    "token0_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x3792D38fD104c27460f70aE2Deb4716b7Db616C8",
+    "pool_name": "USDC / WOKB",
+    "project_name": "DackieSwapV3",
+    "pool_fee": 2500,
+    "token0_symbol": "USDC",
+    "token0_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7ACF9604c77a85Fa81fb76216c8757FD0C0B87e4",
+    "pool_name": "ABS / OKBABY",
+    "project_name": "DackieSwapV3",
+    "pool_fee": 10000,
+    "token0_symbol": "ABS",
+    "token0_address": "0x54455532324468f5D60eBD6469f2BbD3Dc47a7F8",
+    "token0_decimal": 18,
+    "token1_symbol": "OKBABY",
+    "token1_address": "0xd0034aEe8e1d8d8919A401c546Ed2d0F2A4C90F1",
+    "token1_decimal": 18
+  }
+]

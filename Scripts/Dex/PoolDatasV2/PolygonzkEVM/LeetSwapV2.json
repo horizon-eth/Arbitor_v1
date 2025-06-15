@@ -1,0 +1,13 @@
+[
+  {
+    "pool_address": "0x761a8f666f1c46169974636A90202272DBB54f4c",
+    "pool_name": "WETH / USDC",
+    "project_name": "LeetSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  }
+]

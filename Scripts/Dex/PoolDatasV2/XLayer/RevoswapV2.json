@@ -1,0 +1,68 @@
+[
+  {
+    "pool_address": "0xc7545904DE04200b3d4676827Cdc9977a0D032d5",
+    "pool_name": "USDT / WOKB",
+    "project_name": "RevoswapV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x944dFa0765659ccF75a2976dfFb691A5e907994C",
+    "pool_name": "USDT / WETH",
+    "project_name": "RevoswapV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xc2ad49BC4473D59d5E23696a94Eec2b76B4e43FA",
+    "pool_name": "USDT / USDC",
+    "project_name": "RevoswapV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "USDC",
+    "token1_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x9A6FcB822c14d20b761705de4798Fa082a96D764",
+    "pool_name": "WETH / WOKB",
+    "project_name": "RevoswapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token0_decimal": 18,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xba9219f332bF703D2a7Eb36b45D0439F91836129",
+    "pool_name": "USDC / WOKB",
+    "project_name": "RevoswapV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x1AD8F9807aAd31Ca4BBf0574e585dcBD18C8B40B",
+    "pool_name": "WOKB / WBTC",
+    "project_name": "RevoswapV2",
+    "token0_symbol": "WOKB",
+    "token0_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token0_decimal": 18,
+    "token1_symbol": "WBTC",
+    "token1_address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+    "token1_decimal": 8
+  }
+]

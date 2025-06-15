@@ -1,0 +1,145 @@
+[
+  {
+    "pool_address": "0xfBafbCa6e3179bf37fC2Ab8a2e32e4e6500A78a5",
+    "pool_name": "FRAX / FXS",
+    "project_name": "RaExchangeV2",
+    "token0_symbol": "FRAX",
+    "token0_address": "0xFc00000000000000000000000000000000000001",
+    "token0_decimal": 18,
+    "token1_symbol": "FXS",
+    "token1_address": "0xFc00000000000000000000000000000000000002",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xaa08c24A76a1Ad5DE28BC56B23413D13B8Be6Eeb",
+    "pool_name": "FRAX / wfrxETH",
+    "project_name": "RaExchangeV2",
+    "token0_symbol": "FRAX",
+    "token0_address": "0xFc00000000000000000000000000000000000001",
+    "token0_decimal": 18,
+    "token1_symbol": "WFRXETH",
+    "token1_address": "0xFC00000000000000000000000000000000000006",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x96E2b565cbAcC9ff1584e73b0e08a3066E0b9d55",
+    "pool_name": "USDC / FRAX",
+    "project_name": "RaExchangeV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0xDcc0F2D8F90FDe85b10aC1c8Ab57dc0AE946A543",
+    "token0_decimal": 6,
+    "token1_symbol": "FRAX",
+    "token1_address": "0xFc00000000000000000000000000000000000001",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xCA833aa82df5e04353Fe8f0f7f8ae537Fe1FBa01",
+    "pool_name": "axlUSDC / FRAX",
+    "project_name": "RaExchangeV2",
+    "token0_symbol": "AXLUSDC",
+    "token0_address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "token0_decimal": 6,
+    "token1_symbol": "FRAX",
+    "token1_address": "0xFc00000000000000000000000000000000000001",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x4f66cBd698F1fe6E2692D1De5d758027a5272787",
+    "pool_name": "FXS / wfrxETH",
+    "project_name": "RaExchangeV2",
+    "token0_symbol": "FXS",
+    "token0_address": "0xFc00000000000000000000000000000000000002",
+    "token0_decimal": 18,
+    "token1_symbol": "WFRXETH",
+    "token1_address": "0xFC00000000000000000000000000000000000006",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xb3d0554DE5670eda9B3dBE2Ce0A26390c1BF9432",
+    "pool_name": "axlUSDC / FXS",
+    "project_name": "RaExchangeV2",
+    "token0_symbol": "AXLUSDC",
+    "token0_address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "token0_decimal": 6,
+    "token1_symbol": "FXS",
+    "token1_address": "0xFc00000000000000000000000000000000000002",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x976a6DBB41d2D09Dcd0418f83B77ADd521590e2e",
+    "pool_name": "axlUSDC / wfrxETH",
+    "project_name": "RaExchangeV2",
+    "token0_symbol": "AXLUSDC",
+    "token0_address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "token0_decimal": 6,
+    "token1_symbol": "WFRXETH",
+    "token1_address": "0xFC00000000000000000000000000000000000006",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xae00e4a580f89Ce0c8A1dcc7d9c19A0FC10C92c0",
+    "pool_name": "KFC / wfrxETH",
+    "project_name": "RaExchangeV2",
+    "token0_symbol": "KFC",
+    "token0_address": "0xCC15F0F1e81E4A90CC2fAA918842E19F2ea2EE03",
+    "token0_decimal": 18,
+    "token1_symbol": "WFRXETH",
+    "token1_address": "0xFC00000000000000000000000000000000000006",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x28128EbE86De9515e81f3116F39925A3DB9B3B6A",
+    "pool_name": "FXD / wfrxETH",
+    "project_name": "RaExchangeV2",
+    "token0_symbol": "FXD",
+    "token0_address": "0xdeBb8a79B025B2Fc2CA506F0c69497B60B91235C",
+    "token0_decimal": 18,
+    "token1_symbol": "WFRXETH",
+    "token1_address": "0xFC00000000000000000000000000000000000006",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x3b4ea1782931a20517af6474609fb16AC8cb44e6",
+    "pool_name": "CRV / wfrxETH",
+    "project_name": "RaExchangeV2",
+    "token0_symbol": "CRV",
+    "token0_address": "0x331B9182088e2A7d6D3Fe4742AbA1fB231aEcc56",
+    "token0_decimal": 18,
+    "token1_symbol": "WFRXETH",
+    "token1_address": "0xFC00000000000000000000000000000000000006",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x0d0b4332B8E552Aa14B3CDf41dcFfDb31D473a45",
+    "pool_name": "axlUSDC / frxETH",
+    "project_name": "RaExchangeV2",
+    "token0_symbol": "AXLUSDC",
+    "token0_address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "token0_decimal": 6,
+    "token1_symbol": "FRXETH",
+    "token1_address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xd685d55C2216baE6e2030Fdc91f73ba5351Fc26f",
+    "pool_name": "axlUSDC / FPIS",
+    "project_name": "RaExchangeV2",
+    "token0_symbol": "AXLUSDC",
+    "token0_address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "token0_decimal": 6,
+    "token1_symbol": "FPIS",
+    "token1_address": "0xfc00000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7a40eb6C3D503B91dDc537946CBCFD7ef11D78e9",
+    "pool_name": "KFC / FXD",
+    "project_name": "RaExchangeV2",
+    "token0_symbol": "KFC",
+    "token0_address": "0xCC15F0F1e81E4A90CC2fAA918842E19F2ea2EE03",
+    "token0_decimal": 18,
+    "token1_symbol": "FXD",
+    "token1_address": "0xdeBb8a79B025B2Fc2CA506F0c69497B60B91235C",
+    "token1_decimal": 18
+  }
+]

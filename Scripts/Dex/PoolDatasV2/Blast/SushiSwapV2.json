@@ -1,0 +1,79 @@
+[
+  {
+    "pool_address": "0x0EbC523eFe22165058e0c441e108Dc65a53808f2",
+    "pool_name": "USDB / WETH",
+    "project_name": "SushiSwapV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x137624053778943b2E68365F6224e594aa4cDEdF",
+    "pool_name": "WETH / ESE",
+    "project_name": "SushiSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "ESE",
+    "token1_address": "0x491e6DE43b55c8EAE702EDC263E32339da42f58c",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7550e97f70f2Cb4F5FB161Ed47f058BF393a5640",
+    "pool_name": "WETH / OMNI",
+    "project_name": "SushiSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "OMNI",
+    "token1_address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xb0021843aa9Eaf65fE4d57f6C5eE48EE9d8d17ba",
+    "pool_name": "WETH / NOGOLD",
+    "project_name": "SushiSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "NOGOLD",
+    "token1_address": "0xcDbe12611F18B43098202d45928c905b34736C06",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x14A7A611831F6E499D961c59b7839A3e4F039603",
+    "pool_name": "WETH / MAWE",
+    "project_name": "SushiSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "MAWE",
+    "token1_address": "0xBd58597AF004cc524cce6C8ad440a4537dcf556c",
+    "token1_decimal": 9
+  },
+  {
+    "pool_address": "0x00dD05b3B452d61CE55c330b562B0CEa183b744F",
+    "pool_name": "USDB / axlUSDC",
+    "project_name": "SushiSwapV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "AXLUSDC",
+    "token1_address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xD6e43ed1F9CC16b34596AB9F79A7adAE4Dd483Fe",
+    "pool_name": "USDB / MAWE",
+    "project_name": "SushiSwapV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "MAWE",
+    "token1_address": "0xBd58597AF004cc524cce6C8ad440a4537dcf556c",
+    "token1_decimal": 9
+  }
+]

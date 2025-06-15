@@ -1,0 +1,200 @@
+[
+  {
+    "pool_address": "0xEcDbB2dA6BA86C84f364EBbd068561C8f383fE27",
+    "pool_name": "USDC / WETH",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xD9DB1363381cc9E7711B0EeB875156Eb41Cd5DE2",
+    "pool_name": "USDT / WETH",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x224b1c4B64a59f10aE7c8b6A94Ee519586B31A35",
+    "pool_name": "ezETH / WETH",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "EZETH",
+    "token0_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x72C7f40FF8715f9118EfB65D5374bd97b446ba64",
+    "pool_name": "wstETH / WETH",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "WSTETH",
+    "token0_address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x53249119571829ac9F21897eD4B1f740DdEbbF1f",
+    "pool_name": "WBTC / WETH",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "WBTC",
+    "token0_address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token0_decimal": 8,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xb922ADB7ff19827656a653Af558ad964Ef261dfF",
+    "pool_name": "MENDI / WETH",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "MENDI",
+    "token0_address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xbd26a6b703eDAD9AbE251de31b24A97Bd3C930dD",
+    "pool_name": "LUBE / WETH",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "LUBE",
+    "token0_address": "0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x5b872317C3520b9AA2f2Eacb8717DD3D2D92D8A1",
+    "pool_name": "DAI / WETH",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "DAI",
+    "token0_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xE54a65cbF941F535F0482E1238d7607e38101Fd6",
+    "pool_name": "LINE / WETH",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "LINE",
+    "token0_address": "0x2Fab0952449378DfdF4625fE37F9603011F189ab",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x2192b90Fcb059F8a03B990e0466ADb7B9553b8B2",
+    "pool_name": "USDC / USDT",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x89C4B657A9fF050D674e8E294885156Ecb4e895C",
+    "pool_name": "USDC / ezETH",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "EZETH",
+    "token1_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x6B3692aFf9033175671Aa75728f1514Cda062883",
+    "pool_name": "USDC / LUBE",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "LUBE",
+    "token1_address": "0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xFF09eF02AeA2fd047EffB9B8dfA65b9604cCEEE1",
+    "pool_name": "ezETH / USDT",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "EZETH",
+    "token0_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token0_decimal": 18,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x8BA230B4e0332f3eb54731aA4A89068b32158C15",
+    "pool_name": "WBTC / USDT",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "WBTC",
+    "token0_address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token0_decimal": 8,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x5A022ee7E58beB6D55bb2d83DC5f432047cdB806",
+    "pool_name": "DAI / USDT",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "DAI",
+    "token0_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token0_decimal": 18,
+    "token1_symbol": "USDT",
+    "token1_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x675beD08Ab83b6D7dd5aCFDd54783DFa08ca8753",
+    "pool_name": "DAI / wstETH",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "DAI",
+    "token0_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token0_decimal": 18,
+    "token1_symbol": "WSTETH",
+    "token1_address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xAfdcC4f7223C6Cfc01Ef4CaFa6cfCE43137D3303",
+    "pool_name": "WBTC / DAI",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "WBTC",
+    "token0_address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+    "token0_decimal": 8,
+    "token1_symbol": "DAI",
+    "token1_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x6AA582804c4d4985a921Ae1E50E245a1031060d2",
+    "pool_name": "LUBE / LINE",
+    "project_name": "SectaFinanceV2",
+    "token0_symbol": "LUBE",
+    "token0_address": "0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf",
+    "token0_decimal": 18,
+    "token1_symbol": "LINE",
+    "token1_address": "0x2Fab0952449378DfdF4625fE37F9603011F189ab",
+    "token1_decimal": 18
+  }
+]

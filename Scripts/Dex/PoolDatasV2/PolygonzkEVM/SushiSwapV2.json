@@ -1,0 +1,24 @@
+[
+  {
+    "pool_address": "0x1407B57824AE18b711c2A38EB9319aba36ea931c",
+    "pool_name": "WETH / USDC",
+    "project_name": "SushiSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x030d027a7ceD6E28A0220A755a3cB79cF719C889",
+    "pool_name": "WETH / WBTC",
+    "project_name": "SushiSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "WBTC",
+    "token1_address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+    "token1_decimal": 8
+  }
+]

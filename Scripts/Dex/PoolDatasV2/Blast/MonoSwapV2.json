@@ -1,0 +1,167 @@
+[
+  {
+    "pool_address": "0xbD0DC65cF5d2796E8B5Fd55615F260beAFfC8bBe",
+    "pool_name": "WETH / BLAST",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "BLAST",
+    "token1_address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7034e9BB0cEA3CA9a75763D0d9b3036D388d6f86",
+    "pool_name": "WETH / PAC",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "PAC",
+    "token1_address": "0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x8Af0219e6c89DfF8447366ec26975Bd831D71F49",
+    "pool_name": "USDB / WETH",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x7DfA0FB9F41d5c1d187AAe9E3dDC6792088B0119",
+    "pool_name": "ezETH / WETH",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "EZETH",
+    "token0_address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xc9828A12E9ef78BF273EA9652B256b621CFdD65f",
+    "pool_name": "WETH / OLE",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "OLE",
+    "token1_address": "0x73c369F61c90f03eb0Dd172e95c90208A28dC5bc",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xa56e9FA9749Cae0C13338dCd784a5EEc11714273",
+    "pool_name": "WETH / BAJA",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "BAJA",
+    "token1_address": "0x5FE8534a6F96cb01261Bd96e98c17C2c1Cab3204",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xA3C3099c476f1C83886401733a6c8b598DAc0Ec5",
+    "pool_name": "WETH / MUSD",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "MUSD",
+    "token1_address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x9555853fe72696f7c00dD666F2cB4Ca72dA93036",
+    "pool_name": "WETH / ZKDX",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "ZKDX",
+    "token1_address": "0x71CA0E46434b4dfbd7065aFE508C9A107eB3a522",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x580230dC0FD5e995eBfaad7d50770Efb916136e5",
+    "pool_name": "BB / WETH",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "BB",
+    "token0_address": "0x17AEDAefFaa38EDa0c2bdd119de5dB1E8eB0fe59",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xF155986d43A514552f9951E06AD67d8C27e79667",
+    "pool_name": "USDB / BLAST",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "BLAST",
+    "token1_address": "0xb1a5700fA2358173Fe465e6eA4Ff52E36e88E2ad",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xBB449326cCB329340DBC9cfF517996036B34FAC0",
+    "pool_name": "PAC / ANDY",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "PAC",
+    "token0_address": "0x5ffd9EbD27f2fcAB044c0f0a26A45Cb62fa29c06",
+    "token0_decimal": 18,
+    "token1_symbol": "ANDY",
+    "token1_address": "0xd43D8aDAC6A4C7d9Aeece7c3151FcA8f23752cf8",
+    "token1_decimal": 9
+  },
+  {
+    "pool_address": "0x6feA0f307586eecC08D4DAF89582f8F2ADf0AA88",
+    "pool_name": "KALA / USDB",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "KALA",
+    "token0_address": "0x2F67F59b3629Bf24962290DB9edE0CD4127e606D",
+    "token0_decimal": 18,
+    "token1_symbol": "USDB",
+    "token1_address": "0x4300000000000000000000000000000000000003",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xB4FDeBfD4aDeD57B7Db581cFf181F5968aC934B9",
+    "pool_name": "USDB / MUSD",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "MUSD",
+    "token1_address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x33367234bEAD51fdc0583C642c0c74bf9dF3D1aB",
+    "pool_name": "OLE / MUSD",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "OLE",
+    "token0_address": "0x73c369F61c90f03eb0Dd172e95c90208A28dC5bc",
+    "token0_decimal": 18,
+    "token1_symbol": "MUSD",
+    "token1_address": "0x837fE561e9C5DFa73F607fDa679295DBC2Be5E40",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x55eEA424F9D62bD810299F8E21a766Bb4ad9E2A7",
+    "pool_name": "YIELD / HYPE",
+    "project_name": "MonoSwapV2",
+    "token0_symbol": "YIELD",
+    "token0_address": "0x67fa2887914fA3729e9EED7630294Fe124f417A0",
+    "token0_decimal": 18,
+    "token1_symbol": "HYPE",
+    "token1_address": "0x9FE9991dAF6b9a5d79280F48cbb6827D46DE2EA4",
+    "token1_decimal": 9
+  }
+]

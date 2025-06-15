@@ -1,0 +1,46 @@
+[
+  {
+    "pool_address": "0x33366C5F427ABD75ED2f68b18Fc9F8c0e7C9caCb",
+    "pool_name": "USDT / WETH",
+    "project_name": "FlashLiquidityV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x4fae329b5B2BF8Be4097E0600CED86dC9d8B4786",
+    "pool_name": "WETH / MATIC",
+    "project_name": "FlashLiquidityV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "MATIC",
+    "token1_address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x00951FE42fF7Cfc8dF56d256D1757D8Af6fd42E6",
+    "pool_name": "WETH / USDC",
+    "project_name": "FlashLiquidityV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x8d893ce60E3C0cBE8FA6cB74332351b08259E74d",
+    "pool_name": "MATIC / USDC",
+    "project_name": "FlashLiquidityV2",
+    "token0_symbol": "MATIC",
+    "token0_address": "0xa2036f0538221a77A3937F1379699f44945018d0",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  }
+]

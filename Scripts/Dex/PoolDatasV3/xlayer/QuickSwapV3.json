@@ -1,0 +1,123 @@
+[
+  {
+    "pool_address": "0x2b59B462103EFAa4d04E869D62985B43B46A93C9",
+    "pool_name": "USDT / WOKB",
+    "project_name": "QuickSwapV3",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xD77b2eD70271CD1feF1E81A4303D21B0824aEfc4",
+    "pool_name": "USDT / WETH",
+    "project_name": "QuickSwapV3",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xF62E53cb68d4076d18B824992Bd4aeB6c0128dAF",
+    "pool_name": "USDT / USDC",
+    "project_name": "QuickSwapV3",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "USDC",
+    "token1_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0x8B65C170c3DAbfD533AADc8546027585aC5c9A34",
+    "pool_name": "USDT / WBTC",
+    "project_name": "QuickSwapV3",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "WBTC",
+    "token1_address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+    "token1_decimal": 8
+  },
+  {
+    "pool_address": "0xF1c3D5cf3669fAcEb3bDeAE51d7C18B7E028131c",
+    "pool_name": "USDT / DAI",
+    "project_name": "QuickSwapV3",
+    "token0_symbol": "USDT",
+    "token0_address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+    "token0_decimal": 6,
+    "token1_symbol": "DAI",
+    "token1_address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x95c74723650d840f1a6Aa8CbE763E2eCD7f8E5D0",
+    "pool_name": "WETH / WOKB",
+    "project_name": "QuickSwapV3",
+    "token0_symbol": "WETH",
+    "token0_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token0_decimal": 18,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x0D1DfF29789604849096B6a60e655De2DB7CF7E6",
+    "pool_name": "USDC / WOKB",
+    "project_name": "QuickSwapV3",
+    "token0_symbol": "USDC",
+    "token0_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token0_decimal": 6,
+    "token1_symbol": "WOKB",
+    "token1_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xe618B3ea8E76B7f52BE7008a54fD453B3c1aD523",
+    "pool_name": "WOKB / WBTC",
+    "project_name": "QuickSwapV3",
+    "token0_symbol": "WOKB",
+    "token0_address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+    "token0_decimal": 18,
+    "token1_symbol": "WBTC",
+    "token1_address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+    "token1_decimal": 8
+  },
+  {
+    "pool_address": "0xac50cD06b1672E9E41E0D5EaaaD963eC3E49EA23",
+    "pool_name": "WETH / USDC",
+    "project_name": "QuickSwapV3",
+    "token0_symbol": "WETH",
+    "token0_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xE47121D706e3Aeb4243f58551023c0849cda88Ce",
+    "pool_name": "WETH / WBTC",
+    "project_name": "QuickSwapV3",
+    "token0_symbol": "WETH",
+    "token0_address": "0x5A77f1443D16ee5761d310e38b62f77f726bC71c",
+    "token0_decimal": 18,
+    "token1_symbol": "WBTC",
+    "token1_address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+    "token1_decimal": 8
+  },
+  {
+    "pool_address": "0x8f3C56B20CB0CEf1365909ccf51dcde8aac24b9F",
+    "pool_name": "USDC / WBTC",
+    "project_name": "QuickSwapV3",
+    "token0_symbol": "USDC",
+    "token0_address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+    "token0_decimal": 6,
+    "token1_symbol": "WBTC",
+    "token1_address": "0xEA034fb02eB1808C2cc3adbC15f447B93CbE08e1",
+    "token1_decimal": 8
+  }
+]

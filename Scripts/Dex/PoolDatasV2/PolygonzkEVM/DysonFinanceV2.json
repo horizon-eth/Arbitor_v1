@@ -1,0 +1,24 @@
+[
+  {
+    "pool_address": "0xEce7244a0e861C841651401fC22cEE577fEE90AF",
+    "pool_name": "WETH / USDC",
+    "project_name": "DysonFinanceV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4F9A0e7FD2Bf6067db6994CF12E4495Df938E6e9",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  },
+  {
+    "pool_address": "0xC9001AFF3701e19C29E996D48e474Baf4C5eD006",
+    "pool_name": "DYSN / USDC",
+    "project_name": "DysonFinanceV2",
+    "token0_symbol": "DYSN",
+    "token0_address": "0x9CBD81b43ba263ca894178366Cfb89A246D1159C",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0xA8CE8aee21bC2A48a5EF670afCc9274C7bbbC035",
+    "token1_decimal": 6
+  }
+]

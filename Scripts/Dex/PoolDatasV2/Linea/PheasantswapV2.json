@@ -1,0 +1,68 @@
+[
+  {
+    "pool_address": "0x3C0Eec2bEC278786114077c988511Ce5a275c8a8",
+    "pool_name": "USDC / WETH",
+    "project_name": "PheasantswapV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x9CB514e0D6D8106fB308E180C4713228Bb3989a9",
+    "pool_name": "USDT / WETH",
+    "project_name": "PheasantswapV2",
+    "token0_symbol": "USDT",
+    "token0_address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+    "token0_decimal": 6,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xadf02973c1fb26c5410F42fFf88d8cC03658909d",
+    "pool_name": "BUSD / WETH",
+    "project_name": "PheasantswapV2",
+    "token0_symbol": "BUSD",
+    "token0_address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xB45d230eDAb7640AdfAE1ffA4fA91c9ccCf8f287",
+    "pool_name": "DAI / WETH",
+    "project_name": "PheasantswapV2",
+    "token0_symbol": "DAI",
+    "token0_address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xed4A85Ef3CCD896C75B227Cbd3c0521443C90968",
+    "pool_name": "linea / WETH",
+    "project_name": "PheasantswapV2",
+    "token0_symbol": "LINEA",
+    "token0_address": "0xB73bE36A9cbD5f3B6658bf584D00787269F59225",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xC17D2d46dbD34Cd39Da52Fb2e3e022278926a8e1",
+    "pool_name": "USDC / BUSD",
+    "project_name": "PheasantswapV2",
+    "token0_symbol": "USDC",
+    "token0_address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+    "token0_decimal": 6,
+    "token1_symbol": "BUSD",
+    "token1_address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+    "token1_decimal": 18
+  }
+]

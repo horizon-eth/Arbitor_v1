@@ -1,0 +1,14 @@
+[
+  {
+    "pool_address": "0x165693C767357D12DeE74cd1096356De6DF55b9c",
+    "pool_name": "USDB / WETH",
+    "project_name": "CyberblastV3",
+    "pool_fee": 500,
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  }
+]

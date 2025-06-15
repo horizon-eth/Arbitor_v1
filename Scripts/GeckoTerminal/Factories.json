@@ -1,0 +1,1445 @@
+{
+  "Linea": {
+    "ProjectsV2": {
+      "NILEV2": [
+        "ERRORV2"
+      ],
+      "LynexV2": [
+        "ERRORV2"
+      ],
+      "SectaFinanceV2": [
+        "0x8Ad39bf99765E24012A28bEb0d444DE612903C43"
+      ],
+      "EchoDEXV2": [
+        "0x6D1063F2187442Cc9adbFAD2f55A96B846FCB399"
+      ],
+      "PancakeswapV2": [
+        "0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E"
+      ],
+      "SushiSwapV2": [
+        "0xFbc12984689e5f15626Bad03Ad60160Fe98B303C"
+      ],
+      "ChimpExchangeV2": [
+        "0x286381aEdd20e51f642fE4A200B5CB2Fe3729695"
+      ],
+      "SatoriV2": [
+        "0xfF5859B60BCb3F153431cA216B1b269EB66A2020"
+      ],
+      "LineHubV2": [
+        "0x7811DeF28977060784cC509641f2DD23584b7671"
+      ],
+      "MetavaultV2": [
+        "0xCc570Ec20eCB62cd9589FA33724514BDBc98DC7E"
+      ],
+      "PheasantswapV2": [
+        "0x7bf960B15Cbd9976042257Be3F6Bb2361E107384"
+      ],
+      "DackieSwapV2": [
+        "0x9790713770039CeFcf4FAaf076E2846c9B7a4630"
+      ]
+    },
+    "ProjectsV3": {
+      "LynexV3": [
+        "0x622b2c98123D303ae067DB4925CD6282B3A08D0F"
+      ],
+      "NILEV3": [
+        "0xAAA32926fcE6bE95ea2c51cB4Fcb60836D320C42"
+      ],
+      "PancakeswapV3": [
+        "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865"
+      ],
+      "OkuTradeV3": [
+        "0x31FAfd4889FA1269F7a13A66eE0fB458f27D72A9"
+      ],
+      "SushiswapV3": [
+        "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+      ],
+      "SectaFinanceV3": [
+        "0x9BD425a416A276C72a13c13bBd8145272680Cf07"
+      ],
+      "MetavaultV3": [
+        "0x9367c561915f9D062aFE3b57B18e30dEC62b8488"
+      ],
+      "LineHubV3": [
+        "0x6c379d538F2F7cb642851e154A8E572D63238DF4"
+      ],
+      "DackieSwapV3": [
+        "0xc6255ec7CDb11C890d02EBfE77825976457B2470"
+      ]
+    }
+  },
+  "Blast": {
+    "ProjectsV2": {
+      "ThrusterV2(0.3%FeeTier)V2": [
+        "0xb4A7D971D0ADea1c73198C97d7ab3f9CE4aaFA13"
+      ],
+      "RingProtocolV2": [
+        "0x24F5Ac9A706De0cF795A8193F6AB3966B14ECfE6"
+      ],
+      "BlasterswapV2": [
+        "0x9CC1599D4378Ea41d444642D18AA9Be44f709ffD"
+      ],
+      "BladeSwapV2": [
+        "0x75cB3eC310d3D1E22637F79D61eab5D9aBCD68BD"
+      ],
+      "SwapBlastV2": [
+        "0x04C9f118d21e8B767D2e50C946f0cC9F6C367300"
+      ],
+      "ThrusterV2(1.0%FeeTier)V2": [
+        "0x37836821a2c03c171fB1a595767f4a16e2b93Fc4"
+      ],
+      "UniswapV2": [
+        "0x5C346464d33F90bABaf70dB6388507CC889C1070"
+      ],
+      "DYORSwapV2": [
+        "0xA1da7a7eB5A858da410dE8FBC5092c2079B58413"
+      ],
+      "HyperBlastV2": [
+        "0xD97fFc2041a8aB8f6bc4aeE7eE8ECA485381D088"
+      ],
+      "BladeSwap(Deprecatedsoon)V2": [
+        "0xdADB18dC78C3F2f94d8Fd962F2Ee13d7199740fA"
+      ],
+      "MonoSwapV2": [
+        "0xE27cb06A15230A7480d02956a3521E78C5bFD2D0"
+      ],
+      "SushiSwapV2": [
+        "0x42Fa929fc636e657AC568C0b5Cf38E203b67aC2b"
+      ],
+      "CyberblastV2": [
+        "0x32132625Cd02988Fb105FbbD3138bD383df3aF65"
+      ],
+      "BlastDexV2": [
+        "0x66346aac17d0e61156AC5F2A934ccF2a9BDe4c65"
+      ],
+      "BitdexV2": [
+        "0x08938EE323c6da637eFf60E854812C16249d4485"
+      ],
+      "DackieSwapV2": [
+        "0xF5190E64dB4cbf7ee5E72B55cC5b2297e20264c2"
+      ]
+    },
+    "ProjectsV3": {
+      "ThrusterV3": [
+        "0x71b08f13B3c3aF35aAdEb3949AFEb1ded1016127"
+      ],
+      "FenixFinanceV3": [
+        "0x7a44CD060afC1B6F4c80A2B9b37f4473E74E25Df"
+      ],
+      "BlasterswapV3": [
+        "0x1A8027625C830aAC43aD82a3f7cD6D5fdCE89d78"
+      ],
+      "UniswapV3": [
+        "0x792edAdE80af5fC680d96a2eD80A44247D2Cf6Fd"
+      ],
+      "MonoSwapV3": [
+        "0x48d0F09710794313f33619c95147F34458BF7C3b"
+      ],
+      "RogueXProtocolV3": [
+        "0x5B0b4b97edb7377888E2c37268c46E28f5BD81d0"
+      ],
+      "CyberblastV3": [
+        "0x57eF21959CF9536483bA6ddB10Ad73E2a06b85ff"
+      ],
+      "DackieSwapV3": [
+        "0xCFC8BfD74422472277fB5Bc4Ec8851d98Ecb2976"
+      ],
+      "SushiSwapV3": [
+        "0x7680D4B43f3d1d54d6cfEeB2169463bFa7a6cf0d"
+      ],
+      "BlasterDEXV3": [
+        "0x9792FaeA53Af241bCE57C7C8D6622d5DaAD0D4Fc"
+      ]
+    }
+  },
+  "PolygonzkEVM": {
+    "ProjectsV2": {
+      "BalancerV2": [
+        "0xBA12222222228d8Ba445958a75a0704d566BF2C8"
+      ],
+      "PancakeswapV2": [
+        "0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E"
+      ],
+      "AntfarmV2": [
+        "0x8aF94528FBE3c4C148523E7aAD48BcEbcC0A71d7"
+      ]
+    },
+    "ProjectsV3": {
+      "QuickswapV3": [
+        "0x4B9f4d2435Ef65559567e5DbFC1BbB37abC43B57"
+      ],
+      "PancakeswapV3": [
+        "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865"
+      ],
+      "DoveSwapV3": [
+        "0xdE474Db1Fa59898BC91314328D29507AcD0D593c"
+      ],
+      "SushiswapV3": [
+        "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506"
+      ]
+    }
+  },
+  "Fraxtal": {
+    "ProjectsV2": {
+      "FraxswapV2": [
+        "0xE30521fe7f3bEB6Ad556887b50739d6C7CA667E6"
+      ],
+      "RaExchangeV2": [
+        "ERRORV2"
+      ],
+      "ArchlyV2": [
+        "ERRORV2"
+      ]
+    },
+    "ProjectsV3": {
+      "RaExchangeV3": [
+        "0xAAA32926fcE6bE95ea2c51cB4Fcb60836D320C42"
+      ]
+    }
+  },
+  "XLayer": {
+    "ProjectsV2": {
+      "PotatoSwapV2": [
+        "0x630DB8E822805c82Ca40a54daE02dd5aC31f7fcF"
+      ],
+      "RevoswapV2": [
+        "0xa38498983e7b31DE851e36090bc9D1D8fB96BE5E"
+      ],
+      "Abstradex(XLayer)V2": [
+        "0xA7afB6163c331DDb0845843889D6f9544328846F"
+      ],
+      "TitanDEXV2": [
+        "0x232962D7831eB6BE5f595a35C2041B0868f65334"
+      ]
+    },
+    "ProjectsV3": {
+      "QuickSwapV3": [
+        "0xd2480162Aa7F02Ead7BF4C127465446150D58452"
+      ],
+      "DackieSwapV3": [
+        "0xc6f3966E5D08Ced98aC30f8B65BeAB5882Be54C7"
+      ],
+      "RevoswapV3": [
+        "0x47CdeCafBA3960588d79a328c725c3529d4eC081"
+      ],
+      "StationDEXV3": [
+        "0xA7c6d971586573CBa1870b9b6A281bb0d5f853bC"
+      ]
+    }
+  },
+  "Avalanche": {
+    "ProjectsV2": {
+      "BalancerV2": [
+        "0xBA12222222228d8Ba445958a75a0704d566BF2C8"
+      ],
+      "PangolinV2": [
+        "0xefa94DE7a4656D787667C749f7E1223D71E9FD88"
+      ],
+      "PharaohExchangeV2": [
+        "ERRORV2"
+      ],
+      "FraxswapV2": [
+        "0xf77ca9B635898980fb219b4F4605C50e4ba58afF"
+      ],
+      "VaporDexV2": [
+        "0xC009a670E2B02e21E7e75AE98e254F467f7ae257"
+      ],
+      "ElkFinanceV2": [
+        "0x091d35d7F63487909C863001ddCA481c6De47091"
+      ],
+      "FWXV2": [
+        "0x2131Bdb0E0B451BC1C5A53F2cBC80B16D43634Fa"
+      ],
+      "SushiswapV2": [
+        "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+      ],
+      "LydiaFinanceV2": [
+        "0xe0C1bb6DF4851feEEdc3E14Bd509FEAF428f7655"
+      ],
+      "HurricaneSwapV2": [
+        "0x7009b3619d5ee60d0665BA27Cf85eDF95fd8Ad01"
+      ],
+      "CanaryExchangeV2": [
+        "0xCFBA329d49C24b70F3a8b9CC0853493d4645436b"
+      ],
+      "RadioShackV2": [
+        "0xA0FbfDa09B8815Dd42dDC70E4f9fe794257CD9B6"
+      ],
+      "PyreSwapV2": [
+        "0x045D720873f0260e23DA812501a7c5930E510aA4"
+      ],
+      "AntfarmV2": [
+        "0xDC0BD72CdeF330786BF6f331a6Aca539c0bb4EaB"
+      ],
+      "HakuSwapV2": [
+        "0x2Db46fEB38C57a6621BCa4d97820e1fc1de40f41"
+      ],
+      "SwapsicleV2": [
+        "0x9C60C867cE07a3c403E2598388673C10259EC768"
+      ],
+      "SoulswapV2": [
+        "0x5BB2a9984de4a69c05c996F7EF09597Ac8c9D63a"
+      ],
+      "YetiSwapV2": [
+        "0x58C8CD291Fa36130119E6dEb9E520fbb6AcA1c3a"
+      ],
+      "ThorusV2": [
+        "0xa98ea6356A316b44Bf710D5f9b6b4eA0081409Ef"
+      ],
+      "UniswapV2": [
+        "0x9e5A52f57b3038F1B8EeE45F28b3C1967e22799C"
+      ],
+      "HunnySwapV2": [
+        "0x0c6A0061F9D0afB30152b8761a273786e51bec6d"
+      ],
+      "SoliSnekV2": [
+        "ERRORV2"
+      ],
+      "GlacierV2": [
+        "0xaC7B7EaC8310170109301034b8FdB75eCa4CC491"
+      ],
+      "FlairDexV2": [
+        "0x634e02EB048eb1B5bDDc0CFdC20D34503E9B362d"
+      ]
+    },
+    "ProjectsV3": {
+      "PharaohExchangeV3": [
+        "0xAAA32926fcE6bE95ea2c51cB4Fcb60836D320C42"
+      ],
+      "UniswapV3": [
+        "0x740b1c1de25031C31FF4fC9A62f554A55cdC1baD"
+      ],
+      "VaporDEXV2V3": [
+        "0x62B672E531f8c11391019F6fba0b8B6143504169"
+      ],
+      "SushiswapV3": [
+        "0x3e603C14aF37EBdaD31709C4f848Fc6aD5BEc715"
+      ]
+    }
+  },
+  "Arbitrum": {
+    "ProjectsV2": {
+      "BalancerV2": [
+        "0xBA12222222228d8Ba445958a75a0704d566BF2C8"
+      ],
+      "CamelotV2": [
+        "0x6EcCab422D763aC031210895C81787E87B43A652"
+      ],
+      "SushiSwapV2": [
+        "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+      ],
+      "DeltaswapV2": [
+        "0xCb85E1222f715a81b8edaeB73b28182fa37cffA8"
+      ],
+      "UniswapV2": [
+        "0xf1D7CC64Fb4452F05c498126312eBE29f30Fbcf9"
+      ],
+      "RamsesV2": [
+        "ERRORV2"
+      ],
+      "SpartaDEXV2": [
+        "0xFe8EC10Fe07A6a6f4A2584f8cD9FE232930eAF55"
+      ],
+      "FraxswapV2": [
+        "0x8374A74A728f06bEa6B7259C68AA7BBB732bfeaD"
+      ],
+      "GasXV2": [
+        "0x7e299DdF7E12663570dBfA8F3F20CB54f8fD04fA"
+      ],
+      "dexSWAPV2": [
+        "0x3E40739d8478c58f9B973266974C58998D4F9e8b"
+      ],
+      "PancakeswapV2": [
+        "0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E"
+      ],
+      "MagicswapV2": [
+        "0x015e379Ce0Ff195228b3A9eBDFA13F9afC155Dd7"
+      ],
+      "SolidLizardV2": [
+        "0x734d84631f00dC0d3FCD18b04b6cf42BFd407074"
+      ],
+      "SwaprV2": [
+        "0x359F20Ad0F42D75a5077e65F30274cABe6f4F01a"
+      ],
+      "ChronosV2": [
+        "ERRORV2"
+      ],
+      "Arbswap(ArbitrumOne)V2": [
+        "0xd394E9CC20f43d2651293756F8D320668E850F1b"
+      ],
+      "ElkFinanceV2": [
+        "0xA59B2044EAFD15ee4deF138D410d764c9023E1F0"
+      ],
+      "LFGswapV2": [
+        "0xE5552e0318531F9Ec585c83bDc8956C08Bf74b71"
+      ],
+      "ZyberswapV2": [
+        "0xaC2ee06A14c52570Ef3B9812Ed240BCe359772e7"
+      ],
+      "MMFinanceV2": [
+        "0xfe3699303D3Eb460638e8aDA2bf1cFf092C33F22"
+      ],
+      "SterlingV2": [
+        "0xF7A23B9A9dCB8d0aff67012565C5844C20C11AFC"
+      ],
+      "ArbidexV2": [
+        "0x1C6E968f2E6c9DEC61DB874E28589fd5CE3E1f2c"
+      ],
+      "ApeswapV2": [
+        "0xCf083Be4164828f00cAE704EC15a36D711491284"
+      ],
+      "OreoSwapV2": [
+        "0x20fAfD2B0Ba599416D75Eb54f48cda9812964f46"
+      ],
+      "OasisSwapV2": [
+        "0x947D83b35Cd2e71df4aC7B359C6761B07d0bce19"
+      ],
+      "SoluneaV2": [
+        "0x6EF065573Cd3fff4c375d4D36E6ca93CD6e3d499"
+      ],
+      "MoonbaseAlphaV2": [
+        "0x44B678F32a2f6aBB72eeFA2df58f12D17c3eD403"
+      ],
+      "WokenExchangeV2": [
+        "0x0Dee376e1DCB4DAE68837de8eE5aBE27e629Acd0"
+      ],
+      "KaleidoSwapV2": [
+        "0x427a733Bd14a949eA771a558f6934bB0004c0c4E"
+      ],
+      "SwapFishV2": [
+        "0x71539D09D3890195dDa87A6198B98B75211b72F3"
+      ],
+      "AuragiV2": [
+        "ERRORV2"
+      ],
+      "MindgamesV2": [
+        "0x7C7F1c8E2b38d4C06218565BC4C9D8231b0628c0"
+      ],
+      "AegisV2": [
+        "0xF51d966Dc5596f56434F76311cd9563c352d8939"
+      ],
+      "SharkySwapV2": [
+        "0x36800286f652dDC9bDcFfEDc4e71FDd207C1d07C"
+      ],
+      "3xcaliburV2": [
+        "0xD158bd9E8b6efd3ca76830B66715Aa2b7Bad2218"
+      ],
+      "AlienFiV2": [
+        "0xac9d019B7c8B7a4bbAC64b2Dbf6791ED672ba98B"
+      ],
+      "SwaprumV2": [
+        "0xD757C986a28F82761Fe874Bc40073718dC1e980C"
+      ],
+      "WhiteholeV2": [
+        "0xf7304B14036118dE12DbAb3c36b201A587990e75"
+      ],
+      "KEWLSwapV2": [
+        "0xA0BB8f9865f732C277d0C162249A4F6c157ae9D0"
+      ]
+    },
+    "ProjectsV3": {
+      "UniswapV3": [
+        "0x1F98431c8aD98523631AE4a59f267346ea31F984"
+      ],
+      "CamelotV3": [
+        "0x1a3c9B1d2F0529D97f2afC5136Cc23e58f1FD35B"
+      ],
+      "PancakeswapV3": [
+        "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865"
+      ],
+      "RamsesV2V3": [
+        "0xAA2cd7477c451E703f3B9Ba5663334914763edF8"
+      ],
+      "SushiswapV3": [
+        "0x1af415a1EbA07a4986a52B6f2e7dE7003D82231e"
+      ],
+      "SolidlyV3": [
+        "0x70Fe4a44EA505cFa3A57b95cF2862D4fd5F0f687"
+      ],
+      "DackieSwapV3": [
+        "0xaEdc38bD52b0380b2Af4980948925734fD54FbF4"
+      ],
+      "ArbidexV3": [
+        "0x855F2c70cf5cb1D56C15ed309a4DfEfb88ED909E"
+      ],
+      "MMFinanceV3": [
+        "0x947bc57CEFDd22420C9a6d61387FE4D4cf8A090d"
+      ]
+    }
+  },
+  "Ethereum": {
+    "ProjectsV2": {
+      "UniswapV2": [
+        "0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f"
+      ],
+      "BalancerV2": [
+        "0xBA12222222228d8Ba445958a75a0704d566BF2C8"
+      ],
+      "EthervistaV2": [
+        "0x9a27cb5ae0B2cEe0bb71f9A85C0D60f3920757B4"
+      ],
+      "SushiSwapV2": [
+        "0xC0AEe478e3658e2610c5F7A4A2E1777cE9e4f2Ac"
+      ],
+      "ShibaswapV2": [
+        "0x115934131916C8b277DD010Ee02de363c09d037c"
+      ],
+      "FraxswapV2": [
+        "0xB076b06F669e682609fb4a8C6646D2619717Be4b"
+      ],
+      "DefiSwapV2": [
+        "0x9DEB29c9a4c7A88a3C0257393b7f3335338D9A9D"
+      ],
+      "x7FinanceV2": [
+        "0x7de800467aFcE442019884f51A4A1B9143a34fAc"
+      ],
+      "PancakeswapV2": [
+        "0x1097053Fd2ea711dad45caCcc45EfF7548fCB362"
+      ],
+      "SwaprV2": [
+        "0xd34971BaB6E5E356fd250715F5dE0492BB070452"
+      ],
+      "DOOARV2": [
+        "0x1e895bFe59E3A5103e8B7dA3897d1F2391476f3c"
+      ],
+      "9inchV2": [
+        "0xcBAE5C3f8259181EB7E2309BC4c72fDF02dD56D8"
+      ],
+      "VerseV2": [
+        "0xee3E9E46E34a27dC755a63e2849C9913Ee1A06E2"
+      ],
+      "ConvergenceFinanceV2": [
+        "0x4eef5746ED22A2fD368629C1852365bf5dcb79f1"
+      ],
+      "OrionV2": [
+        "0x5FA0060FcfEa35B31F7A5f6025F0fF399b98Edf1"
+      ],
+      "WhiteswapV2": [
+        "0x69bd16aE6F507bd3Fc9eCC984d50b04F029EF677"
+      ],
+      "SakeSwapV2": [
+        "0x75e48C954594d64ef9613AeEF97Ad85370F13807"
+      ],
+      "RadioShackV2": [
+        "0x91fAe1bc94A9793708fbc66aDcb59087C46dEe10"
+      ],
+      "StandardV2": [
+        "0x53AC1d1FA4F9F6c604B8B198cE29A50d28cbA893"
+      ],
+      "SolidlyV2": [
+        "ERRORV2"
+      ],
+      "JustMoneyV2": [
+        "0xd36Aba9Ec96523b0A89886c76065852aDFE2Eb39"
+      ],
+      "SaitaswapV2": [
+        "0x25393bb68C89a894B5e20FA3fC3B3b34F843C672"
+      ],
+      "PepedexV2": [
+        "0x460b2005b3318982feADA99f7ebF13e1D6f6eFfE"
+      ],
+      "ElkFinanceV2": [
+        "0x6511eBA915fC1b94b2364289CCa2b27AE5898d80"
+      ],
+      "ApeSwapV2": [
+        "0xBAe5dc9B19004883d0377419FeF3c2C8832d7d7B"
+      ]
+    },
+    "ProjectsV3": {
+      "UniswapV3": [
+        "0x1F98431c8aD98523631AE4a59f267346ea31F984"
+      ],
+      "PancakeswapV3": [
+        "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865"
+      ],
+      "SolidlyV3": [
+        "0x70Fe4a44EA505cFa3A57b95cF2862D4fd5F0f687"
+      ],
+      "SushiSwapV3": [
+        "0xbACEB8eC6b9355Dfc0269C18bac9d6E2Bdc29C4F"
+      ],
+      "Lif3V3": [
+        "0x129538EE65A692fa041E107921D716C31d186803"
+      ],
+      "VVSV3": [
+        "0x5e12F3bdEb62c6296Fa457b1A69438d7Fe8C6E2e"
+      ],
+      "WAGMIV3": [
+        "0xB9a14EE1cd3417f3AcC988F61650895151abde24"
+      ]
+    }
+  },
+  "Fantom": {
+    "ProjectsV2": {
+      "EqualizerV2": [
+        "0xc6366EFD0AF1d09171fe0EBF32c7943BB310832a"
+      ],
+      "SpookySwapV2": [
+        "0x152eE697f2E276fA89E96742e9bB9aB1F2E61bE3"
+      ],
+      "BeethovenXV2": [
+        "0x20dd72Ed959b6147912C2e529F0a0C651c33c9ce"
+      ],
+      "FraxswapV2": [
+        "0xF55C563148cA0c0F1626834ec1B8651844D76792"
+      ],
+      "SpiritSwapV2": [
+        "ERRORV2"
+      ],
+      "TombSwapV2": [
+        "0xE236f6890F1824fa0a7ffc39b1597A5A6077Cfe9"
+      ],
+      "VelocimeterV2": [
+        "ERRORV2"
+      ],
+      "DegenExpressV2": [
+        "0x1C2Aa07EF924616042DD5FA4b0b48CB2e725BFb1"
+      ],
+      "ElkFinanceV2": [
+        "0x7Ba73c99e6f01a37f3e33854c8F544BbbadD3420"
+      ],
+      "PyreSwapV2": [
+        "0x045D720873f0260e23DA812501a7c5930E510aA4"
+      ],
+      "SoulSwapV2": [
+        "0x1120e150dA9def6Fe930f4fEDeD18ef57c0CA7eF"
+      ],
+      "Yoshi.exchangeV2": [
+        "ERRORV2"
+      ],
+      "SolidlyV2": [
+        "ERRORV2"
+      ],
+      "ProtoFiV2": [
+        "0x39720E5Fe53BEEeb9De4759cb91d8E7d42c17b76"
+      ],
+      "PaintSwapV2": [
+        "0x733A9D1585f2d14c77b49d39BC7d7dd14CdA4aa5"
+      ],
+      "SushiswapV2": [
+        "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+      ],
+      "DarkKnightV2": [
+        "0x7d82F56ea0820A9d42b01C3C28F1997721732218"
+      ],
+      "ExcaliburV2": [
+        "0x08b3CCa975a82cFA6f912E0eeDdE53A629770D3f"
+      ],
+      "HyperJumpV2": [
+        "0x991152411A7B5A14A8CF0cDDE8439435328070dF"
+      ],
+      "MemeboxV2": [
+        "0x079463f811e6EB2E226908E79144CDDB59a7fB71"
+      ],
+      "JetswapV2": [
+        "0xf6488205957f0b4497053d6422F49e27944eE3Dd"
+      ],
+      "FbombFinanceV2": [
+        "0xD9473A05b2edf4f614593bA5D1dBd3021d8e0Ebe"
+      ],
+      "WingSwapV2": [
+        "0xc0719a9A35a2D9eBBFdf1C6d383a5E8E7b2ef7a8"
+      ],
+      "RedemptionV2": [
+        "0xa2dF50d1401afF182D19Bb41d76cf35953942c51"
+      ],
+      "MagikSwapV2": [
+        "0x349D953cA03C9D63c040d463545E21Fe4b713C2e"
+      ],
+      "DfynV2": [
+        "0xd9820a17053d6314B20642E465a84Bf01a3D64f5"
+      ],
+      "RadioShackV2": [
+        "0x5eF0153590D4a762F129dCf3c59186D91365e4e1"
+      ],
+      "Archly(FTM)V2": [
+        "ERRORV2"
+      ],
+      "SkullSwapV2": [
+        "0x67BDF64a26A6B08f003580873448346c1C8bA93c"
+      ],
+      "FirebirdV2": [
+        "0xc7A50FE12C864963Ea5A5E0858a0E7Abe5b875c4"
+      ]
+    },
+    "ProjectsV3": {
+      "SolidlyV3": [
+        "0x70Fe4a44EA505cFa3A57b95cF2862D4fd5F0f687"
+      ],
+      "SpookySwapV3": [
+        "0x7928a2c48754501f3a8064765ECaE541daE5c3E6"
+      ],
+      "SushiswapV3": [
+        "0x7770978eED668a3ba661d51a773d3a992Fc9DDCB"
+      ],
+      "Lif3V3": [
+        "0x5Af34712aE630b7754764a81D815A56963e6214a"
+      ],
+      "SkeletonFinanceV3": [
+        "0x650b8F4869B57Ba90E107ff6a33aE97D4bC2Fdb2"
+      ],
+      "WAGMIV3": [
+        "0xaf20f5f19698f1D19351028cd7103B63D30DE7d7"
+      ]
+    }
+  },
+  "ZKFair": {
+    "ProjectsV2": {
+      "SideswapV2": [
+        "0x3F5a6e62cccD2C9AAF3dE431e127D65BC457000a"
+      ]
+    },
+    "ProjectsV3": {}
+  },
+  "ArbitrumNova": {
+    "ProjectsV2": {
+      "ArbswapV2": [
+        "0xf6239423FcF1c19ED2791D9648A90836074242Fd"
+      ],
+      "SushiSwapV2": [
+        "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+      ],
+      "RCPSwapV2": [
+        "0xF9901551B4fDb1FE8d5617B5deB6074Bb8E1F6FB"
+      ],
+      "ArchlyV2": [
+        "ERRORV2"
+      ]
+    },
+    "ProjectsV3": {
+      "SushiswapV3": [
+        "0xaa26771d497814E81D305c511Efbb3ceD90BF5bd"
+      ]
+    }
+  },
+  "Aurora": {
+    "ProjectsV2": {
+      "TrisolarisV2": [
+        "0xc66F594268041dB60507F00703b152492fb176E7"
+      ],
+      "AuroraSwapV2": [
+        "0xC5E1DaeC2ad401eBEBdd3E32516d90Ab251A3aA3"
+      ],
+      "PolarisV2": [
+        "0x6985436a0E5247A3E1dc29cdA9e1D89C5b59e26b"
+      ],
+      "WannaSwapV2": [
+        "0x7928D4FeA7b2c90C732c10aFF59cf403f0C38246"
+      ],
+      "NearpadV2": [
+        "0x34484b4E416f5d4B45D4Add0B6eF6Ca08FcED8f1"
+      ],
+      "AmaterasuV2": [
+        "0x34696b6cE48051048f07f4cAfa39e3381242c3eD"
+      ],
+      "MindGamesV2": [
+        "0x78f406B41C81eb4144C321ADa5902BBF5de28538"
+      ],
+      "HoldrV2": [
+        "0x364d44dFc31b3d7b607797B514348d57Ad0D784E"
+      ]
+    },
+    "ProjectsV3": {}
+  },
+  "Klaytn": {
+    "ProjectsV2": {
+      "DeFiKingdoms(Serendale)V2": [
+        "0x36fAE766e51f17F8218C735f58426E293498Db2B"
+      ],
+      "ClaimswapV2": [
+        "0x3679c3766E70133Ee4A7eb76031E49d3d1f2B50c"
+      ]
+    },
+    "ProjectsV3": {
+      "KlayswapV3": [
+        "0xA15Be7e90df29A4aeaD0C7Fc86f7a9fBe6502Ac9"
+      ]
+    }
+  },
+  "Astar": {
+    "ProjectsV2": {
+      "ArthswapV2": [
+        "0xA9473608514457b4bF083f9045fA63ae5810A03E"
+      ],
+      "ZenlinkV2": [
+        "0x7BAe21fB8408D534aDfeFcB46371c3576a1D5717"
+      ],
+      "StarSwapV2": [
+        "0x0b657e81a0C3E903cbe1228579fBd49AC5D81Ac1"
+      ],
+      "VersaV2": [
+        "0x4346A7C8C39Bf91b8a80933c2fdb10d815c401dB"
+      ],
+      "PolkaExV2": [
+        "0x1E66b3e7141bDF8c414F91269a3A99d098D2d356"
+      ],
+      "AGSFinanceV2": [
+        "0x6A6a541FFb214ca228A58c27bD61b5A099Dc82CC"
+      ],
+      "FunBeastV2": [
+        "0xb99978440F310658C5E69D5042724327EF6D3CE7"
+      ]
+    },
+    "ProjectsV3": {}
+  },
+  "AstarzkEVM": {
+    "ProjectsV2": {},
+    "ProjectsV3": {
+      "QuickSwapV3": [
+        "0x56c2162254b0E4417288786eE402c2B41d4e181e"
+      ],
+      "VeryLongSwapV3": [
+        "0x287fAE8c400603029c27Af0451126b9581B6fcD4"
+      ],
+      "ArthSwapV3": [
+        "0xAeaaf0e2c81Af264101B9129C00F4440cCF0F720"
+      ]
+    }
+  },
+  "OpBNB": {
+    "ProjectsV2": {
+      "PancakeswapV2(opBnb)V2": [
+        "0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E"
+      ],
+      "Thena(opBnb)V2": [
+        "ERRORV2"
+      ],
+      "CUBISwapV2": [
+        "0xE6c8488a3078f474D0B75E4ac06a369e3Fb39d76"
+      ],
+      "BinarySwapV2": [
+        "0xd50aaE6C73E2486B0Da718D23F35Dcf5aad25911"
+      ],
+      "AllInXSwap(opBnb)V2": [
+        "0xAFcA85A70Bd1C2Bf98DB7F24b2380134F76Af7f1"
+      ],
+      "PixelSwapV2": [
+        "0xD07739a9E9C46D3DedeD97c0edC49cea8BAB1Bb9"
+      ],
+      "LuigiswapV2": [
+        "0x0dAe6d22182c20AB9150a4DCB3160591Dc41027a"
+      ],
+      "FourdexV2": [
+        "0x0f93649C2BA0F64fA939eCe899f1afD0b15C7Bd2"
+      ]
+    },
+    "ProjectsV3": {
+      "PancakeswapV3(opBnb)V3": [
+        "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865"
+      ],
+      "DerpDex(opBnb)V3": [
+        "0xb91331Ea9539ee881e3A45191076c454E482dAc7"
+      ]
+    }
+  },
+  "Metis": {
+    "ProjectsV2": {
+      "NetswapV2": [
+        "0x70f51d68D16e8f9e418441280342BD43AC9Dff9f"
+      ],
+      "HerculesV2": [
+        "0xF38E7c7f8eA779e8A193B61f9155E6650CbAE095"
+      ],
+      "TethysV2": [
+        "0x2CdFB20205701FF01689461610C9F321D1d00F80"
+      ],
+      "StandardV2": [
+        "0xFA68bAAdBDCf014fA20bD1A4542967AE40Ddca53"
+      ],
+      "HyperJumpV2": [
+        "0xAA1504c878B158906B78A471fD6bDbf328688aeB"
+      ],
+      "SushiSwapV2": [
+        "0x580ED43F3BBa06555785C81c2957efCCa71f7483"
+      ],
+      "ArchlyV2": [
+        "ERRORV2"
+      ],
+      "AgoraSwapV2": [
+        "0x3c4063B964B1b3bF229315fCc4df61a694B0aE84"
+      ]
+    },
+    "ProjectsV3": {
+      "HerculesV3": [
+        "0xC5BfA92f27dF36d268422EE314a1387bB5ffB06A"
+      ],
+      "WAGMIV3": [
+        "0x8112E18a34b63964388a3B2984037d6a2EFE5B8A"
+      ],
+      "SushiSwapV3": [
+        "0x145d82bCa93cCa2AE057D1c6f26245d1b9522E6F"
+      ]
+    }
+  },
+  "Optimism": {
+    "ProjectsV2": {
+      "VelodromeFinanceV2": [
+        "0xF1046053aa5682b4F9a81b5481394DA16BE5FF5a"
+      ],
+      "BeethovenXV2": [
+        "0xBA12222222228d8Ba445958a75a0704d566BF2C8"
+      ],
+      "ElkFinanceV2": [
+        "0xedfad3a0F42A8920B011bb0332aDe632e552d846"
+      ],
+      "FraxswapV2": [
+        "0x67a1412d2D6CbF211bb71F8e851b4393b491B10f"
+      ],
+      "UniswapV2": [
+        "0x0c3c1c532F1e39EdF36BE9Fe0bE1410313E074Bf"
+      ],
+      "ZipSwapV2": [
+        "0x8BCeDD62DD46F1A76F8A1633d4f5B76e0CDa521E"
+      ],
+      "SushiSwapV2": [
+        "0xFbc12984689e5f15626Bad03Ad60160Fe98B303C"
+      ],
+      "DackieSwapV2": [
+        "0xaEdc38bD52b0380b2Af4980948925734fD54FbF4"
+      ],
+      "RadioshackV2": [
+        "0x5eF0153590D4a762F129dCf3c59186D91365e4e1"
+      ]
+    },
+    "ProjectsV3": {
+      "UniswapV3": [
+        "0x1F98431c8aD98523631AE4a59f267346ea31F984"
+      ],
+      "SolidlyV3": [
+        "0x70Fe4a44EA505cFa3A57b95cF2862D4fd5F0f687"
+      ],
+      "SushiswapV3": [
+        "ERRORV3"
+      ],
+      "DackieSwapV3": [
+        "0xc2BC7A73613B9bD5F373FE10B55C59a69F4D617B"
+      ]
+    }
+  },
+  "Scroll": {
+    "ProjectsV2": {
+      "TokanExchangeV2": [
+        "ERRORV2"
+      ],
+      "SpaceFiV2": [
+        "0x6cC370Ed99f1C11e7AC439F845d0BA6aed55cf50"
+      ],
+      "SkydromeV2": [
+        "ERRORV2"
+      ],
+      "ZProtocolV2": [
+        "0xED93e976d43AF67Cc05aa9f6Ab3D2234358F0C81"
+      ],
+      "ZebraV2": [
+        "0xa63eb44c67813cad20A9aE654641ddc918412941"
+      ],
+      "SushiSwapV2": [
+        "0xB45e53277a7e0F1D35f2a77160e91e25507f1763"
+      ],
+      "ScrollSwapV2": [
+        "0x0082123Cf29a85f48Cd977D3000aec145A3B452F"
+      ],
+      "PunkSwapV2": [
+        "0x5640113EA7F369E6DAFbe54cBb1406E5BF153E90"
+      ],
+      "PapyrusSwapV2": [
+        "0xD5f3D3fb72210bfe71a59c05e0b8D72973baa2a6"
+      ],
+      "ZadaFinanceV2": [
+        "0x113260531ecd733584B93A3Fb256fD69a3D40163"
+      ],
+      "QuillSwapV2": [
+        "0xab8aEfe85faD683A6bDE16EeD04C3420C713324b"
+      ],
+      "MetavaultV2": [
+        "0xCc570Ec20eCB62cd9589FA33724514BDBc98DC7E"
+      ],
+      "SanctuaryV2": [
+        "0xAD71e466d6E9c5CbAC804dBF60dE2543d58B4b5B"
+      ],
+      "IcecreamswapV2": [
+        "0x9E6d21E759A7A288b80eef94E4737D313D31c13f"
+      ]
+    },
+    "ProjectsV3": {
+      "NuriV2V3": [
+        "0xAAA32926fcE6bE95ea2c51cB4Fcb60836D320C42"
+      ],
+      "ZebraV2V3": [
+        "0x96a7F53f7636c93735bf85dE416A4Ace94B56Bd9"
+      ],
+      "SushiSwapV3": [
+        "0x46B3fDF7b5CDe91Ac049936bF0bDb12c5d22202e"
+      ],
+      "OkuTradeV3": [
+        "0x70C62C8b8e801124A4Aa81ce07b637A3e83cb919"
+      ],
+      "ScribeV3": [
+        "0xDc62aCDF75cc7EA4D93C69B2866d9642E79d5e2e"
+      ],
+      "MetavaultV3": [
+        "0x9367c561915f9D062aFE3b57B18e30dEC62b8488"
+      ]
+    }
+  },
+  "PolygonPOS": {
+    "ProjectsV2": {
+      "BalancerV2(Polygon)V2": [
+        "0xBA12222222228d8Ba445958a75a0704d566BF2C8"
+      ],
+      "DOOAR(Polygon)V2": [
+        "0xBdd46Fd173ad1d158578FEb5d10573BaF8ee89d2"
+      ],
+      "SushiswapV2": [
+        "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+      ],
+      "DfynV2": [
+        "0xE7Fb3e833eFE5F9c441105EB65Ef8b261266423B"
+      ],
+      "ElkFinance(Polygon)V2": [
+        "0xE3BD06c7ac7E1CeB17BdD2E5BA83E40D1515AF2a"
+      ],
+      "ComethSwapV2": [
+        "0x800b052609c355cA8103E06F022aA30647eAd60a"
+      ],
+      "CrowdSwap(Polygon)V2": [
+        "0x14Fb5ABeA0578B37D9E1A831Bb7e77Bd3d7684a6"
+      ],
+      "PolycatFinanceV2": [
+        "0x477Ce834Ae6b7aB003cCe4BC4d8697763FF456FA"
+      ],
+      "WaultFinance(Polygon)V2": [
+        "0xa98ea6356A316b44Bf710D5f9b6b4eA0081409Ef"
+      ],
+      "Jetswap(Polygon)V2": [
+        "0x668ad0ed2622C62E24f0d5ab6B6Ac1b9D2cD4AC7"
+      ],
+      "lif3(Polygon)V2": [
+        "0x3FB1E7D5d9C974141A5B6E5fa4edab0a7Aa15C6A"
+      ],
+      "GravityFinanceV2": [
+        "0x3ed75AfF4094d2Aaa38FaFCa64EF1C152ec1Cf20"
+      ],
+      "MMFinance(Polygon)V2": [
+        "0x7cFB780010e9C861e03bCbC7AC12E013137D47A5"
+      ],
+      "RadioShackV2": [
+        "0xB581D0A3b7Ea5cDc029260e989f768Ae167Ef39B"
+      ],
+      "DystopiaV2": [
+        "0x1d21Db6cde1b18c7E47B0F7F42f4b3F68b9beeC9"
+      ],
+      "DinoswapV2": [
+        "0x624Ccf581371F8A4493e6AbDE46412002555A1b6"
+      ],
+      "NachoSwapV2": [
+        "0x1B44bf43111A26206F9735319A0c438dd1c030b2"
+      ],
+      "PearlFiV2": [
+        "ERRORV2"
+      ],
+      "Archly(Polygon)V2": [
+        "ERRORV2"
+      ],
+      "AuraSwapV2": [
+        "0x015DE3ec460869eb5ceAe4224Dc7112ac0a39303"
+      ],
+      "SatinExchangeV2": [
+        "ERRORV2"
+      ],
+      "PhenixFinance(Polygon)V2": [
+        "0x9A3F01dfA086C2E234fC88742c692368438fBb30"
+      ],
+      "SpiceTrade(Polygon)V2": [
+        "0x9eF87bA6EEc990E44F1BB56676C65Fd8f5bb5770"
+      ],
+      "PurpleBridgeV2": [
+        "0x9c9238b2E47D61482D36deaFcDCD448D8bAAd75b"
+      ]
+    },
+    "ProjectsV3": {
+      "UniswapV3": [
+        "ERRORV3"
+      ],
+      "RetroV3": [
+        "0x91e1B99072f238352f59e58de875691e20Dc19c1"
+      ]
+    }
+  },
+  "CELO": {
+    "ProjectsV2": {
+      "UbeswapV2": [
+        "0x62d5b84bE28a183aBB507E125B384122D2C25fAE"
+      ],
+      "CeloDEXV2": [
+        "0x31bD38d982ccDf3C2D95aF45a3456d319f0Ee1b6"
+      ]
+    },
+    "ProjectsV3": {}
+  },
+  "Base": {
+    "ProjectsV2": {
+      "SushiSwapV2": [
+        "ERRORV2"
+      ],
+      "UniswapV2": [
+        "0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6"
+      ],
+      "AerodromeV2": [
+        "0x420DD381b31aEf6683db6B902084cB0FFECe40Da"
+      ],
+      "BalancerV2": [
+        "0xBA12222222228d8Ba445958a75a0704d566BF2C8"
+      ],
+      "AlienBaseV2": [
+        "0x3E84D913803b02A4a7f027165E8cA42C14C0FdE7"
+      ],
+      "EqualizerV2": [
+        "0xEd8db60aCc29e14bC867a497D94ca6e3CeB5eC04"
+      ],
+      "BunnySwapV2": [
+        "ERRORV2"
+      ],
+      "DackieSwapV2": [
+        "0x591f122D1df761E616c13d265006fcbf4c6d6551"
+      ],
+      "SoswapV2": [
+        "0x539db2B4FE8016DB2594d7CfbeAb4d2B730b723E"
+      ],
+      "SynthswapV2": [
+        "0x4bd16d59A5E1E0DB903F724aa9d721a31d7D720D"
+      ],
+      "VelocimeterV2": [
+        "ERRORV2"
+      ],
+      "EtherVistaV2": [
+        "0x9C9Dfc8b5D8F1cb1b7f854108Db16BE1C21ea400"
+      ],
+      "PancakeswapV2": [
+        "0x02a84c1b3BBD7401a5f7fa98a384EBC70bB5749E"
+      ],
+      "CitadelSwapV2": [
+        "0xbe720274c24b5Ec773559b8C7e28c2503DaC7645"
+      ],
+      "BluedexV2": [
+        "0x8437100eD18dbea089e0FA3CaAae7f6f40e4A05C"
+      ],
+      "SatoriV2": [
+        "0x4858C605862A91A34d83C19a9704f837f64fa405"
+      ],
+      "MemeboxV2": [
+        "0x079463f811e6EB2E226908E79144CDDB59a7fB71"
+      ],
+      "Area51(AlienBase)V2": [
+        "0x2d5dd5fa7B8a1BFBDbB0916B42280208Ee6DE51e"
+      ],
+      "LFGSwapV2": [
+        "0xE5552e0318531F9Ec585c83bDc8956C08Bf74b71"
+      ],
+      "ArchlyV2": [
+        "ERRORV2"
+      ],
+      "MoonBaseV2": [
+        "0xe396465A85deDB00FA8774162B106833dE51Ea41"
+      ],
+      "CloudBaseV2": [
+        "0x0dcCfdF227c3f7b1E5d34B2488A7B0ca01d400a4"
+      ],
+      "OasisSwapV2": [
+        "0xC8126578093366968199707B7f8eDFf258F473B6"
+      ],
+      "TorusV2": [
+        "0x259b3217A01878ea9d64b45eE48231e660863ee7"
+      ],
+      "PlantBaseSwapV2": [
+        "0xA081Ce40F079A381b59893b4Dc0abf8B1817af70"
+      ],
+      "PixelSwapV2": [
+        "0xD07739a9E9C46D3DedeD97c0edC49cea8BAB1Bb9"
+      ],
+      "LeetswapV2": [
+        "0x169C06b4cfB09bFD73A81e6f2Bb1eB514D75bB19"
+      ]
+    },
+    "ProjectsV3": {
+      "UniswapV3": [
+        "0x33128a8fC17869897dcE68Ed026d694621f6FDfD"
+      ],
+      "PancakeswapV3": [
+        "0x0BFbCF9fa4f9C56B0F40a671Ad40E0805A091865"
+      ],
+      "BaseSwapV3": [
+        "0x38015D05f4fEC8AFe15D7cc0386a126574e8077B"
+      ],
+      "SushiswapV3": [
+        "0xc35DADB65012eC5796536bD9864eD8773aBc74C4"
+      ],
+      "SwapBasedV3": [
+        "0xb5620F90e803C7F957A9EF351B8DB3C746021BEa"
+      ],
+      "DackieSwapV3": [
+        "ERRORV3"
+      ],
+      "SolidlyV3": [
+        "0x70Fe4a44EA505cFa3A57b95cF2862D4fd5F0f687"
+      ],
+      "SynthswapV3": [
+        "0xa37359E63D1aa44C0ACb2a4605D3B45785C97eE3"
+      ],
+      "BaseXV3": [
+        "0xdC323d16C451819890805737997F4Ede96b95e3e"
+      ],
+      "YumYumSwapV3": [
+        "0xf6C96aC4251905572c7083B1804825850B9BC9e6"
+      ],
+      "DerpDEXV3": [
+        "0xedDef4273518b137CDbcB3a7FA1C6a688303dFe2"
+      ],
+      "ThroneV3": [
+        "0xE8839bF8175812691c6578C0Fc80E721bC3e00fB"
+      ]
+    }
+  },
+  "Evmos": {
+    "ProjectsV2": {
+      "SpaceFiV2": [
+        "0x868A71EbfC46B86a676768C7b7aD65055CC293eE"
+      ],
+      "DiffusionV2": [
+        "0x6aBdDa34Fb225be4610a2d153845e09429523Cd2"
+      ]
+    },
+    "ProjectsV3": {}
+  },
+  "Kava": {
+    "ProjectsV2": {
+      "EquilibreV2": [
+        "ERRORV2"
+      ],
+      "ElkFinanceV2": [
+        "0xC012C4b3d253A8F22d5e4ADA67ea2236FF9778fc"
+      ],
+      "ArchlyV2": [
+        "ERRORV2"
+      ],
+      "SushiSwapV2": [
+        "0xD408a20f1213286fB3158a2bfBf5bFfAca8bF269"
+      ],
+      "SurfswapV2": [
+        "0xc449665520C5a40C9E88c7BaDa149f02241B1f9F"
+      ],
+      "JupiterSwapV2": [
+        "0xc08BAEA14C14f25bcafe3e3E05550715505eF3dE"
+      ],
+      "PhotonSwapV2": [
+        "0x4FD2c40c25Dd40e9Bf0CE8479bA384178b8671b5"
+      ]
+    },
+    "ProjectsV3": {
+      "WAGMIV3": [
+        "0x0e0Ce4D450c705F8a0B6Dd9d5123e3df2787D16B"
+      ],
+      "KinetixV3": [
+        "0x2dBB6254231C5569B6A4313c6C1F5Fe1340b35C2"
+      ],
+      "SushiSwapV3": [
+        "0x1e9B24073183d5c6B7aE5FB4b8f0b1dd83FDC77a"
+      ]
+    }
+  },
+  "BNBChain": {
+    "ProjectsV2": {
+      "Nomiswap(Stable)V2": [
+        "0xC6B7ee49D386bAe4FD501F2d2f8d18828F1f6285"
+      ],
+      "BiswapV2": [
+        "0x858E3312ed3A876947EA49d572A7C42DE08af7EE"
+      ],
+      "PancakeswapV1(BSC)V2": [
+        "ERRORV2"
+      ],
+      "MDEX(BSC)V2": [
+        "0x3CD1C46068dAEa5Ebb0d3f55F6915B10648062B8"
+      ],
+      "UniswapV2(BSC)V2": [
+        "0x8909Dc15e40173Ff4699343b6eB8132c65e18eC6"
+      ],
+      "ApeSwap(BSC)V2": [
+        "0x0841BD0B734E4F5853f0dD8d7Ea041c241fb0Da6"
+      ],
+      "THENAV2": [
+        "ERRORV2"
+      ],
+      "AmpleSwap(BSC)V2": [
+        "0x381fEfaDAB5466BFf0e8e96842e8e76A143E8F73"
+      ],
+      "Orion(BSC)V2": [
+        "0xE52cCf7B6cE4817449F2E6fA7efD7B567803E4b4"
+      ],
+      "ImpossibleFinanceV2": [
+        "0x918d7e714243F7d9d463C37e106235dCde294ffC"
+      ],
+      "BakerySwapV2": [
+        "0x01bF7C66c6BD861915CdaaE475042d3c4BaE16A7"
+      ],
+      "NomiswapV2": [
+        "0xd6715A8be3944ec72738F0BFDC739d48C3c29349"
+      ],
+      "DinosaurEggsV2": [
+        "0x73D9F93D53505cB8C4c7f952ae42450d9E859D10"
+      ],
+      "DOOAR(BSC)V2": [
+        "0x1e895bFe59E3A5103e8B7dA3897d1F2391476f3c"
+      ],
+      "Saitaswap(BSC)V2": [
+        "0x6a6DeA0cd52689819eb3Bf2c15594Beafb646CB7"
+      ],
+      "DefinixV2": [
+        "0x43eBb0cb9bD53A3Ed928Dd662095aCE1cef92D19"
+      ],
+      "Fraxswap(BSC)V2": [
+        "0xa007a9716dba05289df85A90d0Fd9D39BEE808dE"
+      ],
+      "WaultFinanceV2": [
+        "0xB42E3FE71b7E0673335b3331B3e1053BD9822570"
+      ],
+      "ElkFinance(BSC)V2": [
+        "0x31aFfd875e9f68cd6Cd12Cee8943566c9A4bBA13"
+      ],
+      "JulSwapV2": [
+        "0x553990F2CBA90272390f62C5BDb1681fFc899675"
+      ],
+      "MarsEcosystemV2": [
+        "0x6f12482D9869303B998C54D91bCD8bCcba81f3bE"
+      ],
+      "OrangeDXV2": [
+        "0xFEf9d38f6105C6Df2ca4274507F62b44E1E06235"
+      ],
+      "Justmoney(BSC)V2": [
+        "0xF2Fb1b5Be475E7E1b3C31082C958e781f73a1712"
+      ],
+      "RadioShack(BSC)V2": [
+        "0x98957ab49b8bc9f7ddbCfD8BcC83728085ecb238"
+      ],
+      "SWYCHV2": [
+        "0x80f112CD8Ac529d6993090A0c9a04E01d495BfBf"
+      ],
+      "LiquidusFinance(BSC)V2": [
+        "0x80CEe6A5c97b1003f272ba8C759a7c17796C2Cdc"
+      ],
+      "WinerySwapV2": [
+        "0x79C342FddBBF376cA6B4EFAc7aaA457D6063F8Cb"
+      ],
+      "InterCroneSwap(BSC)V2": [
+        "0xFa51B0746eb96deBC619Fd2EA88d5D8B43BD8230"
+      ],
+      "AutoSharkFinanceV2": [
+        "0xe759Dd4B9f99392Be64f1050a6A8018f73B53a13"
+      ],
+      "PlanetFinanceV2": [
+        "0xa053582601214FEb3778031a002135cbBB7DBa18"
+      ],
+      "Yoshi.exchange(BSC)V2": [
+        "0x542b6524aBF0Bd47Dc191504E38400Ec14D0290C"
+      ],
+      "KyotoSwapV2": [
+        "0x1c3E50DBBCd05831c3A695d45D2b5bCD691AD8D8"
+      ],
+      "ConeExchangeV2": [
+        "0x0EFc2D2D054383462F2cD72eA2526Ef7687E1016"
+      ],
+      "LiquidCryptoV2": [
+        "0x6D642253B6fD96d9D155279b57B8039675E49D8e"
+      ],
+      "TraderJoe(BSC)V2": [
+        "ERRORV2"
+      ],
+      "Jswap(BSC)V2": [
+        "0xd654CbF99F2907F06c88399AE123606121247D5C"
+      ],
+      "DAOSwapV2": [
+        "0x940BEb635cbEeC04720AC97FADb97205676e6aa4"
+      ],
+      "Firebird(BSC)V2": [
+        "0x5De74546d3B86C8Df7FEEc30253865e1149818C8"
+      ],
+      "NiobV2": [
+        "0xe0636f192a88De6F1c9ed1a6A0F265C9775c8596"
+      ],
+      "PYESwap(BSC)V2": [
+        "0xb664BDCe35b5EE182e8832d4F3b615232e98a51E"
+      ],
+      "StrongHandsDEXV2": [
+        "0xE184a4047DF6d3Fb4AC962A4606D75F5e8e87094"
+      ],
+      "VeplusV2": [
+        "ERRORV2"
+      ],
+      "MoonliftV2": [
+        "0xe9cABbC746C03010020Fd093cD666e40823E0D87"
+      ],
+      "SphynxSwapV2": [
+        "0x8BA1a4C24DE655136DEd68410e222cCA80d43444"
+      ],
+      "W3SwapV2": [
+        "0xD04A80baeeF12fD7b1D1ee6b1f8ad354f81bc4d7"
+      ],
+      "PandoraDigitalSwapV2": [
+        "0xFf9A4E72405Df3ca3D909523229677e6B2b8dC71"
+      ],
+      "DDDXV2": [
+        "ERRORV2"
+      ],
+      "Archly(BSC)V2": [
+        "ERRORV2"
+      ],
+      "CorgiSwapV2": [
+        "0x632F04bd6c9516246c2df373032ABb14159537cd"
+      ],
+      "HowSwapV2": [
+        "0xF4866c04a88Cb593374865D73D7cF5B5B3A9c641"
+      ],
+      "lif3(BSC)V2": [
+        "ERRORV2"
+      ],
+      "EmpireDEX(BSC)V2": [
+        "0x06530550A48F990360DFD642d2132354A144F31d"
+      ],
+      "SpiceTrade(BSC)V2": [
+        "ERRORV2"
+      ],
+      "CreamSwapV2": [
+        "0x8cb25774298ff036A4849C5828b44F8D865e2B40"
+      ],
+      "PipiSwap(BSC)V2": [
+        "0xa08DAF7f1f4bC97fbD6e67B5E6Ff84f4d0F3868c"
+      ],
+      "MagicfoxV2": [
+        "ERRORV2"
+      ],
+      "HKSwapV2": [
+        "0x510EDA2E4a6E559094E82AED878AeAD6C99345B1"
+      ],
+      "WokenExchange(BSC)V2": [
+        "0x0Dee376e1DCB4DAE68837de8eE5aBE27e629Acd0"
+      ]
+    },
+    "ProjectsV3": {
+      "UnchainXV3": [
+        "0x82fA7b2Ce2A76C7888A9D3B0a81E0b2ecfd8d40c"
+      ],
+      "THENAFUSIONV3": [
+        "0x306F06C147f064A010530292A1EB6737c3e378e4"
+      ],
+      "Lif3V3(BSC)V3": [
+        "0xc84ab9ABCCc3F35D5F8bDD328ed7e20Bc5b81ce4"
+      ],
+      "SquadSwapV3": [
+        "0x009c4ef7C0e0Dd6bd1ea28417c01Ea16341367c3"
+      ],
+      "SMBSwapV3(BSC)V3": [
+        "0xa9B5d4eAc94cB98117ABdcC0EcBD7731960F91D9"
+      ]
+    }
+  }
+}

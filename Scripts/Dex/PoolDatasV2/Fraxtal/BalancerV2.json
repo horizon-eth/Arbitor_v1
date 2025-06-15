@@ -1,0 +1,32 @@
+[
+  {
+    "pool_address": "0x1570315476480fA80ceC1FFF07A20c1df1aDfD53",
+    "pool_id": "0x1570315476480fa80cec1fff07a20c1df1adfd53000200000000000000000009",
+    "pool_fee": "0.0005",
+    "pool_name": "sfrxETH / sFRAX - fee: 0.0005",
+    "project_name": "BalancerV2",
+    "weight0": "500000000000000000",
+    "token0_symbol": "SFRXETH",
+    "token0_address": "0xFC00000000000000000000000000000000000005",
+    "token0_decimal": 18,
+    "weight1": "500000000000000000",
+    "token1_symbol": "SFRAX",
+    "token1_address": "0xfc00000000000000000000000000000000000008",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0xAf125dc597aeAc3d3f9f467584275bFAa8B9c08d",
+    "pool_id": "0xaf125dc597aeac3d3f9f467584275bfaa8b9c08d000200000000000000000004",
+    "pool_fee": "0.0025",
+    "pool_name": "USDC / wfrxETH - fee: 0.0025",
+    "project_name": "BalancerV2",
+    "weight0": "500000000000000000",
+    "token0_symbol": "USDC",
+    "token0_address": "0xDcc0F2D8F90FDe85b10aC1c8Ab57dc0AE946A543",
+    "token0_decimal": 6,
+    "weight1": "500000000000000000",
+    "token1_symbol": "WFRXETH",
+    "token1_address": "0xFC00000000000000000000000000000000000006",
+    "token1_decimal": 18
+  }
+]

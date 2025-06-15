@@ -1,0 +1,13 @@
+[
+  {
+    "pool_address": "0xAe00af61bE6861eE956C8e56BF22144d024acb57",
+    "pool_name": "POL / USDC",
+    "project_name": "ClipperV2",
+    "token0_symbol": "POL",
+    "token0_address": "0x22B21BedDef74FE62F031D2c5c8F7a9F8a4b304D",
+    "token0_decimal": 18,
+    "token1_symbol": "USDC",
+    "token1_address": "0x37eAA0eF3549a5Bb7D431be78a3D99BD360d19e5",
+    "token1_decimal": 6
+  }
+]

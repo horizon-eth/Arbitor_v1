@@ -1,0 +1,35 @@
+[
+  {
+    "pool_address": "0xE0a2804F75abFde2F65CfA1a2C69c234A13e703C",
+    "pool_name": "USDB / WETH",
+    "project_name": "BlastDexV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "WETH",
+    "token1_address": "0x4300000000000000000000000000000000000004",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x2aeeb42817550d29AF8cA0bACcb3403846687CDe",
+    "pool_name": "WETH / BD",
+    "project_name": "BlastDexV2",
+    "token0_symbol": "WETH",
+    "token0_address": "0x4300000000000000000000000000000000000004",
+    "token0_decimal": 18,
+    "token1_symbol": "BD",
+    "token1_address": "0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88",
+    "token1_decimal": 18
+  },
+  {
+    "pool_address": "0x96340c9215279b37Fc60c66454820C861DFC410a",
+    "pool_name": "USDB / BD",
+    "project_name": "BlastDexV2",
+    "token0_symbol": "USDB",
+    "token0_address": "0x4300000000000000000000000000000000000003",
+    "token0_decimal": 18,
+    "token1_symbol": "BD",
+    "token1_address": "0x60701c37Cd9Fed322dDe7c17Dc1e356f09a35B88",
+    "token1_decimal": 18
+  }
+]
