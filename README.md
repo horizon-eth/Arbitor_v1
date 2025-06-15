@@ -2,6 +2,8 @@
 
 ## Author: [Horizon](https://www.linkedin.com/in/ufukyldrm/)
 
+### Made Public at 16.06.2025
+
 ## Prerequisities
 
 -   Node.js v18 or above
